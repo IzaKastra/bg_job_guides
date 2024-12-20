@@ -81,7 +81,7 @@ Storm II spell and Klimaform were enabled on all sets. Ebullience was only enabl
         |Set Name= Helix[[Helix|*]]
         |Set Border Color=#51414F
         |Equipment Set=
-            {{
+        {{
             Equipment Set
             |CaptionTop = Helix Nuke
             |CaptionBottom =
@@ -99,7 +99,7 @@ Storm II spell and Klimaform were enabled on all sets. Ebullience was only enabl
             |Ring2 = Freke Ring
             |Back = Lugh's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Hachirin-no-Obi
+            |Waist = Skrymir Cord +1
             |Legs = Arbatel Pants +3
             |Feet = Arbatel Loafers +3
             |List = Y
@@ -123,7 +123,7 @@ Storm II spell and Klimaform were enabled on all sets. Ebullience was only enabl
             |Ring2 = Mujin Band
             |Back = Lugh's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Hachirin-no-Obi
+            |Waist = Skrymir Cord +1
             |Legs = Arbatel Pants +3
             |Feet = Arbatel Loafers +3
             |List = Y
