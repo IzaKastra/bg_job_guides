@@ -22,26 +22,27 @@ Casting sets used Crooked 10-Wizard's roll and 9-Warlocks roll with job bonuses 
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = High Buff
+            |CaptionTop = Free Nuke
             |CaptionBottom =
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
-            |Ammo = Ghastly Tathlum +1
+            |Ammo = Sroda Tathlum
             |Head = Agwu's Cap
             |Neck = Src. Stole +2
-            |Ear1 = Malignance Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Regal Earring
+            |Ear2 = Malignance Earring
             |Body = Wicce Coat +3
             |Hands = Wicce Gloves +3
-            |Ring1 = Freke Ring
-            |Ring2 = Metamor. Ring +1
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Freke Ring
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Orpheus's Sash
+            |Waist = Acuity Belt +1
             |Legs = Wicce Chausses +3
             |Feet = Agwu's Pigaches
             |List = Y
+            |Background =
         }}
         {{
             Equipment Set
@@ -61,14 +62,15 @@ Casting sets used Crooked 10-Wizard's roll and 9-Warlocks roll with job bonuses 
             |Ring2 = Metamor. Ring +1
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Orpheus's Sash
+            |Waist = Skrymir Cord +1
             |Legs = Wicce Chausses +3
             |Feet = Agwu's Pigaches
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH vs 280 INT
-        Updated 2024 Nov. 24
+        Day or Weather active: [[Hachirin-no-Obi]]
+        Updated 2024 Dec. 19
     }}
 
 
