@@ -6,6 +6,8 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
 True Shot was not enabled for any ranged sets.
 
+Corsair sets found against an enemy with 1300 Evasion and 1450 Defense due to a lack of Ranged Accuracy+ with standard buffs defined on the main page.
+
 {{Guide Equipment Set Table
     |Header Notes=
     |Guide Equipment Sets=
@@ -419,11 +421,12 @@ True Shot was not enabled for any ranged sets.
             |CaptionBottom =
             |Main = Tauret
             |Sub = Gleti's Knife
-            |Range = Earp (Level 119 II)
+            |Range = Molybdosis
             |Ammo = Bayeux Bullet
             |Head = Adhemar Bonnet +1
+            |HeadAug = Path B
             |Neck = Fotia Gorget
-            |Ear1 = Mache Earring +1
+            |Ear1 = Moonshade Earring
             |Ear2 = Odr Earring
             |Body = Ikenga's Vest
             |Hands = Chasseur's Gants +3
@@ -434,6 +437,7 @@ True Shot was not enabled for any ranged sets.
             |Waist = Fotia Belt
             |Legs = Zoar Subligar +1
             |Feet = Adhe. Gamashes +1
+            |FeetAug = Path B
             |List = Y
             |Background =
         }}
@@ -441,29 +445,28 @@ True Shot was not enabled for any ranged sets.
             Equipment Set
             |CaptionTop = High Buff
             |CaptionBottom =
-            |Main = Naegling
-            |Sub = Tauret
-            |Range = Death Penalty (Level 119 III)
-            |Ammo = Living Bullet
-            |Head = Pixie Hairpin +1
-            |Neck = Comm. Charm +2
+            |Main = Tauret
+            |Sub = Gleti's Knife
+            |Range = Molybdosis
+            |Ammo = Bayeux Bullet
+            |Head = Adhemar Bonnet +1
+            |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Friomisi Earring
-            |Body = Lanun Frac +3
-            |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Dingir Ring
+            |Ear2 = Odr Earring
+            |Body = Ikenga's Vest
+            |Hands = Mummu Wrists +2
+            |Ring1 = Epona's Ring
+            |Ring2 = Mummu Ring
             |Back = Camulus's Mantle
-            |BackAug = AGI, Weapon Skill Damage
-            |Waist = Orpheus's Sash
-            |Legs = Nyame Flanchard
-            |Feet = Lanun Bottes +3
+            |BackAug = DEX, Crit Rate
+            |Waist = Fotia Belt
+            |Legs = Zoar Subligar +1
+            |Feet = Mummu Gamash. +2
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 COR/DNC: 1700 TP
-        Updated 2024 Nov. 23
+        Updated 2024 Dec. 19
     }}
-
 
 }}
