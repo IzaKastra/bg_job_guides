@@ -901,4 +901,65 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlock
     }}
 
 
+    {{
+        Guide Equipment Set
+        |Set Name Background=#601818
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Naegling TP set
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 3.289 s
+            |Main = Naegling
+            |Sub = Thibron
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Bunzi's Hat
+            |Neck = Anu Torque
+            |Ear1 = Dedition Earring
+            |Ear2 = Sherida Earring
+            |Body = Malignance Tabard
+            |Hands = Malignance Gloves
+            |Ring1 = Defending Ring
+            |Ring2 = Petrov Ring
+            |Back = Sucellos's Cape
+            |BackAug = DEX, Dual Wield
+            |Waist = Windbuffet Belt +1
+            |Legs = Malignance Tights
+            |Feet = Malignance Boots
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 3.183 s
+            |Main = Naegling
+            |Sub = Thibron
+            |Range =
+            |Ammo = Aurgelmir Orb +1
+            |Head = Bunzi's Hat
+            |Neck = Anu Torque
+            |Ear1 = Dedition Earring
+            |Ear2 = Sherida Earring
+            |Body = Malignance Tabard
+            |Hands = Malignance Gloves
+            |Ring1 = Chirich Ring +1
+            |Ring2 = Petrov Ring
+            |Back = Sucellos's Cape
+            |BackAug = DEX, Dual Wield
+            |Waist = Windbuffet Belt +1
+            |Legs = Malignance Tights
+            |Feet = Carmine Greaves +1
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RDM/NIN: 1000 TP
+        Updated 2025 Jan. 05
+    }}
+
+
 }}
