@@ -567,4 +567,70 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         Updated 2024 Nov. 23
     }}
 
+
+
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#a05028
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Godhands TP set
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 3.163 s
+            |Main = Godhands
+            |Sub =
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Mpaca's Cap
+            |Neck = Mnk. Nodowa +2
+            |Ear1 = Sherida Earring
+            |Ear2 = Schere Earring
+            |Body = Mpaca's Doublet
+            |Hands = Adhemar Wrist. +1
+            |HandsAug = Path B
+            |Ring1 = Epona's Ring
+            |Ring2 = Gere Ring
+            |Back = Segomo's Mantle
+            |BackAug = DEX, Store TP
+            |Waist = Moonbow Belt +1
+            |Legs = Bhikku Hose +3
+            |Feet = Malignance Boots
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 3.055 s
+            |Main = Godhands
+            |Sub =
+            |Range =
+            |Ammo = Aurgelmir Orb +1
+            |Head = Adhemar Bonnet +1
+            |HeadAug = Path A
+            |Neck = Mnk. Nodowa +2
+            |Ear1 = Schere Earring
+            |Ear2 = Sherida Earring
+            |Body = Tatena. Harama. +1
+            |Hands = Adhemar Wrist. +1
+            |HandsAug = Path B
+            |Ring1 = Epona's Ring
+            |Ring2 = Gere Ring
+            |Back = Segomo's Mantle
+            |BackAug = DEX, Store TP
+            |Waist = Moonbow Belt +1
+            |Legs = Bhikku Hose +3
+            |Feet = Tatena. Sune. +1
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 MNK/SAM: 1000 TP
+        Updated 2025 Jan. 05
+    }}
 }}
