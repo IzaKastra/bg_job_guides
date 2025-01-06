@@ -543,4 +543,68 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
     }}
 
 
+
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384048
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Twashtar TP set
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 2.830 s
+            |Main = Twashtar (Level 119 III)
+            |Sub = Jugo Kukri +1
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Skulker's Bonnet +3
+            |Neck = Asn. Gorget +2
+            |Ear1 = Sherida Earring
+            |Ear2 = Skulk. Earring +1
+            |Body = Malignance Tabard
+            |Hands = Malignance Gloves
+            |Ring1 = Defending Ring
+            |Ring2 = Moonlight Ring
+            |Back = Toutatis's Cape
+            |BackAug = DEX, Store TP
+            |Waist = Reiki Yotai
+            |Legs = Malignance Tights
+            |Feet = Malignance Boots
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 2.561 s
+            |Main = Twashtar (Level 119 III)
+            |Sub = Jugo Kukri +1
+            |Range =
+            |Ammo = Aurgelmir Orb +1
+            |Head = Skulker's Bonnet +3
+            |Neck = Asn. Gorget +2
+            |Ear1 = Dedition Earring
+            |Ear2 = Skulk. Earring +1
+            |Body = Malignance Tabard
+            |Hands = Adhemar Wrist. +1
+            |HandsAug = Path A
+            |Ring1 = Moonlight Ring
+            |Ring2 = Gere Ring
+            |Back = Toutatis's Cape
+            |BackAug = DEX, Store TP
+            |Waist = Reiki Yotai
+            |Legs = Samnuha Tights
+            |Feet = Malignance Boots
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 THF/DRG: 1000 TP
+        Updated 2025 Jan. 05
+    }}
+
 }}
