@@ -955,4 +955,68 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         |Equipment Set Notes=ML30 WAR/DRG: 1200 TP
         Updated 2024 Nov. 23
     }}
+
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#604028
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Chango TP set
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 2.665 s
+            |Main = Chango
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Hjarrandi Helm
+            |Neck = Vim Torque +1
+            |Ear1 = Schere Earring
+            |Ear2 = Boii Earring +1
+            |Body = Boii Lorica +3
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Moonlight Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Cichol's Mantle
+            |BackAug = DEX, DA
+            |Waist = Sailfi Belt +1
+            |Legs = Pumm. Cuisses +3
+            |Feet = Pumm. Calligae +3
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 2.627 s
+            |Main = Chango
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Flam. Zucchetto +2
+            |Neck = Vim Torque +1
+            |Ear1 = Schere Earring
+            |Ear2 = Boii Earring +1
+            |Body = Tatena. Harama. +1
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Moonlight Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Cichol's Mantle
+            |BackAug = DEX, DA
+            |Waist = Ioskeha Belt +1
+            |Legs = Pumm. Cuisses +3
+            |Feet = Pumm. Calligae +3
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 WAR/SAM: 1000 TP
+        Updated 2025 Jan. 05
+    }}
+
+
 }}
