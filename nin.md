@@ -695,7 +695,8 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR. Suiton: San
+        |Equipment Set Notes=ML30 NIN/WAR. (Suiton: San)
+
 Gyve is only 3% stronger than Nyame for free nuking, but Gyve has zero magic accuracy.
 Updated 2025 Feb. 26
     }}
