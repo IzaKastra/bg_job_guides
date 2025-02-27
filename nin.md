@@ -6,7 +6,10 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
 Hitaki (TP Bonus +1000) was excluded from these sets. It will likely be the strongest off-hand option for all "Damage Varies with TP" weapon skills when you have the accuracy for it, though.
 
-See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damage Formulae. (FFXIAH)]
+See also: [https://github.com/IzaKastra/gearswap_lua/blob/main/Kastra_NIN.lua Kastra's Ninja GearSwap LUA file (GitHub)]
+
+See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-formulae/ Kastra's ninjutsu damage testing (FFXIAH)]
+
 
 {{Guide Equipment Set Table
     |Header Notes=
@@ -22,7 +25,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionBottom = 19777 damage
             |Main = Heishi Shorinken
             |Sub = Gleti's Knife
             |Range =
@@ -46,7 +49,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 20765 damage
             |Main = Heishi Shorinken
             |Sub = Crepuscular Knife
             |Range =
@@ -68,9 +71,8 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Feb. 26
     }}
-
 
 
     {{
@@ -84,7 +86,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionBottom = 35477 damage
             |Main = Heishi Shorinken
             |Sub = Kunimitsu
             |Range =
@@ -108,7 +110,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 43595 damage
             |Main = Heishi Shorinken
             |Sub = Kunimitsu
             |Range =
@@ -130,10 +132,11 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1900 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Feb. 26
     }}
 
 
+    
     {{
         Guide Equipment Set
         |Set Name Background=#384820
@@ -145,7 +148,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionBottom = 27648 damage
             |Main = Kikoku (Level 119 III)
             |Sub = Kunimitsu
             |Range =
@@ -169,7 +172,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 33938 damage
             |Main = Kikoku (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
@@ -191,9 +194,8 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Feb. 26
     }}
-
 
 
     {{
@@ -207,7 +209,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionBottom = 30023 damage
             |Main = Dokoku (Level 119 II)
             |Sub = Kunimitsu
             |Range =
@@ -231,7 +233,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 41188 damage
             |Main = Dokoku (Level 119 II)
             |Sub = Crepuscular Knife
             |Range =
@@ -252,9 +254,10 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1900 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 NIN/WAR: 1900 TP + Aftermath Level 3
+        Updated 2025 Feb. 26
     }}
+    
     
     {{
         Guide Equipment Set
@@ -267,7 +270,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionBottom = 21624 damage
             |Main = Gokotai
             |Sub = Kunimitsu
             |Range =
@@ -291,12 +294,12 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 28145 damage
             |Main = Gokotai
             |Sub = Crepuscular Knife
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Mpaca's Cap
+            |Head = Blistering Sallet +1
             |Neck = Ninja Nodowa +2
             |Ear1 = Lugra Earring +1
             |Ear2 = Hattori Earring +1
@@ -313,9 +316,10 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Feb. 26
     }}
-    
+
+
     {{
         Guide Equipment Set
         |Set Name Background=#384820
@@ -327,7 +331,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionBottom = 24826 damage
             |Main = Kannagi (Level 119 III)
             |Sub = Gleti's Knife
             |Range =
@@ -351,7 +355,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 27092 damage
             |Main = Kannagi (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
@@ -373,7 +377,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Feb. 26
     }}
 
 
@@ -389,7 +393,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionBottom = 15835 damage
             |Main = Nagi (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
@@ -413,7 +417,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 16006 damage
             |Main = Nagi (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
@@ -434,10 +438,9 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 NIN/WAR: 1200 TP + Aftermath Level 3
+        Updated 2025 Feb. 26
     }}
-
 
 
     {{
@@ -451,19 +454,19 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionBottom = 46138 damage
             |Main = Naegling
-            |Sub = Gleti's Knife
+            |Sub = Kunimitsu
             |Range =
-            |Ammo = Coiste Bodhar
+            |Ammo = Seeth. Bomblet +1
             |Head = Mpaca's Cap
-            |Neck = Fotia Gorget
+            |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
             |Ear2 = Lugra Earring +1
             |Body = Nyame Mail
-            |Hands = Adhemar Wrist. +1
-            |Ring1 = Gere Ring
-            |Ring2 = Regal Ring
+            |Hands = Nyame Gauntlets
+            |Ring1 = Sroda Ring
+            |Ring2 = Gere Ring
             |Back = Andartia's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -475,7 +478,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 54349 damage
             |Main = Naegling
             |Sub = Kunimitsu
             |Range =
@@ -497,9 +500,8 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1900 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Feb. 26
     }}
-    
 
 
     {{
@@ -507,13 +509,13 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         |Set Name Background=#384820
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Blade: Chi[[Blade: Chi|*]]/Teki[[Blade: Teki|*]]/To[[Blade: To|*]]
+        |Set Name= Blade: Chi[[Blade: Chi|*]] (/Teki[[Blade: Teki|*]]/To[[Blade: To|*]])
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
             |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionBottom = 78560 damage
             |Main = Heishi Shorinken
             |Sub = Kunimitsu
             |Range =
@@ -537,7 +539,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 92178 damage
             |Main = Heishi Shorinken
             |Sub = Kunimitsu
             |Range =
@@ -559,7 +561,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1900 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Feb. 26
     }}
 
 
@@ -574,7 +576,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 17923 damage
             |Main = Heishi Shorinken
             |Sub = Malevolence
             |Range =
@@ -596,10 +598,10 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1900 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Feb. 26
     }}
-
-
+    
+    
     {{
         Guide Equipment Set
         |Set Name Background=#384820
@@ -611,8 +613,8 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Malevolence
+            |CaptionBottom = 11998 damage
+            |Main = Tauret
             |Sub = Kunimitsu
             |Range =
             |Ammo = Ghastly Tathlum +1
@@ -632,24 +634,25 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1900 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
+        Updated 2025 Feb. 26
     }}
+
 
     {{
         Guide Equipment Set
         |Set Name Background=#384820
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Ninjutsu[[Ninjutsu|*]]
+        |Set Name= Ninjutsu[[Ninjutsu|*]] (San/Ni)
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 
+            |CaptionBottom = 10191 damage
             |Main = Gokotai
-            |Sub = Naegling
+            |Sub = Tauret
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Mochi. Hatsuburi +3
@@ -658,10 +661,10 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Ear2 = Friomisi Earring
             |Body = Gyve Doublet
             |Hands = Nyame Gauntlets
-            |Ring1 = Shiva Ring +1
-            |Ring2 = Metamor. Ring +1
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Shiva Ring +1
             |Back = Andartia's Mantle
-            |BackAug = INT
+            |BackAug = INT, Magic Attack
             |Waist = Orpheus's Sash
             |Legs = Gyve Trousers
             |Feet = Mochi. Kyahan +3
@@ -671,9 +674,9 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom =
+            |CaptionBottom = 18578 damage
             |Main = Kunimitsu
-            |Sub = Gokotai
+            |Sub = Tauret
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Mochi. Hatsuburi +3
@@ -685,17 +688,18 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Ring1 = Metamor. Ring +1
             |Ring2 = Mujin Band
             |Back = Andartia's Mantle
-            |BackAug = INT
+            |BackAug = INT, Magic Attack
             |Waist = Orpheus's Sash
             |Legs = Nyame Flanchard
             |Feet = Mochi. Kyahan +3
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1900 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 NIN/WAR. Suiton: San
+Gyve is only 3% stronger than Nyame for free nuking, but Gyve has zero magic accuracy.
+Updated 2025 Feb. 26
     }}
-
+    
 
     {{
         Guide Equipment Set
@@ -707,16 +711,16 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = High Buff
+            |CaptionBottom = 21678 damage
             |Main = Karambit
             |Sub =
             |Range =
             |Ammo = Seeth. Bomblet +1
             |Head = Hattori Zukin +3
             |Neck = Fotia Gorget
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Mache Earring +1
+            |Ear1 = Mache Earring +1
+            |Ear2 = Lugra Earring +1
             |Body = Hattori Ningi +3
             |Hands = Hattori Tekko +3
             |Ring1 = Gere Ring
@@ -732,7 +736,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 31083 damage
             |Main = Karambit
             |Sub =
             |Range =
@@ -754,7 +758,7 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/MNK: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Feb. 26
     }}
 
 
@@ -769,13 +773,12 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
         {{
             Equipment Set
             |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionBottom = 28326 damage
             |Main = Tauret
             |Sub = Gleti's Knife
             |Range =
             |Ammo = Yetshila +1
             |Head = Adhemar Bonnet +1
-            |HeadAug = Path B
             |Neck = Fotia Gorget
             |Ear1 = Lugra Earring +1
             |Ear2 = Hattori Earring +1
@@ -791,17 +794,16 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Feet = Ken. Sune-Ate +1
             |List = Y
             |Background =
-        }}        
+        }}
         {{
             Equipment Set
             |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionBottom = 29728 damage
             |Main = Tauret
             |Sub = Gleti's Knife
             |Range =
             |Ammo = Yetshila +1
             |Head = Adhemar Bonnet +1
-            |HeadAug = Path B
             |Neck = Ninja Nodowa +2
             |Ear1 = Lugra Earring +1
             |Ear2 = Hattori Earring +1
@@ -819,7 +821,8 @@ See also: [https://www.ffxiah.com/forum/forum/67/ninja/ | Updated Ninjutsu Damag
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP + [[Innin|Innin]]
-        Updated 2024 Nov. 23
+        Updated 2025 Feb. 26
     }}
+
 
 }}
