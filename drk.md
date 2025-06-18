@@ -905,7 +905,6 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ring1 = Crepuscular Ring
             |Ring2 = Niqmaddu Ring
             |Back = Null Shawl
-            |BackAug = DA, Store TP
             |Waist = Ioskeha Belt +1
             |Legs = Sakpata's Cuisses
             |Feet = Sakpata's Leggings
@@ -929,7 +928,6 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ring1 = Petrov Ring
             |Ring2 = Niqmaddu Ring
             |Back = Null Shawl
-            |BackAug = DA, Store TP
             |Waist = Ioskeha Belt +1
             |Legs = Sakpata's Cuisses
             |Feet = Sakpata's Leggings
