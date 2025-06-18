@@ -146,15 +146,15 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 26266 damage
+            |CaptionBottom = 27843 damage
             |Main = Kikoku (Level 119 III)
             |Sub = Kunimitsu
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Hachi. Hatsu. +4
             |Neck = Ninja Nodowa +2
-            |Ear1 = Odr Earring
-            |Ear2 = Lugra Earring +1
+            |Ear1 = Lugra Earring +1
+            |Ear2 = Domin. Earring +1
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
@@ -170,7 +170,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 34473 damage
+            |CaptionBottom = 34594 damage
             |Main = Kikoku (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
@@ -182,7 +182,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Body = Malignance Tabard
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
-            |Ring2 = Regal Ring
+            |Ring2 = Gere Ring
             |Back = Andartia's Mantle
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Kentarch Belt +1
@@ -191,7 +191,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1200 TP + AM1
+        |Equipment Set Notes=ML30 NIN/WAR: 1200 TP + Aftermath Level 1
         Updated 2025 Jun. 17
     }}
 
@@ -251,7 +251,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1900 TP + AM2
+        |Equipment Set Notes=ML30 NIN/WAR: 1900 TP + Aftermath Level 2
         Updated 2025 Jun. 17
     }}    
     
