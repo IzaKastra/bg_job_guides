@@ -82,7 +82,7 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 31352 damage
+            |CaptionBottom = 46812 damage
             |Main = Foenaria (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -94,7 +94,7 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring2 = Regal Ring
             |Back = Ankou's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -683,10 +683,13 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set Notes=ML30 DRK/SAM: 1900 TP
         Updated 2025 Jun. 18
     }}
+}}
 
 
 
-
+{{Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
     {{
         Guide Equipment Set
         |Set Name Background=#383028
@@ -776,7 +779,7 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ring1 = Moonlight Ring
             |Ring2 = Niqmaddu Ring
             |Back = Ankou's Mantle
-            |BackAug = INT, DA
+            |BackAug = DEX, DA
             |Waist = Ioskeha Belt +1
             |Legs = Sakpata's Cuisses
             |Feet = Carmine Greaves +1
@@ -877,5 +880,64 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
     }}
 
 
+    {{
+        Guide Equipment Set
+        |Set Name Background=#383028
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= 5/5 Sakpata TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop =
+            |CaptionBottom = 3.576 s
+            |Main = Foenaria (Level 119 II)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Seeth. Bomblet +1
+            |Head = Sakpata's Helm
+            |Neck = Vim Torque +1
+            |Ear1 = Schere Earring
+            |Ear2 = Dedition Earring
+            |Body = Sakpata's Plate
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Crepuscular Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Null Shawl
+            |BackAug = DA, Store TP
+            |Waist = Ioskeha Belt +1
+            |Legs = Sakpata's Cuisses
+            |Feet = Sakpata's Leggings
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop =
+            |CaptionBottom = 3.607 s
+            |Main = Caladbolg (Level 119 III)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Seeth. Bomblet +1
+            |Head = Sakpata's Helm
+            |Neck = Vim Torque +1
+            |Ear1 = Schere Earring
+            |Ear2 = Dedition Earring
+            |Body = Sakpata's Plate
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Petrov Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Null Shawl
+            |BackAug = DA, Store TP
+            |Waist = Ioskeha Belt +1
+            |Legs = Sakpata's Cuisses
+            |Feet = Sakpata's Leggings
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 DRK/SAM: 1000 TP
+        Updated 2025 Jun. 18
+    }}
 
 }}
