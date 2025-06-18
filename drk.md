@@ -20,8 +20,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 26707 damage
             |Main = Apocalypse (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -44,8 +44,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 36477 damage
             |Main = Apocalypse (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -66,11 +66,11 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 DRK/SAM: 1200 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 DRK/SAM: 1200 TP + Aftermath Level 1
+        Updated 2025 Jun. 18
     }}
-    
 
+    
     {{
         Guide Equipment Set
         |Set Name Background=#383028
@@ -81,8 +81,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 31352 damage
             |Main = Foenaria (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -94,20 +94,20 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
-            |Ring2 = Regal Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Ankou's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Fall. Flanchard +4
             |Feet = Heath. Sollerets +3
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Foenaria (Level 119 II)
+            |CaptionTop = High buff
+            |CaptionBottom = 67428 damage
+            |Main = Foenaria (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Knobkierrie
@@ -127,8 +127,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 DRK/SAM: 1900 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 DRK/SAM: 1900 TP + Aftermath Level 2
+        Updated 2025 Jun. 18
     }}
 
     
@@ -142,8 +142,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 32648 damage
             |Main = Anguta
             |Sub = Utu Grip
             |Range =
@@ -166,8 +166,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 47108 damage
             |Main = Anguta
             |Sub = Utu Grip
             |Range =
@@ -177,8 +177,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ear1 = Moonshade Earring
             |Ear2 = Heath. Earring +1
             |Body = Sakpata's Plate
-            |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Metamor. Ring +1
             |Ring2 = Niqmaddu Ring
             |Back = Ankou's Mantle
             |BackAug = INT, DA
@@ -189,7 +189,7 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Background =
         }}
         |Equipment Set Notes=ML30 DRK/SAM: 1900 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 18
     }}
     
     
@@ -203,13 +203,13 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 30598 damage
             |Main = Redemption (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Knobkierrie
-            |Head = Ratri Sallet +1
+            |Head = Heath. Bur. +3
             |Neck = Abyssal Beads +2
             |Ear1 = Moonshade Earring
             |Ear2 = Heath. Earring +1
@@ -227,8 +227,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 32834 damage
             |Main = Redemption (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -250,7 +250,7 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Background =
         }}
         |Equipment Set Notes=ML30 DRK/SAM: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 18
     }}
 
 
@@ -265,8 +265,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 43209 damage
             |Main = Anguta
             |Sub = Utu Grip
             |Range =
@@ -277,8 +277,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ear2 = Thrud Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Regal Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Regal Ring
             |Back = Ankou's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -289,8 +289,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 59087 damage
             |Main = Anguta
             |Sub = Utu Grip
             |Range =
@@ -312,7 +312,7 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Background =
         }}
         |Equipment Set Notes=ML30 DRK/SAM: 1900 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 18
     }}
 
 
@@ -328,16 +328,16 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 35910 damage
             |Main = Liberator (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Knobkierrie
-            |Head = Ratri Sallet +1
+            |Head = Heath. Bur. +3
             |Neck = Abyssal Beads +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Thrud Earring
+            |Ear2 = Schere Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Niqmaddu Ring
@@ -352,12 +352,12 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 49158 damage
             |Main = Liberator (Level 119 III)
             |Sub = Utu Grip
             |Range =
-            |Ammo = Crepuscular Pebble
+            |Ammo = Knobkierrie
             |Head = Heath. Bur. +3
             |Neck = Abyssal Beads +2
             |Ear1 = Moonshade Earring
@@ -369,16 +369,16 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Back = Ankou's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Sakpata's Cuisses
             |Feet = Heath. Sollerets +3
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 DRK/SAM: 1900 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 18
     }}
 
-
+    
     {{
         Guide Equipment Set
         |Set Name Background=#383028
@@ -389,8 +389,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 35681 damage
             |Main = Caladbolg (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -399,22 +399,22 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Neck = Abyssal Beads +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Nyame Mail
+            |Body = Ig. Cuirass +4
             |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Regal Ring
+            |Ring1 = Regal Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Ankou's Mantle
             |BackAug = VIT, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Fall. Flanchard +4
             |Feet = Heath. Sollerets +3
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 45278 damage
             |Main = Caladbolg (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -430,13 +430,13 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Back = Ankou's Mantle
             |BackAug = VIT, Weapon Skill Damage
             |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
+            |Legs = Fall. Flanchard +4
             |Feet = Heath. Sollerets +3
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 DRK/SAM: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 18
     }}
 
 
@@ -450,8 +450,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 47155 damage
             |Main = Helheim (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -460,22 +460,22 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Neck = Abyssal Beads +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Nyame Mail
+            |Body = Ig. Cuirass +4
             |Hands = Nyame Gauntlets
             |Ring1 = Regal Ring
             |Ring2 = Niqmaddu Ring
             |Back = Ankou's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Fall. Flanchard +4
             |Feet = Heath. Sollerets +3
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 63361 damage
             |Main = Helheim (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -484,20 +484,20 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Neck = Abyssal Beads +2
             |Ear1 = Moonshade Earring
             |Ear2 = Heath. Earring +1
-            |Body = Nyame Mail
+            |Body = Ig. Cuirass +4
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Ankou's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Fall. Flanchard +4
             |Feet = Heath. Sollerets +3
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 DRK/SAM: 1900 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 DRK/SAM: 1900 TP + Aftermath Level 2
+        Updated 2025 Jun. 18
     }}
 
 
@@ -511,32 +511,32 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 27012 damage
             |Main = Ragnarok (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Knobkierrie
             |Head = Nyame Helm
             |Neck = Abyssal Beads +2
-            |Ear1 = Thrud Earring
-            |Ear2 = Heath. Earring +1
-            |Body = Nyame Mail
+            |Ear1 = Schere Earring
+            |Ear2 = Thrud Earring
+            |Body = Ig. Cuirass +4
             |Hands = Nyame Gauntlets
-            |Ring1 = Niqmaddu Ring
-            |Ring2 = Regal Ring
+            |Ring1 = Regal Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Ankou's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Fall. Flanchard +4
             |Feet = Heath. Sollerets +3
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 34943 damage
             |Main = Ragnarok (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -557,9 +557,11 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 DRK/SAM: 1200 TP
-        Updated 2024 Nov. 23
-    }} 
+        |Equipment Set Notes=ML30 DRK/SAM: 1200 TP + Aftermath Level 1
+        Updated 2025 Jun. 18
+    }}
+    
+    
     {{
         Guide Equipment Set
         |Set Name Background=#383028
@@ -570,8 +572,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 33441 damage
             |Main = Agwu's Claymore
             |Sub = Rigorous Grip +1
             |Range =
@@ -594,8 +596,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 52988 damage
             |Main = Agwu's Claymore
             |Sub = Rigorous Grip +1
             |Range =
@@ -612,14 +614,13 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |BackAug = STR, DA
             |Waist = Fotia Belt
             |Legs = Sakpata's Cuisses
-            |Feet = Heath. Sollerets +3
+            |Feet = Sakpata's Leggings
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 DRK/SAM: 1900 TP
-        Updated 2024 Nov. 23
-    }}
-    
+        Updated 2025 Jun. 18
+    }}    
 
 
 
@@ -633,8 +634,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 40746 damage
             |Main = Loxotic Mace +1
             |Sub = Blurred Shield +1
             |Range =
@@ -643,7 +644,7 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Neck = Abyssal Beads +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Nyame Mail
+            |Body = Ig. Cuirass +4
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
@@ -657,8 +658,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 57074 damage
             |Main = Loxotic Mace +1
             |Sub = Blurred Shield +1
             |Range =
@@ -667,7 +668,7 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Neck = Abyssal Beads +2
             |Ear1 = Moonshade Earring
             |Ear2 = Heath. Earring +1
-            |Body = Nyame Mail
+            |Body = Ig. Cuirass +4
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
@@ -680,6 +681,201 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Background =
         }}
         |Equipment Set Notes=ML30 DRK/SAM: 1900 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 18
     }}
+
+
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#383028
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Liberator AM3 TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 2.756 s
+            |Main = Liberator (Level 119 III)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Aurgelmir Orb +1
+            |Head = Flam. Zucchetto +2
+            |Neck = Vim Torque +1
+            |Ear1 = Dedition Earring
+            |Ear2 = Schere Earring
+            |Body = Hjarrandi Breast.
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Moonlight Ring
+            |Ring2 = Moonlight Ring
+            |Back = Ankou's Mantle
+            |BackAug = DEX, Store TP
+            |Waist = Sailfi Belt +1
+            |Legs = Heath. Flanchard +3
+            |Feet = Carmine Greaves +1
+            |FeetAug = Path B
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 2.666 s
+            |Main = Liberator (Level 119 III)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Aurgelmir Orb +1
+            |Head = Flam. Zucchetto +2
+            |Neck = Vim Torque +1
+            |Ear1 = Dedition Earring
+            |Ear2 = Schere Earring
+            |Body = Volte Harness
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Moonlight Ring
+            |Ring2 = Moonlight Ring
+            |Back = Ankou's Mantle
+            |BackAug = DEX, Store TP
+            |Waist = Sweordfaetels +1
+            |Legs = Volte Tights
+            |Feet = Carmine Greaves +1
+            |FeetAug = Path B
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 DRK/SAM: 1000 TP + Aftermath Level 3
+        Updated 2025 Jun. 18
+    }}
+
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#383028
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Foenaria TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 3.397 s
+            |Main = Foenaria (Level 119 II)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Seeth. Bomblet +1
+            |Head = Hjarrandi Helm
+            |Neck = Vim Torque +1
+            |Ear1 = Schere Earring
+            |Ear2 = Dedition Earring
+            |Body = Sakpata's Plate
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Moonlight Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Ankou's Mantle
+            |BackAug = INT, DA
+            |Waist = Ioskeha Belt +1
+            |Legs = Sakpata's Cuisses
+            |Feet = Carmine Greaves +1
+            |FeetAug = Path B
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 3.261 s
+            |Main = Foenaria (Level 119 II)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Flam. Zucchetto +2
+            |Neck = Vim Torque +1
+            |Ear1 = Schere Earring
+            |Ear2 = Dedition Earring
+            |Body = Agony Jerkin +1
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Petrov Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Ankou's Mantle
+            |BackAug = DEX, DA
+            |Waist = Ioskeha Belt +1
+            |Legs = Sakpata's Cuisses
+            |Feet = Flam. Gambieras +2
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 DRK/SAM: 1000 TP
+        Updated 2025 Jun. 18
+    }}
+
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#383028
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Caladbolg TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 3.472 s
+            |Main = Caladbolg (Level 119 III)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Flam. Zucchetto +2
+            |Neck = Vim Torque +1
+            |Ear1 = Brutal Earring
+            |Ear2 = Schere Earring
+            |Body = Sakpata's Plate
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Moonlight Ring
+            |Ring2 = Defending Ring
+            |Back = Ankou's Mantle
+            |BackAug = DEX, DA
+            |Waist = Ioskeha Belt +1
+            |Legs = Sakpata's Cuisses
+            |Feet = Carmine Greaves +1
+            |FeetAug = Path B
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 3.248 s
+            |Main = Caladbolg (Level 119 III)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Flam. Zucchetto +2
+            |Neck = Vim Torque +1
+            |Ear1 = Schere Earring
+            |Ear2 = Dedition Earring
+            |Body = Sakpata's Plate
+            |Hands = Sakpata's Gauntlets
+            |Ring1 = Petrov Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Ankou's Mantle
+            |BackAug = DEX, DA
+            |Waist = Ioskeha Belt +1
+            |Legs = Ig. Flanchard +4
+            |Feet = Carmine Greaves +1
+            |FeetAug = Path B
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 DRK/SAM: 1000 TP
+        Updated 2025 Jun. 18
+    }}
+
+
+
 }}
