@@ -154,8 +154,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ear2 = Schere Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Ankou's Mantle
             |BackAug = INT, DA
             |Waist = Fotia Belt
@@ -178,8 +178,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ear2 = Heath. Earring +1
             |Body = Sakpata's Plate
             |Hands = Sakpata's Gauntlets
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Ankou's Mantle
             |BackAug = INT, DA
             |Waist = Fotia Belt
@@ -277,8 +277,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ear2 = Thrud Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Niqmaddu Ring
-            |Ring2 = Regal Ring
+            |Ring1 = Regal Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Ankou's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -340,8 +340,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ear2 = Schere Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Niqmaddu Ring
-            |Ring2 = Regal Ring
+            |Ring1 = Regal Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Ankou's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -772,12 +772,12 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ammo = Seeth. Bomblet +1
             |Head = Hjarrandi Helm
             |Neck = Vim Torque +1
-            |Ear1 = Schere Earring
-            |Ear2 = Dedition Earring
+            |Ear1 = Dedition Earring
+            |Ear2 = Schere Earring
             |Body = Sakpata's Plate
             |Hands = Sakpata's Gauntlets
-            |Ring1 = Moonlight Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Moonlight Ring
             |Back = Ankou's Mantle
             |BackAug = DEX, DA
             |Waist = Ioskeha Belt +1
@@ -797,12 +797,12 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ammo = Coiste Bodhar
             |Head = Flam. Zucchetto +2
             |Neck = Vim Torque +1
-            |Ear1 = Schere Earring
-            |Ear2 = Dedition Earring
+            |Ear1 = Dedition Earring
+            |Ear2 = Schere Earring
             |Body = Agony Jerkin +1
             |Hands = Sakpata's Gauntlets
-            |Ring1 = Petrov Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Petrov Ring
             |Back = Ankou's Mantle
             |BackAug = DEX, DA
             |Waist = Ioskeha Belt +1
@@ -839,8 +839,8 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ear2 = Schere Earring
             |Body = Sakpata's Plate
             |Hands = Sakpata's Gauntlets
-            |Ring1 = Moonlight Ring
-            |Ring2 = Defending Ring
+            |Ring1 = Defending Ring
+            |Ring2 = Moonlight Ring
             |Back = Ankou's Mantle
             |BackAug = DEX, DA
             |Waist = Ioskeha Belt +1
@@ -860,12 +860,12 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ammo = Coiste Bodhar
             |Head = Flam. Zucchetto +2
             |Neck = Vim Torque +1
-            |Ear1 = Schere Earring
-            |Ear2 = Dedition Earring
+            |Ear1 = Dedition Earring
+            |Ear2 = Schere Earring
             |Body = Sakpata's Plate
             |Hands = Sakpata's Gauntlets
-            |Ring1 = Petrov Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Petrov Ring
             |Back = Ankou's Mantle
             |BackAug = DEX, DA
             |Waist = Ioskeha Belt +1
@@ -890,7 +890,7 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop =
+            |CaptionTop = Foenaria TP
             |CaptionBottom = 3.576 s
             |Main = Foenaria (Level 119 II)
             |Sub = Utu Grip
@@ -898,12 +898,12 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ammo = Seeth. Bomblet +1
             |Head = Sakpata's Helm
             |Neck = Vim Torque +1
-            |Ear1 = Schere Earring
-            |Ear2 = Dedition Earring
+            |Ear1 = Dedition Earring
+            |Ear2 = Schere Earring
             |Body = Sakpata's Plate
             |Hands = Sakpata's Gauntlets
-            |Ring1 = Crepuscular Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Chirich Ring +1
             |Back = Null Shawl
             |Waist = Ioskeha Belt +1
             |Legs = Sakpata's Cuisses
@@ -913,7 +913,7 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
         }}
         {{
             Equipment Set
-            |CaptionTop =
+            |CaptionTop = Caladbolg TP
             |CaptionBottom = 3.607 s
             |Main = Caladbolg (Level 119 III)
             |Sub = Utu Grip
@@ -921,12 +921,12 @@ Hasso (2h weapon skills) and EnDark II were enabled for all sets.
             |Ammo = Seeth. Bomblet +1
             |Head = Sakpata's Helm
             |Neck = Vim Torque +1
-            |Ear1 = Schere Earring
-            |Ear2 = Dedition Earring
+            |Ear1 = Dedition Earring
+            |Ear2 = Schere Earring
             |Body = Sakpata's Plate
             |Hands = Sakpata's Gauntlets
-            |Ring1 = Petrov Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Petrov Ring
             |Back = Null Shawl
             |Waist = Ioskeha Belt +1
             |Legs = Sakpata's Cuisses
