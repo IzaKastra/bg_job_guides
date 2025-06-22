@@ -334,8 +334,8 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Ammo = Yetshila +1
             |Head = Hachi. Hatsu. +4
             |Neck = Ninja Nodowa +2
-            |Ear1 = Ishvara Earring
-            |Ear2 = Odr Earring
+            |Ear1 = Odr Earring
+            |Ear2 = Ishvara Earring
             |Body = Hattori Ningi +3
             |Hands = Nyame Gauntlets
             |Ring1 = Ilabrat Ring
@@ -645,8 +645,8 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 10637 damage
-            |Main = Naegling
+            |CaptionBottom = 10627 damage
+            |Main = Gokotai
             |Sub = Tauret
             |Range =
             |Ammo = Ghastly Tathlum +1
@@ -656,8 +656,8 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Ear2 = Crematio Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Shiva Ring +1
-            |Ring2 = Metamor. Ring +1
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Shiva Ring +1
             |Back = Andartia's Mantle
             |BackAug = INT, Magic Attack
             |Waist = Orpheus's Sash
@@ -669,9 +669,9 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 20005 damage
-            |Main = Kunimitsu
-            |Sub = Naegling
+            |CaptionBottom = 32572 damage
+            |Main = Gokotai
+            |Sub = Kunimitsu
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Mochi. Hatsu. +4
@@ -680,8 +680,8 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Ear2 = Crematio Earring
             |Body = Nyame Mail
             |Hands = Hattori Tekko +3
-            |Ring1 = Mujin Band
-            |Ring2 = Metamor. Ring +1
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Mujin Band
             |Back = Andartia's Mantle
             |BackAug = INT, Magic Attack
             |Waist = Orpheus's Sash
@@ -690,10 +690,12 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR. (Suiton: San)
+        |Equipment Set Notes=ML30 NIN/WAR. (Suiton: San vs 100% Resist Rank).
+
+Assumes 5/5 Ninjutsu Magic Attack Merits
 
 Ignoring Gyve, which has zero magic accuracy.
-Updated 2025 Jun. 17
+Updated 2025 Jun. 21
     }}
     
 
@@ -715,8 +717,8 @@ Updated 2025 Jun. 17
             |Ammo = Seeth. Bomblet +1
             |Head = Mochi. Hatsu. +4
             |Neck = Fotia Gorget
-            |Ear1 = Domin. Earring +1
-            |Ear2 = Lugra Earring +1
+            |Ear1 = Lugra Earring +1
+            |Ear2 = Domin. Earring +1
             |Body = Hattori Ningi +3
             |Hands = Mochi. Tekko +4
             |Ring1 = Beithir Ring
