@@ -633,72 +633,6 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
     }}
 
 
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= Ninjutsu[[Ninjutsu|*]] (San/Ni)
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Free Nuke
-            |CaptionBottom = 10627 damage
-            |Main = Gokotai
-            |Sub = Tauret
-            |Range =
-            |Ammo = Ghastly Tathlum +1
-            |Head = Mochi. Hatsu. +4
-            |Neck = Sibyl Scarf
-            |Ear1 = Friomisi Earring
-            |Ear2 = Crematio Earring
-            |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Shiva Ring +1
-            |Back = Andartia's Mantle
-            |BackAug = INT, Magic Attack
-            |Waist = Orpheus's Sash
-            |Legs = Nyame Flanchard
-            |Feet = Mochi. Kyahan +4
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = Magic Burst
-            |CaptionBottom = 32572 damage
-            |Main = Gokotai
-            |Sub = Kunimitsu
-            |Range =
-            |Ammo = Ghastly Tathlum +1
-            |Head = Mochi. Hatsu. +4
-            |Neck = Sibyl Scarf
-            |Ear1 = Friomisi Earring
-            |Ear2 = Crematio Earring
-            |Body = Nyame Mail
-            |Hands = Hattori Tekko +3
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Mujin Band
-            |Back = Andartia's Mantle
-            |BackAug = INT, Magic Attack
-            |Waist = Orpheus's Sash
-            |Legs = Nyame Flanchard
-            |Feet = Mochi. Kyahan +4
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 NIN/WAR. (Suiton: San vs 100% Resist Rank).
-
-Assumes 5/5 Ninjutsu Magic Attack Merits
-
-Ignoring Gyve, which has zero magic accuracy.
-Updated 2025 Jun. 21
-    }}
-    
-
     {{
         Guide Equipment Set
         |Set Name Background=#384820
@@ -828,12 +762,146 @@ Updated 2025 Jun. 21
 }}
 
 
+{{Guide Equipment Set Table
+    |Header Notes=Ninjutsu
+    |Guide Equipment Sets=
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384820
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Ninjutsu[[Ninjutsu|*]] (San/Ni)
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Free Nuke
+            |CaptionBottom = 10627 damage
+            |Main = Gokotai
+            |Sub = Tauret
+            |Range =
+            |Ammo = Ghastly Tathlum +1
+            |Head = Mochi. Hatsu. +4
+            |Neck = Sibyl Scarf
+            |Ear1 = Friomisi Earring
+            |Ear2 = Crematio Earring
+            |Body = Nyame Mail
+            |Hands = Nyame Gauntlets
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Shiva Ring +1
+            |Back = Andartia's Mantle
+            |BackAug = INT, Magic Attack
+            |Waist = Orpheus's Sash
+            |Legs = Nyame Flanchard
+            |Feet = Mochi. Kyahan +4
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = Magic Burst
+            |CaptionBottom = 32572 damage
+            |Main = Kunimitsu
+            |Sub = Gokotai
+            |Range =
+            |Ammo = Ghastly Tathlum +1
+            |Head = Mochi. Hatsu. +4
+            |Neck = Sibyl Scarf
+            |Ear1 = Friomisi Earring
+            |Ear2 = Crematio Earring
+            |Body = Nyame Mail
+            |Hands = Hattori Tekko +3
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Mujin Band
+            |Back = Andartia's Mantle
+            |BackAug = INT, Magic Attack
+            |Waist = Orpheus's Sash
+            |Legs = Nyame Flanchard
+            |Feet = Mochi. Kyahan +4
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 NIN/WAR. (Suiton: San vs 100% Resist Rank).
+
+Assumes 5/5 Ninjutsu Magic Attack Merits
+
+Ignoring Gyve, which has zero magic accuracy.
+Updated 2025 Jun. 21
+    }}
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384820
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Futae[[Futae|*]] Ninjutsu[[Ninjutsu|*]] (San/Ni)
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Futae Nuke
+            |CaptionBottom = 20675 damage
+            |Main = Gokotai
+            |Sub = Tauret
+            |Range =
+            |Ammo = Ghastly Tathlum +1
+            |Head = Mochi. Hatsu. +4
+            |Neck = Sibyl Scarf
+            |Ear1 = Friomisi Earring
+            |Ear2 = Crematio Earring
+            |Body = Nyame Mail
+            |Hands = Hattori Tekko +3
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Dingir Ring
+            |Back = Andartia's Mantle
+            |BackAug = INT, Magic Attack
+            |Waist = Orpheus's Sash
+            |Legs = Nyame Flanchard
+            |Feet = Mochi. Kyahan +4
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = Futae Burst
+            |CaptionBottom = 65532 damage
+            |Main = Kunimitsu
+            |Sub = Gokotai
+            |Range =
+            |Ammo = Ghastly Tathlum +1
+            |Head = Mochi. Hatsu. +4
+            |Neck = Sibyl Scarf
+            |Ear1 = Friomisi Earring
+            |Ear2 = Crematio Earring
+            |Body = Nyame Mail
+            |Hands = Hattori Tekko +3
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Mujin Band
+            |Back = Andartia's Mantle
+            |BackAug = INT, Magic Attack
+            |Waist = Orpheus's Sash
+            |Legs = Nyame Flanchard
+            |Feet = Mochi. Kyahan +4
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 NIN/WAR. (Suiton: San vs 100% Resist Rank).
+
+Assumes 5/5 Ninjutsu Magic Attack Merits
+
+Ignoring Gyve, which has zero magic accuracy.
+Updated 2025 Jun. 28
+    }}
+
+}}
+
+
 
 
 {{Guide Equipment Set Table
     |Header Notes=Heishi + Kunimitsu TP sets
     |Guide Equipment Sets=
-
     {{
         Guide Equipment Set
         |Set Name Background=#384820
@@ -1173,7 +1241,6 @@ Updated 2025 Jun. 21
         Updated 2025 Feb. 27
     }}
 
-
     {{
         Guide Equipment Set
         |Set Name Background=#384820
@@ -1209,7 +1276,6 @@ Updated 2025 Jun. 21
         |Equipment Set Notes=ML30 NIN/WAR: 1000 TP + Sublime Sushi
         Updated 2025 Feb. 27
     }}
-
 
     {{
         Guide Equipment Set
@@ -1247,8 +1313,5 @@ Updated 2025 Jun. 21
         |Equipment Set Notes=ML30 NIN/WAR: 1000 TP + Sublime Sushi
         Updated 2025 Feb. 27
     }}
-
-
-
 
 }}
