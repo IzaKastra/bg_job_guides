@@ -26,7 +26,6 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
             |CaptionTop = Mid buff
             |CaptionBottom = 45545 damage
             |Main = Laphria (Level 119 II)
-            |MainAug = Path C
             |Sub = Utu Grip
             |Range =
             |Ammo = Knobkierrie
@@ -336,6 +335,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
             |CaptionTop = Mid buff
             |CaptionBottom = 21601 damage
             |Main = Labraunda
+            |MainAug = Path C
             |Sub = Utu Grip
             |Range =
             |Ammo = Yetshila +1
@@ -462,8 +462,8 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
             |Ammo = Coiste Bodhar
             |Head = Agoge Mask +4
             |Neck = War. Beads +2
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Schere Earring
+            |Ear1 = Schere Earring
+            |Ear2 = Lugra Earring +1
             |Body = Agoge Lorica +4
             |Hands = Boii Mufflers +3
             |Ring1 = Sroda Ring
@@ -1017,7 +1017,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
             |Ear2 = Boii Earring +1
             |Body = Boii Lorica +3
             |Hands = Sakpata's Gauntlets
-            |Ring1 = Crepuscular Ring
+            |Ring1 = Chirich Ring +1
             |Ring2 = Niqmaddu Ring
             |Back = Null Shawl
             |BackAug = DA, Store TP
