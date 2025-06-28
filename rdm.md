@@ -122,8 +122,8 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlock
             |Ear2 = Sherida Earring
             |Body = Malignance Tabard
             |Hands = Malignance Gloves
-            |Ring1 = Begrudging Ring
-            |Ring2 = Ilabrat Ring
+            |Ring1 = Ilabrat Ring
+            |Ring2 = Begrudging Ring
             |Back = Sucellos's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
@@ -216,8 +216,8 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlock
             |Ammo = Coiste Bodhar
             |Head = Viti. Chapeau +4
             |Neck = Rep. Plat. Medal
-            |Ear1 = Ishvara Earring
-            |Ear2 = Sherida Earring
+            |Ear1 = Sherida Earring
+            |Ear2 = Ishvara Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
@@ -786,22 +786,22 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlock
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 14909 damage
+            |CaptionBottom = 14682 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
-            |Ammo = Ghastly Tathlum +1
+            |Ammo = Sroda Tathlum
             |Head = Leth. Chappel +3
             |Neck = Sibyl Scarf
             |Ear1 = Malignance Earring
             |Ear2 = Regal Earring
             |Body = Lethargy Sayon +3
             |Hands = Leth. Ganth. +3
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Freke Ring
+            |Ring1 = Freke Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Sucellos's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Orpheus's Sash
+            |Waist = Skrymir Cord +1
             |Legs = Leth. Fuseau +3
             |Feet = Viti. Boots +4
             |List = Y
@@ -810,30 +810,33 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlock
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 31277 damage
+            |CaptionBottom = 50500 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Ea Hat +1
             |Neck = Sibyl Scarf
-            |Ear1 = Regal Earring
-            |Ear2 = Malignance Earring
+            |Ear1 = Malignance Earring
+            |Ear2 = Regal Earring
             |Body = Ea Houppe. +1
             |Hands = Bunzi's Gloves
             |Ring1 = Freke Ring
-            |Ring2 = Metamor. Ring +1
+            |Ring2 = Mujin Band
             |Back = Sucellos's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Orpheus's Sash
+            |Waist = Skrymir Cord +1
             |Legs = Ea Slops +1
             |Feet = Viti. Boots +4
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/SCH: Fire V
-        Updated 2025 Jun. 18
+        Updated 2025 Jun. 22
     }}
+
+
+
     {{
         Guide Equipment Set
         |Set Name Background=#601818
@@ -852,8 +855,8 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlock
             |Ammo = Coiste Bodhar
             |Head = Bunzi's Hat
             |Neck = Anu Torque
-            |Ear1 = Dedition Earring
-            |Ear2 = Sherida Earring
+            |Ear1 = Sherida Earring
+            |Ear2 = Dedition Earring
             |Body = Malignance Tabard
             |Hands = Malignance Gloves
             |Ring1 = Defending Ring
@@ -876,12 +879,12 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlock
             |Ammo = Coiste Bodhar
             |Head = Bunzi's Hat
             |Neck = Anu Torque
-            |Ear1 = Eabani Earring
-            |Ear2 = Sherida Earring
+            |Ear1 = Sherida Earring
+            |Ear2 = Eabani Earring
             |Body = Malignance Tabard
             |Hands = Malignance Gloves
             |Ring1 = Chirich Ring +1
-            |Ring2 = Crepuscular Ring
+            |Ring2 = Chirich Ring +1
             |Back = Null Shawl
             |BackAug = DA, Store TP
             |Waist = Reiki Yotai
