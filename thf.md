@@ -4,7 +4,9 @@ See the main [[:All Jobs Gear Sets]] page for details on how each set was determ
 
 Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
-Centovente (TP Bonus +1000) was excluded from these sets. It will likely be the strongest off-hand option for all "Damage Varies with TP" weapon skills when you have the accuracy for it, though.
+Centovente (TP Bonus +1000) was included for all sets, but you should ensure you have the accuracy to maintain capped hit rate in your TP set with it equipped.
+
+[[:Air Knife]] was excluded from these sets.
 
 See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-thief For the Shinies! A Guide for Thief (FFXIAH)]
 
@@ -21,40 +23,40 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 40765 damage
             |Main = Twashtar (Level 119 III)
-            |Sub = Gleti's Knife
+            |Sub = Centovente
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Nyame Helm
+            |Head = Pill. Bonnet +4
             |Neck = Asn. Gorget +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Odr Earring
+            |Ear2 = Domin. Earring +1
             |Body = Skulker's Vest +3
             |Hands = Nyame Gauntlets
-            |Ring1 = Ilabrat Ring
+            |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
             |Back = Toutatis's Cape
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Kentarch Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Plun. Culottes +4
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 46185 damage
             |Main = Twashtar (Level 119 III)
-            |Sub = Crepuscular Knife
+            |Sub = Centovente
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Skulker's Bonnet +3
             |Neck = Asn. Gorget +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Odr Earring
             |Body = Skulker's Vest +3
             |Hands = Gleti's Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -62,15 +64,15 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Back = Toutatis's Cape
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Kentarch Belt +1
-            |Legs = Gleti's Breeches
+            |Legs = Plun. Culottes +4
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 THF/DRG: 1900 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 THF/DRG: 1200 TP
+        Updated 2025 Jun. 28
     }}
-        
+
 
     {{
         Guide Equipment Set
@@ -82,13 +84,13 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 41308 damage
             |Main = Mpu Gandring (Level 119 II)
-            |Sub = Gleti's Knife
+            |Sub = Centovente
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Nyame Helm
+            |Head = Pill. Bonnet +4
             |Neck = Asn. Gorget +2
             |Ear1 = Moonshade Earring
             |Ear2 = Sherida Earring
@@ -99,17 +101,17 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Back = Toutatis's Cape
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Plun. Culottes +4
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 49521 damage
             |Main = Mpu Gandring (Level 119 II)
-            |Sub = Crepuscular Knife
+            |Sub = Centovente
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Skulker's Bonnet +3
@@ -123,15 +125,14 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Back = Toutatis's Cape
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Kentarch Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Plun. Culottes +4
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 THF/DRG: 1900 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 THF/DRG: 1200 TP + Aftermath Level 2
+        Updated 2025 Jun. 28
     }}
-
 
 
     {{
@@ -144,10 +145,10 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 31985 damage
             |Main = Vajra (Level 119 III)
-            |Sub = Crepuscular Knife
+            |Sub = Centovente
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Skulker's Bonnet +3
@@ -161,17 +162,17 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Back = Toutatis's Cape
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Kentarch Belt +1
-            |Legs = Gleti's Breeches
+            |Legs = Plun. Culottes +4
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 32218 damage
             |Main = Vajra (Level 119 III)
-            |Sub = Twashtar (Level 119 III)
+            |Sub = Centovente
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Skulker's Bonnet +3
@@ -181,19 +182,18 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Body = Skulker's Vest +3
             |Hands = Gleti's Gauntlets
             |Ring1 = Epaminondas's Ring
-            |Ring2 = Gere Ring
+            |Ring2 = Regal Ring
             |Back = Toutatis's Cape
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Kentarch Belt +1
-            |Legs = Gleti's Breeches
+            |Legs = Plun. Culottes +4
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2024 Nov. 23
-    }}    
-
+        |Equipment Set Notes=ML30 THF/DRG: 1200 TP + Aftermath Level 3
+        Updated 2025 Jun. 28
+    }}
 
 
     {{
@@ -206,40 +206,40 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 37184 damage
             |Main = Tauret
             |Sub = Gleti's Knife
-            |Range =
-            |Ammo = Yetshila +1
-            |Head = Blistering Sallet +1
-            |Neck = Fotia Gorget
-            |Ear1 = Odr Earring
-            |Ear2 = Sherida Earring
-            |Body = Plunderer's Vest +3
-            |Hands = Gleti's Gauntlets
-            |Ring1 = Begrudging Ring
-            |Ring2 = Gere Ring
-            |Back = Toutatis's Cape
-            |BackAug = DEX, Crit Rate
-            |Waist = Fotia Belt
-            |Legs = Gleti's Breeches
-            |Feet = Lustra. Leggings +1
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Tauret
-            |Sub = Twashtar
             |Range =
             |Ammo = Yetshila +1
             |Head = Skulker's Bonnet +3
             |Neck = Fotia Gorget
             |Ear1 = Odr Earring
-            |Ear2 = Sherida Earring
+            |Ear2 = Domin. Earring +1
+            |Body = Plunderer's Vest +4
+            |Hands = Gleti's Gauntlets
+            |Ring1 = Begrudging Ring
+            |Ring2 = Regal Ring
+            |Back = Toutatis's Cape
+            |BackAug = DEX, Crit Rate
+            |Waist = Fotia Belt
+            |Legs = Gleti's Breeches
+            |Feet = Gleti's Boots
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 39007 damage
+            |Main = Tauret
+            |Sub = Twashtar (Level 119 III)
+            |Range =
+            |Ammo = Yetshila +1
+            |Head = Skulker's Bonnet +3
+            |Neck = Fotia Gorget
+            |Ear1 = Sherida Earring
+            |Ear2 = Odr Earring
             |Body = Gleti's Cuirass
             |Hands = Gleti's Gauntlets
             |Ring1 = Gere Ring
@@ -253,9 +253,8 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
-
 
 
     {{
@@ -268,13 +267,13 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 33258 damage
             |Main = Mandau (Level 119 III)
             |Sub = Gleti's Knife
             |Range =
             |Ammo = Seeth. Bomblet +1
-            |Head = Nyame Helm
+            |Head = Skulker's Bonnet +3
             |Neck = Rep. Plat. Medal
             |Ear1 = Sherida Earring
             |Ear2 = Skulk. Earring +1
@@ -292,8 +291,8 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 36670 damage
             |Main = Mandau (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
@@ -315,9 +314,8 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
-
 
 
 
@@ -331,8 +329,8 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 17276 damage
             |Main = Aeneas
             |Sub = Gleti's Knife
             |Range =
@@ -349,16 +347,16 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |BackAug = AGI, DA
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
-            |Feet = Plun. Poulaines +3
+            |Feet = Plun. Poulaines +5
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 21259 damage
             |Main = Aeneas
-            |Sub = Gleti's Knife
+            |Sub = Mpu Gandring (Level 119 II)
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Skulker's Bonnet +3
@@ -367,21 +365,20 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Ear2 = Skulk. Earring +1
             |Body = Gleti's Cuirass
             |Hands = Gleti's Gauntlets
-            |Ring1 = Gere Ring
-            |Ring2 = Regal Ring
+            |Ring1 = Sroda Ring
+            |Ring2 = Gere Ring
             |Back = Toutatis's Cape
-            |BackAug = AGI, DA
+            |BackAug = AGI, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Gleti's Breeches
-            |Feet = Volte Spats
+            |Feet = Plun. Poulaines +5
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
-
-
+    
 
     {{
         Guide Equipment Set
@@ -393,13 +390,13 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 26196 damage
             |Main = Aeneas
-            |Sub = Gleti's Knife
+            |Sub = Centovente
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Nyame Helm
+            |Head = Pill. Bonnet +4
             |Neck = Asn. Gorget +2
             |Ear1 = Moonshade Earring
             |Ear2 = Sherida Earring
@@ -410,41 +407,40 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Back = Toutatis's Cape
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Plun. Culottes +4
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 29787 damage
             |Main = Aeneas
-            |Sub = Crepuscular Knife
+            |Sub = Centovente
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Skulker's Bonnet +3
             |Neck = Asn. Gorget +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
+            |Ear2 = Domin. Earring +1
             |Body = Skulker's Vest +3
             |Hands = Gleti's Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
             |Back = Toutatis's Cape
-            |BackAug = AGI, Weapon Skill Damage
-            |Waist = Sailfi Belt +1
-            |Legs = Gleti's Breeches
+            |BackAug = DEX, Weapon Skill Damage
+            |Waist = Kentarch Belt +1
+            |Legs = Plun. Culottes +4
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
     
-    
-    
+
     {{
         Guide Equipment Set
         |Set Name Background=#384048
@@ -455,19 +451,19 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 49100 damage
             |Main = Naegling
-            |Sub = Gleti's Knife
+            |Sub = Centovente
             |Range =
             |Ammo = Seeth. Bomblet +1
-            |Head = Nyame Helm
-            |Neck = Rep. Plat. Medal
+            |Head = Pill. Bonnet +4
+            |Neck = Null Loop
             |Ear1 = Moonshade Earring
             |Ear2 = Sherida Earring
             |Body = Skulker's Vest +3
             |Hands = Nyame Gauntlets
-            |Ring1 = Gere Ring
+            |Ring1 = Sroda Ring
             |Ring2 = Regal Ring
             |Back = Toutatis's Cape
             |BackAug = STR, Weapon Skill Damage
@@ -479,18 +475,18 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 53170 damage
             |Main = Naegling
-            |Sub = Ternion Dagger +1
+            |Sub = Centovente
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Skulker's Bonnet +3
-            |Neck = Rep. Plat. Medal
+            |Neck = Null Loop
             |Ear1 = Moonshade Earring
-            |Ear2 = Skulk. Earring +1
-            |Body = Gleti's Cuirass
-            |Hands = Nyame Gauntlets
+            |Ear2 = Ishvara Earring
+            |Body = Skulker's Vest +3
+            |Hands = Gleti's Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Toutatis's Cape
@@ -501,10 +497,9 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 THF/DRG: 1900 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 THF/DRG: 1200 TP
+        Updated 2025 Jun. 28
     }}
-
 
     {{
         Guide Equipment Set
@@ -516,10 +511,10 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 13226 damage
             |Main = Aeneas
-            |Sub = Malevolence
+            |Sub = Centovente
             |Range =
             |Ammo = Seeth. Bomblet +1
             |Head = Nyame Helm
@@ -539,72 +534,73 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
+}}
 
 
 
-
-
+{{
+    Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
     {{
         Guide Equipment Set
         |Set Name Background=#384048
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Twashtar TP set
+        |Set Name= Twashtar+Centovente TP set
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
             |CaptionTop = 50% DT
-            |CaptionBottom = 2.830 s
+            |CaptionBottom = 3.499 s
             |Main = Twashtar (Level 119 III)
-            |Sub = Jugo Kukri +1
+            |Sub = Centovente
             |Range =
-            |Ammo = Coiste Bodhar
+            |Ammo = Aurgelmir Orb +1
             |Head = Skulker's Bonnet +3
-            |Neck = Asn. Gorget +2
+            |Neck = Null Loop
             |Ear1 = Sherida Earring
             |Ear2 = Skulk. Earring +1
-            |Body = Malignance Tabard
+            |Body = Pill. Vest +4
             |Hands = Malignance Gloves
-            |Ring1 = Defending Ring
+            |Ring1 = Moonlight Ring
             |Ring2 = Moonlight Ring
             |Back = Toutatis's Cape
             |BackAug = DEX, Store TP
             |Waist = Reiki Yotai
-            |Legs = Malignance Tights
-            |Feet = Malignance Boots
+            |Legs = Skulk. Culottes +3
+            |Feet = Skulk. Poulaines +3
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = 25% DT
-            |CaptionBottom = 2.561 s
+            |CaptionBottom = 3.141 s
             |Main = Twashtar (Level 119 III)
-            |Sub = Jugo Kukri +1
+            |Sub = Centovente
             |Range =
-            |Ammo = Aurgelmir Orb +1
+            |Ammo = C. Palug Stone
             |Head = Skulker's Bonnet +3
-            |Neck = Asn. Gorget +2
-            |Ear1 = Dedition Earring
+            |Neck = Null Loop
+            |Ear1 = Sherida Earring
             |Ear2 = Skulk. Earring +1
-            |Body = Malignance Tabard
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path A
-            |Ring1 = Moonlight Ring
-            |Ring2 = Gere Ring
+            |Body = Pill. Vest +4
+            |Hands = Malignance Gloves
+            |Ring1 = Gere Ring
+            |Ring2 = Moonlight Ring
             |Back = Toutatis's Cape
             |BackAug = DEX, Store TP
             |Waist = Reiki Yotai
-            |Legs = Samnuha Tights
+            |Legs = Pill. Culottes +4
             |Feet = Malignance Boots
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 THF/DRG: 1000 TP
-        Updated 2025 Jan. 05
+        |Equipment Set Notes=ML30 THF/DRG: 1200 TP
+        Updated 2025 Jun. 28
     }}
-
 }}
