@@ -20,7 +20,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 55316 damage
+            |CaptionBottom = 49784 damage
             |Main = Gae Buide (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -82,7 +82,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 28852 damage
+            |CaptionBottom = 26665 damage
             |Main = Shining One
             |Sub = Utu Grip
             |Range =
@@ -143,7 +143,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 32250 damage
+            |CaptionBottom = 29025 damage
             |Main = Trishula
             |Sub = Rigorous Grip +1
             |Range =
@@ -167,12 +167,12 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 44449 damage
+            |CaptionBottom = 43339 damage
             |Main = Trishula
             |Sub = Utu Grip
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Stinger Helm
+            |Head = Ptero. Armet +4
             |Neck = Dgn. Collar +2
             |Ear1 = Moonshade Earring
             |Ear2 = Pel. Earring +1
@@ -184,14 +184,13 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |BackAug = STR, DA
             |Waist = Fotia Belt
             |Legs = Gleti's Breeches
-            |Feet = Gleti's Boots
+            |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 DRG/SAM: 1200 TP
         Updated 2025 Jun. 28
     }}
-
 
 
     {{
@@ -205,14 +204,14 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 36278 damage
+            |CaptionBottom = 35124 damage
             |Main = Rhongomiant (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Knobkierrie
             |Head = Peltast's Mezail +3
             |Neck = Dgn. Collar +2
-            |Ear1 = Thrud Earring
+            |Ear1 = Moonshade Earring
             |Ear2 = Pel. Earring +1
             |Body = Nyame Mail
             |Hands = Ptero. Fin. G. +4
@@ -266,7 +265,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 39792 damage
+            |CaptionBottom = 37156 damage
             |Main = Ryunohige (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -327,7 +326,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 51524 damage
+            |CaptionBottom = 47205 damage
             |Main = Shining One
             |Sub = Rigorous Grip +1
             |Range =
@@ -336,7 +335,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Neck = Dgn. Collar +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Nyame Mail
+            |Body = Gleti's Cuirass
             |Hands = Ptero. Fin. G. +4
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
@@ -389,7 +388,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 33711 damage
+            |CaptionBottom = 30340 damage
             |Main = Gungnir (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -400,8 +399,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Ear2 = Thrud Earring
             |Body = Nyame Mail
             |Hands = Ptero. Fin. G. +4
-            |Ring1 = Regal Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Regal Ring
             |Back = Brigantia's Mantle
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -450,7 +449,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 60145 damage
+            |CaptionBottom = 54131 damage
             |Main = Naegling
             |Sub = Regis
             |Range =
