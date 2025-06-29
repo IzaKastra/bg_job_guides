@@ -10,7 +10,7 @@ Thibron (TP Bonus +1000) was allowed for these sets since RDM gets access to Dis
 
 RDM sets used Dia3 instead of Dia2 and always had Composure, Temper II, Distract III, and Gain-STR enabled.
 
-Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlocks roll with job bonuses enabled. 
+Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks roll (with job bonuses enabled), Indi-Acumen, and a 20% potency BoG Geo-Malaise. 
 
 
 {{Guide Equipment Set Table
@@ -773,35 +773,39 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlock
         |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
         Updated 2025 Jun. 18
     }}
-    
-    
+}}
+
+{{
+    Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
     {{
         Guide Equipment Set
         |Set Name Background=#601818
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Nuking
+        |Set Name= Casting
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 14682 damage
+            |CaptionBottom = 15704 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
-            |Ammo = Sroda Tathlum
+            |Ammo = Ghastly Tathlum +1
             |Head = Leth. Chappel +3
             |Neck = Sibyl Scarf
-            |Ear1 = Malignance Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Regal Earring
+            |Ear2 = Malignance Earring
             |Body = Lethargy Sayon +3
             |Hands = Leth. Ganth. +3
-            |Ring1 = Freke Ring
-            |Ring2 = Metamor. Ring +1
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Freke Ring
             |Back = Sucellos's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Skrymir Cord +1
+            |Waist = Acuity Belt +1
             |Legs = Leth. Fuseau +3
             |Feet = Viti. Boots +4
             |List = Y
@@ -810,33 +814,39 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlock
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 50500 damage
+            |CaptionBottom = 53985 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Ea Hat +1
             |Neck = Sibyl Scarf
-            |Ear1 = Malignance Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Regal Earring
+            |Ear2 = Malignance Earring
             |Body = Ea Houppe. +1
             |Hands = Bunzi's Gloves
-            |Ring1 = Freke Ring
-            |Ring2 = Mujin Band
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Freke Ring
             |Back = Sucellos's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Skrymir Cord +1
+            |Waist = Acuity Belt +1
             |Legs = Ea Slops +1
             |Feet = Viti. Boots +4
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/SCH: Fire V vs 100% resist rank
-        Updated 2025 Jun. 22
+        Updated 2025 Jun. 29
     }}
+}}
 
 
 
+
+{{
+    Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
     {{
         Guide Equipment Set
         |Set Name Background=#601818
