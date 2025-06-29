@@ -471,7 +471,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Head = Mall. Chapeau +2
             |Neck = Combatant's Torque
             |Ear1 = Dedition Earring
-            |Ear2 = Crepuscular Earring
+            |Ear2 = Crep. Earring
             |Body = Merlinic Jubbah
             |Hands = Merlinic Dastanas
             |Ring1 = Chirich Ring +1
