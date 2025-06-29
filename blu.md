@@ -37,8 +37,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 43279 damage
             |Main = Tizona (Level 119 III)
             |Sub = Thibron
             |Range =
@@ -61,8 +61,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 51011 damage
             |Main = Tizona (Level 119 III)
             |Sub = Thibron
             |Range =
@@ -71,7 +71,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Neck = Mirage Stole +2
             |Ear1 = Moonshade Earring
             |Ear2 = Ishvara Earring
-            |Body = Gleti's Cuirass
+            |Body = Assim. Jubbah +4
             |Hands = Gleti's Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
@@ -83,10 +83,9 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLU/NIN: 1100 TP
-        Updated 2024 Nov. 24
+        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP + Aftermath Level 3
+        Updated 2025 Jun. 28
     }}
-
 
 
     
@@ -100,8 +99,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 31440 damage
             |Main = Almace (Level 119 III)
             |Sub = Tanmogayi +1
             |Range =
@@ -112,8 +111,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Ear2 = Mache Earring +1
             |Body = Gleti's Cuirass
             |Hands = Adhemar Wrist. +1
-            |Ring1 = Begrudging Ring
-            |Ring2 = Epona's Ring
+            |Ring1 = Epona's Ring
+            |Ring2 = Begrudging Ring
             |Back = Rosmerta's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
@@ -124,8 +123,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 33050 damage
             |Main = Almace (Level 119 III)
             |Sub = Zantetsuken
             |Range =
@@ -136,8 +135,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Ear2 = Odr Earring
             |Body = Gleti's Cuirass
             |Hands = Gleti's Gauntlets
-            |Ring1 = Hetairoi Ring
-            |Ring2 = Epona's Ring
+            |Ring1 = Epona's Ring
+            |Ring2 = Begrudging Ring
             |Back = Rosmerta's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
@@ -146,8 +145,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLU/NIN: 1100 TP
-        Updated 2024 Nov. 24
+        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
+        Updated 2025 Jun. 28
     }}
 
 
@@ -161,8 +160,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 13744 damage
             |Main = Sequence
             |Sub = Sakpata's Sword
             |Range =
@@ -173,8 +172,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Ear2 = Regal Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Epona's Ring
-            |Ring2 = Metamor. Ring +1
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Epona's Ring
             |Back = Rosmerta's Cape
             |BackAug = MND, DA
             |Waist = Fotia Belt
@@ -185,13 +184,13 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 19676 damage
             |Main = Sequence
             |Sub = Maxentius
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Hashishin Kavuk +3
+            |Head = Null Masque
             |Neck = Fotia Gorget
             |Ear1 = Regal Earring
             |Ear2 = Brutal Earring
@@ -207,10 +206,9 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLU/NIN: 1100 TP
-        Updated 2024 Nov. 24
+        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
+        Updated 2025 Jun. 28
     }}
-
 
 
     {{
@@ -223,8 +221,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 37258 damage
             |Main = Caliburnus (Level 119 II)
             |Sub = Thibron
             |Range =
@@ -247,8 +245,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 46875 damage
             |Main = Caliburnus (Level 119 II)
             |Sub = Thibron
             |Range =
@@ -257,20 +255,20 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Neck = Mirage Stole +2
             |Ear1 = Moonshade Earring
             |Ear2 = Domin. Earring +1
-            |Body = Gleti's Cuirass
+            |Body = Assim. Jubbah +4
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Beithir Ring
             |Back = Rosmerta's Cape
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Kentarch Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Gleti's Breeches
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLU/NIN: 1100 TP
-        Updated 2024 Nov. 24
+        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP + Aftermath Level 2
+        Updated 2025 Jun. 28
     }}
 
 
@@ -285,8 +283,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 46311 damage
             |Main = Naegling
             |Sub = Thibron
             |Range =
@@ -309,8 +307,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 50331 damage
             |Main = Naegling
             |Sub = Thibron
             |Range =
@@ -331,8 +329,76 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLU/NIN: 1100 TP
-        Updated 2024 Nov. 24
+        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
+        Updated 2025 Jun. 28
     }}
-    
+}}
+
+
+{{
+    Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
+    {{
+        Guide Equipment Set
+        |Set Name Background=#304878
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Tizona + Thibron AM3 TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 3.715 s
+            |Main = Tizona (Level 119 III)
+            |Sub = Thibron
+            |Range =
+            |Ammo = Aurgelmir Orb +1
+            |Head = Malignance Chapeau
+            |Neck = Null Loop
+            |Ear1 = Telos Earring
+            |Ear2 = Hashi. Earring +1
+            |Body = Malignance Tabard
+            |Hands = Gazu Bracelets +1
+            |Ring1 = Defending Ring
+            |Ring2 = Epona's Ring
+            |Back = Rosmerta's Cape
+            |BackAug = DEX, Dual Wield
+            |Waist = Kentarch Belt +1
+            |Legs = Gleti's Breeches
+            |Feet = Malignance Boots
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 3.448 s
+            |Main = Tizona (Level 119 III)
+            |Sub = Thibron
+            |Range =
+            |Ammo = Aurgelmir Orb +1
+            |Head = Malignance Chapeau
+            |Neck = Mirage Stole +2
+            |Ear1 = Suppanomimi
+            |Ear2 = Hashi. Earring +1
+            |Body = Adhemar Jacket +1
+            |BodyAug = Path A
+            |Hands = Gazu Bracelets +1
+            |Ring1 = Chirich Ring +1
+            |Ring2 = Epona's Ring
+            |Back = Rosmerta's Cape
+            |BackAug = DEX, Store TP
+            |Waist = Kentarch Belt +1
+            |Legs = Gleti's Breeches
+            |Feet = Malignance Boots
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 BLU/WAR: 1000 TP + Aftermath Level 3
+        Updated 2025 Jun. 28
+    }}
+
+
 }}
