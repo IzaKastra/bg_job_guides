@@ -21,17 +21,18 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 34288 damage
+            |CaptionBottom = 32478 damage
             |Main = Verethragna (Level 119 III)
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Mpaca's Cap
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
-            |Ear2 = Schere Earring
+            |Ear1 = Schere Earring
+            |Ear2 = Odr Earring
             |Body = Mpaca's Doublet
-            |Hands = Bhikku Gloves +3
+            |Hands = Ryuo Tekko +1
+            |HandsAug = Path A
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
@@ -82,22 +83,22 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 55024 damage
+            |CaptionBottom = 53966 damage
             |Main = Verethragna (Level 119 III)
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Adhemar Bonnet +1
             |HeadAug = Path B
-            |Neck = Mnk. Nodowa +2
-            |Ear1 = Mache Earring +1
+            |Neck = Fotia Gorget
+            |Ear1 = Sherida Earring
             |Ear2 = Odr Earring
             |Body = Bhikku Cyclas +3
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
-            |BackAug = STR, DA
+            |BackAug = STR, Crit Rate
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
             |Feet = Ken. Sune-Ate +1
@@ -214,8 +215,8 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Head = Adhemar Bonnet +1
             |HeadAug = Path B
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
-            |Ear2 = Schere Earring
+            |Ear1 = Schere Earring
+            |Ear2 = Sherida Earring
             |Body = Bhikku Cyclas +3
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
@@ -270,7 +271,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 50229 damage
+            |CaptionBottom = 47123 damage
             |Main = Varga Purnikawa (Level 119 II)
             |Sub =
             |Range =
@@ -294,7 +295,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 62734 damage
+            |CaptionBottom = 65381 damage
             |Main = Varga Purnikawa (Level 119 II)
             |Sub =
             |Range =
@@ -315,7 +316,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 MNK/WAR: 1800 TP + Aftermath Level 2
+        |Equipment Set Notes=ML30 MNK/WAR: 1900 TP + Aftermath Level 2
         Updated 2025 Jun. 28
     }}
 
@@ -332,7 +333,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 29071 damage
+            |CaptionBottom = 26167 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -342,7 +343,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Ear1 = Sherida Earring
             |Ear2 = Schere Earring
             |Body = Bhikku Cyclas +3
-            |Hands = Bhikku Gloves +3
+            |Hands = Mpaca's Gloves
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
@@ -356,11 +357,11 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 37544 damage
+            |CaptionBottom = 37295 damage
             |Main = Godhands
             |Sub =
             |Range =
-            |Ammo = Crepuscular Pebble
+            |Ammo = Coiste Bodhar
             |Head = Ken. Jinpachi +1
             |Neck = Mnk. Nodowa +2
             |Ear1 = Sherida Earring
@@ -393,7 +394,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 27513 damage
+            |CaptionBottom = 24761 damage
             |Main = Spharai (Level 119 III)
             |Sub =
             |Range =
@@ -443,6 +444,67 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
     }}
 
 
+    {{
+        Guide Equipment Set
+        |Set Name Background=#a05028
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Dragon Blow[[Dragon Blow|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 43391 damage
+            |Main = Dragon Fangs
+            |Sub =
+            |Range =
+            |Ammo = Knobkierrie
+            |Head = Mpaca's Cap
+            |Neck = Mnk. Nodowa +2
+            |Ear1 = Moonshade Earring
+            |Ear2 = Sherida Earring
+            |Body = Bhikku Cyclas +3
+            |Hands = Bhikku Gloves +3
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Segomo's Mantle
+            |BackAug = DEX, Weapon Skill Damage
+            |Waist = Moonbow Belt +1
+            |Legs = Mpaca's Hose
+            |Feet = Nyame Sollerets
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 43391 damage
+            |Main = Dragon Fangs
+            |Sub =
+            |Range =
+            |Ammo = Knobkierrie
+            |Head = Mpaca's Cap
+            |Neck = Mnk. Nodowa +2
+            |Ear1 = Moonshade Earring
+            |Ear2 = Sherida Earring
+            |Body = Bhikku Cyclas +3
+            |Hands = Bhikku Gloves +3
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Segomo's Mantle
+            |BackAug = DEX, Weapon Skill Damage
+            |Waist = Moonbow Belt +1
+            |Legs = Mpaca's Hose
+            |Feet = Nyame Sollerets
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 MNK/WAR: 1800 TP
+        Updated 2025 Jun. 28
+    }}
+
+
     
     {{
         Guide Equipment Set
@@ -455,13 +517,13 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 40763 damage
+            |CaptionBottom = 37617 damage
             |Main = Godhands
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Mpaca's Cap
-            |Neck = Mnk. Nodowa +2
+            |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
             |Ear2 = Schere Earring
             |Body = Nyame Mail
@@ -517,15 +579,15 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 28587 damage
+            |CaptionBottom = 25729 damage
             |Main = Karambit
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Hes. Crown +4
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
-            |Ear2 = Schere Earring
+            |Ear1 = Schere Earring
+            |Ear2 = Sherida Earring
             |Body = Bhikku Cyclas +3
             |Hands = Bhikku Gloves +3
             |Ring1 = Sroda Ring
@@ -577,7 +639,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 34487 damage
+            |CaptionBottom = 31038 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -640,7 +702,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 48200 damage
+            |CaptionBottom = 43380 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -701,7 +763,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 35793 damage
+            |CaptionBottom = 32214 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -762,7 +824,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 51409 damage
+            |CaptionBottom = 46269 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -823,7 +885,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 48437 damage
+            |CaptionBottom = 43593 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -847,7 +909,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 61869 damage
+            |CaptionBottom = 61832 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -855,7 +917,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Head = Mpaca's Cap
             |Neck = Mnk. Nodowa +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
+            |Ear2 = Schere Earring
             |Body = Malignance Tabard
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
