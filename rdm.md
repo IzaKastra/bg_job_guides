@@ -6,7 +6,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
 Thibron (TP Bonus +1000) was allowed for these sets since RDM gets access to Distract III.
 
-[[Flametongue]], [[Ice Brand]], and [[Wizard's Rod]] were not included. However, Flametongue was a clear winning in nearly all weapon skill off-hands during testing due to its large STR modifier and STR bonus, even beating Naegling for main-hand Savage Blade at high buffs.
+[[Flametongue]], [[Ice Brand]], and [[Wizard's Rod]] were not included. However, Flametongue was the clear winner in the off-hand for nearly all physical weapon skill, even beating Naegling for main-hand Savage Blade at high buffs (assuming 15 buffs for Naegling's attack+%).
 
 RDM sets used Dia3 instead of Dia2 and always had Composure, Temper II, Distract III, and Gain-STR enabled.
 
@@ -831,7 +831,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll and 9-Warlock
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RDM/SCH: Fire V
+        |Equipment Set Notes=ML30 RDM/SCH: Fire V vs 100% resist rank
         Updated 2025 Jun. 22
     }}
 
