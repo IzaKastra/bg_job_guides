@@ -213,7 +213,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 19923 damage (189 TP)
+            |CaptionBottom = 20237 damage (189 TP)
             |Main = Laevateinn (Level 119 III)
             |Sub = Enki Strap
             |Range =
@@ -224,8 +224,8 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Ear2 = Regal Earring
             |Body = Spae. Coat +4
             |Hands = Wicce Gloves +3
-            |Ring1 = Freke Ring
-            |Ring2 = Metamor. Ring +1
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Freke Ring
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
             |Waist = Skrymir Cord +1
@@ -237,15 +237,15 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 88356 damage (189 TP)
+            |CaptionBottom = 89797 damage (189 TP)
             |Main = Laevateinn (Level 119 III)
             |Sub = Enki Strap
             |Range =
             |Ammo = Sroda Tathlum
             |Head = Agwu's Cap
             |Neck = Src. Stole +2
-            |Ear1 = Regal Earring
-            |Ear2 = Malignance Earring
+            |Ear1 = Malignance Earring
+            |Ear2 = Regal Earring
             |Body = Spae. Coat +4
             |Hands = Agwu's Gages
             |Ring1 = Mujin Band
