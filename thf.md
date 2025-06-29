@@ -24,18 +24,18 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 32867 damage
+            |CaptionBottom = 36683 damage
             |Main = Twashtar (Level 119 III)
             |Sub = Centovente
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Nyame Helm
+            |Head = Pill. Bonnet +4
             |Neck = Asn. Gorget +2
             |Ear1 = Moonshade Earring
             |Ear2 = Domin. Earring +1
             |Body = Skulker's Vest +3
             |Hands = Nyame Gauntlets
-            |Ring1 = Ilabrat Ring
+            |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
             |Back = Toutatis's Cape
             |BackAug = DEX, Weapon Skill Damage
@@ -85,7 +85,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 33353 damage
+            |CaptionBottom = 37177 damage
             |Main = Mpu Gandring (Level 119 II)
             |Sub = Centovente
             |Range =
@@ -146,11 +146,11 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 31148 damage
+            |CaptionBottom = 31721 damage
             |Main = Vajra (Level 119 III)
             |Sub = Centovente
             |Range =
-            |Ammo = Aurgelmir Orb +1
+            |Ammo = Crepuscular Pebble
             |Head = Skulker's Bonnet +3
             |Neck = Asn. Gorget +2
             |Ear1 = Moonshade Earring
@@ -207,23 +207,23 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 34201 damage
+            |CaptionBottom = 35996 damage
             |Main = Tauret
             |Sub = Gleti's Knife
             |Range =
             |Ammo = Yetshila +1
             |Head = Blistering Sallet +1
             |Neck = Fotia Gorget
-            |Ear1 = Moonshade Earring
-            |Ear2 = Odr Earring
+            |Ear1 = Odr Earring
+            |Ear2 = Domin. Earring +1
             |Body = Plunderer's Vest +4
             |Hands = Gleti's Gauntlets
-            |Ring1 = Gere Ring
-            |Ring2 = Begrudging Ring
+            |Ring1 = Begrudging Ring
+            |Ring2 = Regal Ring
             |Back = Toutatis's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
-            |Legs = Pill. Culottes +4
+            |Legs = Gleti's Breeches
             |Feet = Gleti's Boots
             |List = Y
             |Background =
@@ -268,7 +268,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 27614 damage
+            |CaptionBottom = 30508 damage
             |Main = Mandau (Level 119 III)
             |Sub = Gleti's Knife
             |Range =
@@ -330,7 +330,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 14000 damage
+            |CaptionBottom = 15548 damage
             |Main = Aeneas
             |Sub = Gleti's Knife
             |Range =
@@ -391,7 +391,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 21096 damage
+            |CaptionBottom = 23575 damage
             |Main = Aeneas
             |Sub = Centovente
             |Range =
@@ -452,7 +452,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 40142 damage
+            |CaptionBottom = 44949 damage
             |Main = Naegling
             |Sub = Centovente
             |Range =
