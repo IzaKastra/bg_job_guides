@@ -4,6 +4,12 @@ See the main [[:All Jobs Gear Sets]] page for details on how each set was determ
 
 Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
+Impetus assumes 90% max potency:
+* +45% Crit Rate
+* +126 Attack
+* +45% Crit Damage with [[Bhikku Cyclas +3]] equipped
+* +90 Accuracy [[Bhikku Cyclas +3]] equipped
+
 {{Guide Equipment Set Table
     |Header Notes=
     |Guide Equipment Sets=
@@ -228,8 +234,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Feet = Ken. Sune-Ate +1
             |List = Y
             |Background =
-        }}
-        {{
+        }}        {{
             Equipment Set
             |CaptionTop = High buff
             |CaptionBottom = 36096 damage
