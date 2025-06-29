@@ -27,7 +27,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 40146 damage
+            |CaptionBottom = 34886 damage
             |Main = Masamune (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -51,7 +51,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 44882 damage
+            |CaptionBottom = 43419 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -89,7 +89,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 44335 damage
+            |CaptionBottom = 47854 damage
             |Main = Kusanagi (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -100,7 +100,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Ear2 = Thrud Earring
             |Body = Sakonji Domaru +4
             |Hands = Kasuga Kote +3
-            |Ring1 = Niqmaddu Ring
+            |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
             |Back = Smertrios's Mantle
             |BackAug = STR, Weapon Skill Damage
@@ -113,7 +113,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 52972 damage
+            |CaptionBottom = 59273 damage
             |Main = Kusanagi (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -124,8 +124,8 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Ear2 = Thrud Earring
             |Body = Sakonji Domaru +4
             |Hands = Kasuga Kote +3
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Sroda Ring
+            |Ring2 = Epaminondas's Ring
             |Back = Smertrios's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -134,7 +134,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP + Aftermath Level 2
+        |Equipment Set Notes=ML30 SAM/DRG: 1900 TP + Aftermath Level 2
         Updated 2025 Jun. 28
     }}
 
@@ -149,7 +149,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 25139 damage
+            |CaptionBottom = 24786 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -173,7 +173,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 25139 damage
+            |CaptionBottom = 24786 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -210,15 +210,15 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 31445 damage
+            |CaptionBottom = 28300 damage
             |Main = Amanomurakumo (Level 119 III)
             |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Knobkierrie
             |Head = Nyame Helm
             |Neck = Sam. Nodowa +2
-            |Ear1 = Thrud Earring
-            |Ear2 = Schere Earring
+            |Ear1 = Schere Earring
+            |Ear2 = Thrud Earring
             |Body = Sakonji Domaru +4
             |Hands = Kasuga Kote +3
             |Ring1 = Sroda Ring
@@ -271,7 +271,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 87950 damage
+            |CaptionBottom = 94824 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -282,20 +282,20 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Ear2 = Schere Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Beithir Ring
+            |Ring1 = Epaminondas's Ring
             |Ring2 = Niqmaddu Ring
             |Back = Smertrios's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Orpheus's Sash
             |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Feet = Mpaca's Boots
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 93773 damage
+            |CaptionBottom = 113128 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -332,7 +332,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 79891 damage
+            |CaptionBottom = 85422 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -356,7 +356,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 83524 damage
+            |CaptionBottom = 99882 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -377,7 +377,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP
+        |Equipment Set Notes=ML30 SAM/DRG: 1900 TP
         Updated 2025 Jun. 28
     }}
 
@@ -394,7 +394,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 21224 damage
+            |CaptionBottom = 19101 damage
             |Main = Kogarasumaru (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -423,10 +423,10 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Sub = Utu Grip
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Stinger Helm +1
+            |Head = Stinger Helm
             |Neck = Sam. Nodowa +2
-            |Ear1 = Thrud Earring
-            |Ear2 = Lugra Earring +1
+            |Ear1 = Lugra Earring +1
+            |Ear2 = Thrud Earring
             |Body = Sakonji Domaru +4
             |Hands = Kasuga Kote +3
             |Ring1 = Sroda Ring
@@ -439,7 +439,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP + Aftermath Level 3
+        |Equipment Set Notes=ML30 SAM/DRG: 1400 TP + Aftermath Level 3
         Updated 2025 Jun. 28
     }}
 
@@ -455,10 +455,10 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 25497 damage
+            |CaptionBottom = 22890 damage
             |Main = Masamune (Level 119 III)
             |Sub = Utu Grip
-            |Range = Yoichinoyumi
+            |Range = Yoichinoyumi (Level 119 III)
             |Ammo = Yoichi's Arrow
             |Head = Nyame Helm
             |Neck = Sam. Nodowa +2
@@ -482,7 +482,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |CaptionBottom = 29219 damage
             |Main = Masamune (Level 119 III)
             |Sub = Utu Grip
-            |Range = Yoichinoyumi
+            |Range = Yoichinoyumi (Level 119 III)
             |Ammo = Yoichi's Arrow
             |Head = Nyame Helm
             |Neck = Sam. Nodowa +2
@@ -516,7 +516,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 38163 damage
+            |CaptionBottom = 44051 damage
             |Main = Shining One
             |Sub = Rigorous Grip +1
             |Range =
@@ -524,10 +524,10 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Head = Mpaca's Cap
             |Neck = Sam. Nodowa +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Schere Earring
+            |Ear2 = Thrud Earring
             |Body = Sakonji Domaru +4
             |Hands = Kasuga Kote +3
-            |Ring1 = Sroda Ring
+            |Ring1 = Begrudging Ring
             |Ring2 = Niqmaddu Ring
             |Back = Smertrios's Mantle
             |BackAug = STR, Crit Rate
@@ -540,7 +540,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 44972 damage
+            |CaptionBottom = 56163 damage
             |Main = Shining One
             |Sub = Utu Grip
             |Range =
@@ -549,7 +549,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Neck = Sam. Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Nyame Mail
+            |Body = Sakonji Domaru +4
             |Hands = Kasuga Kote +3
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
@@ -561,7 +561,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP
+        |Equipment Set Notes=ML30 SAM/DRG: 1900 TP
         Updated 2025 Jun. 28
     }}
 }}
