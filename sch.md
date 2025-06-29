@@ -4,9 +4,14 @@ See the main [[:All Jobs Gear Sets]] page for details on how each set was determ
 
 Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
-All sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses enabled, and a Tropical Crepe.
+All sets used:
+* Crooked 10-Wizard's roll and 9-Warlocks roll with job bonuses enabled
+* Indi-Acumen and 20% potency BoG Geo-Malaise.
+* Tropical Crepe
+* Klimaform
+* Storm II
 
-Storm II spell and Klimaform were enabled on all sets. Ebullience was only enabled for Kaustra and helix spells.
+Ebullience was only enabled for Kaustra and helix spells.
 
 Prime staff ([[Opashoro]]) was not tested due to missing information about it's aftermath bonuses.
 
