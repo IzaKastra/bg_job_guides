@@ -4,9 +4,11 @@ See the main [[:All Jobs Gear Sets]] page for details on how each set was determ
 
 Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
-[[True Shot]] and [[Hover Shot]] were not used on any WS set, but a Gandiva AM3 Damage-dealt TP set is included and used both.
+[[True Shot]], [[Hover Shot]], and [[Sharpshot]] were not used on any WS set.
 
-Ranged sets used [[Velocity Shot]], while melee sets did not.   
+Empyrean AM3 ranged attack sets included Hover Shot and True Shot. Empyrean AM3 Barrage sets additionally included Sharpshot for the increased ranged hit rate cap.
+
+Ranged sets used [[Velocity Shot]], while melee sets did not.
 
 
 {{Guide Equipment Set Table
@@ -24,7 +26,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 37619 damage
+            |CaptionBottom = 33782 damage
             |Main = Ternion Dagger +1
             |Sub = Perun +1
             |Range = Earp (Level 119 II)
@@ -84,15 +86,15 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 27496 damage
+            |CaptionBottom = 24885 damage
             |Main = Perun +1
             |Sub = Ternion Dagger +1
             |Range = Annihilator (Level 119 III)
             |Ammo = Chrono Bullet
             |Head = Orion Beret +4
             |Neck = Fotia Gorget
-            |Ear1 = Ishvara Earring
-            |Ear2 = Amini Earring +1
+            |Ear1 = Sherida Earring
+            |Ear2 = Ishvara Earring
             |Body = Amini Caban +3
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -122,7 +124,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Belenus's Cape
-            |BackAug = DEX, Weapon Skill Damage
+            |BackAug = AGI, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Amini Bottillons +3
@@ -144,9 +146,9 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 28833 damage
-            |Main = Ternion Dagger +1
-            |Sub = Perun +1
+            |CaptionBottom = 25894 damage
+            |Main = Perun +1
+            |Sub = Ternion Dagger +1
             |Range = Fomalhaut
             |Ammo = Chrono Bullet
             |Head = Orion Beret +4
@@ -204,7 +206,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 70769 damage
+            |CaptionBottom = 63713 damage
             |Main = Perfervid Sword
             |Sub = Malevolence
             |Range = Fomalhaut
@@ -338,9 +340,9 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 39796 damage
-            |Main = Ternion Dagger +1
-            |Sub = Odium
+            |CaptionBottom = 36014 damage
+            |Main = Perun +1
+            |Sub = Ternion Dagger +1
             |Range = Pinaka (Level 119 II)
             |Ammo = Chrono Arrow
             |Head = Orion Beret +4
@@ -349,8 +351,8 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Ear2 = Ishvara Earring
             |Body = Ikenga's Vest
             |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
-            |Ring2 = Epaminondas's Ring
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Regal Ring
             |Back = Belenus's Cape
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -398,7 +400,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 25224 damage
+            |CaptionBottom = 22653 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Gandiva (Level 119 III)
@@ -458,7 +460,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 66597 damage
+            |CaptionBottom = 61777 damage
             |Main = Perfervid Sword
             |Sub = Malevolence
             |Range = Fail-Not
@@ -466,7 +468,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Amini Earring +1
+            |Ear2 = Friomisi Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -518,7 +520,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 22940 damage
+            |CaptionBottom = 20763 damage
             |Main = Perun +1
             |Sub = Ternion Dagger +1
             |Range = Yoichinoyumi (Level 119 III)
@@ -526,7 +528,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Orion Beret +4
             |Neck = Fotia Gorget
             |Ear1 = Ishvara Earring
-            |Ear2 = Amini Earring +1
+            |Ear2 = Sherida Earring
             |Body = Amini Caban +3
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -639,7 +641,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 54009 damage
+            |CaptionBottom = 48608 damage
             |Main = Naegling
             |Sub = Gleti's Knife
             |Range = Accipiter
@@ -663,7 +665,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 68295 damage
+            |CaptionBottom = 68228 damage
             |Main = Naegling
             |Sub = Ternion Dagger +1
             |Range = Accipiter
@@ -741,7 +743,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 17017 damage
+            |CaptionBottom = 15281 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Armageddon (Level 119 III)
@@ -801,7 +803,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 187840 damage
+            |CaptionBottom = 168683 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Armageddon (Level 119 III)
@@ -862,12 +864,12 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 14584 damage
+            |CaptionBottom = 13111 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Gandiva (Level 119 III)
             |Ammo = Chrono Arrow
-            |Head = Blistering Sallet +1
+            |Head = Meghanada Visor +2
             |Neck = Rep. Plat. Medal
             |Ear1 = Odr Earring
             |Ear2 = Amini Earring +1
@@ -879,7 +881,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |BackAug = STR, Crit Rate
             |Waist = Tellen Belt
             |Legs = Amini Bragues +3
-            |Feet = Ikenga's Clogs
+            |Feet = Arc. Socks +4
             |List = Y
             |Background =
         }}
@@ -924,12 +926,12 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 160003 damage
+            |CaptionBottom = 143863 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Gandiva (Level 119 III)
             |Ammo = Chrono Arrow
-            |Head = Blistering Sallet +1
+            |Head = Meghanada Visor +2
             |Neck = Rep. Plat. Medal
             |Ear1 = Odr Earring
             |Ear2 = Amini Earring +1
@@ -941,7 +943,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |BackAug = STR, Crit Rate
             |Waist = Tellen Belt
             |Legs = Amini Bragues +3
-            |Feet = Ikenga's Clogs
+            |Feet = Arc. Socks +4
             |List = Y
             |Background =
         }}
