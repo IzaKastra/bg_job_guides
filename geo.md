@@ -4,7 +4,13 @@ See the main [[:All Jobs Gear Sets]] page for details on how each set was determ
 
 Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
+Geomancer melee sets used Sublime Sushi instead of Grape Daifuku.
+
 Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses enabled, and a Tropical Crepe.
+
+Casting sets enabled Indi-Acumen and Geo-Malaise (BoG) at 20% Geo- potency.
+
+Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
 
 
 {{Guide Equipment Set Table
@@ -21,7 +27,7 @@ Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses ena
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom =
+            |CaptionBottom = 17527 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
@@ -32,11 +38,11 @@ Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses ena
             |Ear2 = Regal Earring
             |Body = Azimuth Coat +3
             |Hands = Agwu's Gages
-            |Ring1 = Freke Ring
-            |Ring2 = Metamor. Ring +1
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Freke Ring
             |Back = Nantosuelta's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Orpheus's Sash
+            |Waist = Acuity Belt +1
             |Legs = Azimuth Tights +3
             |Feet = Agwu's Pigaches
             |List = Y
@@ -45,33 +51,35 @@ Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses ena
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom =
+            |CaptionBottom = 59243 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Ea Hat +1
             |Neck = Sibyl Scarf
-            |Ear1 = Regal Earring
-            |Ear2 = Malignance Earring
+            |Ear1 = Malignance Earring
+            |Ear2 = Regal Earring
             |Body = Azimuth Coat +3
             |Hands = Agwu's Gages
             |Ring1 = Freke Ring
             |Ring2 = Mujin Band
             |Back = Nantosuelta's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Orpheus's Sash
+            |Waist = Acuity Belt +1
             |Legs = Azimuth Tights +3
             |Feet = Agwu's Pigaches
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 GEO/RDM vs 280 INT
-        Updated 2024 Nov. 24
+        |Equipment Set Notes=ML30 GEO/RDM vs 280 INT vs 100% resist rank. Blizzard V
+        Updated 2025 Jun. 29
     }}
+}}
 
-
-
+{{Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
     {{
         Guide Equipment Set
         |Set Name Background=#d0b878
@@ -82,23 +90,23 @@ Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses ena
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 32427 damage
             |Main = Maxentius
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Oshasha's Treatise
             |Head = Nyame Helm
-            |Neck = Fotia Gorget
+            |Neck = Null Loop
             |Ear1 = Moonshade Earring
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Regal Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
-            |Ring2 = Cacoethic Ring +1
+            |Ring2 = Metamor. Ring +1
             |Back = Nantosuelta's Cape
             |BackAug = STR, Weapon Skill Damage
-            |Waist = Grunfeld Rope
+            |Waist = Prosilio Belt +1
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
@@ -106,16 +114,16 @@ Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses ena
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 40038 damage
             |Main = Maxentius
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
-            |Neck = Fotia Gorget
+            |Neck = Null Loop
             |Ear1 = Moonshade Earring
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Regal Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -129,7 +137,7 @@ Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses ena
             |Background =
         }}
         |Equipment Set Notes=ML30 GEO/RDM: 2000 TP
-        Updated 2024 Nov. 24
+        Updated 2025 Jun. 29
     }}
 
 
@@ -143,8 +151,8 @@ Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses ena
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 11485 damage
             |Main = Idris (Level 119 III)
             |Sub = Ammurapi Shield
             |Range =
@@ -152,13 +160,13 @@ Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses ena
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Regal Earring
-            |Ear2 = Malignance Earring
+            |Ear2 = Domin. Earring +1
             |Body = Nyame Mail
-            |Hands = Gazu Bracelets +1
+            |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Metamor. Ring +1
             |Back = Nantosuelta's Cape
-            |BackAug = MND, Weapon Skill Damage
+            |BackAug = INT, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
@@ -167,8 +175,8 @@ Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses ena
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 11727 damage
             |Main = Idris (Level 119 III)
             |Sub = Ammurapi Shield
             |Range =
@@ -176,21 +184,87 @@ Casting sets used Crooked 10-Wizard's roll, 9-Warlocks roll with job bonuses ena
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Regal Earring
-            |Ear2 = Mache Earring +1
+            |Ear2 = Domin. Earring +1
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Metamor. Ring +1
             |Back = Nantosuelta's Cape
-            |BackAug = MND, Weapon Skill Damage
+            |BackAug = INT, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 GEO/RDM: 2000 TP
-        Updated 2024 Nov. 24
+        |Equipment Set Notes=ML30 GEO/RDM: 2000 TP + Aftermath Level 3
+        Updated 2025 Jun. 29
     }}
 
+}}
+
+
+
+{{Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
+    {{
+        Guide Equipment Set
+        |Set Name Background=#d0b878
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Idris AM3 TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 4.560 s
+            |Main = Idris (Level 119 III)
+            |Sub = Genmei Shield
+            |Range =
+            |Ammo = White Tathlum
+            |Head = Null Masque
+            |Neck = Lissome Necklace
+            |Ear1 = Dedition Earring
+            |Ear2 = Telos Earring
+            |Body = Nyame Mail
+            |Hands = Gazu Bracelets +1
+            |Ring1 = Chirich Ring +1
+            |Ring2 = Chirich Ring +1
+            |Back = Nantosuelta's Cape
+            |BackAug = DEX, Store TP
+            |Waist = Windbuffet Belt +1
+            |Legs = Jhakri Slops +2
+            |Feet = Azimuth Gaiters +3
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 4.526 s
+            |Main = Idris (Level 119 III)
+            |Sub = Genmei Shield
+            |Range =
+            |Ammo = White Tathlum
+            |Head = Blistering Sallet +1
+            |Neck = Lissome Necklace
+            |Ear1 = Dedition Earring
+            |Ear2 = Telos Earring
+            |Body = Nyame Mail
+            |Hands = Gazu Bracelets +1
+            |Ring1 = Chirich Ring +1
+            |Ring2 = Chirich Ring +1
+            |Back = Nantosuelta's Cape
+            |BackAug = DEX, Store TP
+            |Waist = Windbuffet Belt +1
+            |Legs = Jhakri Slops +2
+            |Feet = Nyame Sollerets
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 GEO/RDM: 1000 TP + Aftermath Level 3
+        Updated 2025 Jun. 29
+    }}
 }}
