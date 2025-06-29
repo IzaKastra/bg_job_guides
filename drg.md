@@ -19,8 +19,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 55316 damage
             |Main = Gae Buide (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -30,9 +30,9 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
             |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
-            |Ring1 = Niqmaddu Ring
-            |Ring2 = Regal Ring
+            |Hands = Ptero. Fin. G. +4
+            |Ring1 = Regal Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Brigantia's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -43,8 +43,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 70907 damage
             |Main = Gae Buide (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -54,19 +54,19 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Ear1 = Moonshade Earring
             |Ear2 = Pel. Earring +1
             |Body = Gleti's Cuirass
-            |Hands = Nyame Gauntlets
+            |Hands = Ptero. Fin. G. +4
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Brigantia's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Gleti's Breeches
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 DRG/SAM: 2100 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 DRG/SAM: 1900 TP + Aftermath Level 2
+        Updated 2025 Jun. 28
     }}
     
 
@@ -81,8 +81,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 28852 damage
             |Main = Shining One
             |Sub = Utu Grip
             |Range =
@@ -105,13 +105,13 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 35732 damage
             |Main = Shining One
             |Sub = Utu Grip
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Blistering Sallet +1
+            |Head = Gleti's Mask
             |Neck = Dgn. Collar +2
             |Ear1 = Moonshade Earring
             |Ear2 = Pel. Earring +1
@@ -128,9 +128,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Background =
         }}
         |Equipment Set Notes=ML30 DRG/SAM: 1200 TP
-        Updated 2024 Nov. 23
-    }}
-    
+        Updated 2025 Jun. 28
+    }}    
 
 
     {{
@@ -143,13 +142,13 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 32250 damage
             |Main = Trishula
             |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Peltast's Mezail +3
+            |Head = Ptero. Armet +4
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
             |Ear2 = Sherida Earring
@@ -167,14 +166,14 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 44449 damage
             |Main = Trishula
             |Sub = Utu Grip
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Peltast's Mezail +3
-            |Neck = Fotia Gorget
+            |Head = Stinger Helm
+            |Neck = Dgn. Collar +2
             |Ear1 = Moonshade Earring
             |Ear2 = Pel. Earring +1
             |Body = Gleti's Cuirass
@@ -190,7 +189,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Background =
         }}
         |Equipment Set Notes=ML30 DRG/SAM: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
 
 
@@ -205,18 +204,18 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 36278 damage
             |Main = Rhongomiant (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Knobkierrie
             |Head = Peltast's Mezail +3
             |Neck = Dgn. Collar +2
-            |Ear1 = Moonshade Earring
-            |Ear2 = Thrud Earring
+            |Ear1 = Thrud Earring
+            |Ear2 = Pel. Earring +1
             |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Hands = Ptero. Fin. G. +4
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Brigantia's Mantle
@@ -229,8 +228,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 36921 damage
             |Main = Rhongomiant (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -240,7 +239,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Ear1 = Thrud Earring
             |Ear2 = Pel. Earring +1
             |Body = Gleti's Cuirass
-            |Hands = Nyame Gauntlets
+            |Hands = Ptero. Fin. G. +4
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Brigantia's Mantle
@@ -252,9 +251,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Background =
         }}
         |Equipment Set Notes=ML30 DRG/SAM: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
-
 
 
     {{
@@ -267,8 +265,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 39792 damage
             |Main = Ryunohige (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -291,13 +289,13 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 51543 damage
             |Main = Ryunohige (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Blistering Sallet +1
+            |Head = Gleti's Mask
             |Neck = Dgn. Collar +2
             |Ear1 = Thrud Earring
             |Ear2 = Pel. Earring +1
@@ -313,10 +311,9 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 DRG/SAM: 1500 TP
-        Updated 2024 Nov. 23
-    }}
-    
+        |Equipment Set Notes=ML30 DRG/SAM: 1500 TP + Aftermath Level 3
+        Updated 2025 Jun. 28
+    }}    
 
 
     {{
@@ -329,8 +326,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 51524 damage
             |Main = Shining One
             |Sub = Rigorous Grip +1
             |Range =
@@ -339,8 +336,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Neck = Dgn. Collar +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Gleti's Cuirass
-            |Hands = Nyame Gauntlets
+            |Body = Nyame Mail
+            |Hands = Ptero. Fin. G. +4
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Brigantia's Mantle
@@ -353,8 +350,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 61584 damage
             |Main = Shining One
             |Sub = Utu Grip
             |Range =
@@ -376,9 +373,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Background =
         }}
         |Equipment Set Notes=ML30 DRG/SAM: 1900 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
-
 
 
 
@@ -392,8 +388,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 33711 damage
             |Main = Gungnir (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -403,7 +399,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Ear1 = Sherida Earring
             |Ear2 = Thrud Earring
             |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Hands = Ptero. Fin. G. +4
             |Ring1 = Regal Ring
             |Ring2 = Niqmaddu Ring
             |Back = Brigantia's Mantle
@@ -416,8 +412,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 41881 damage
             |Main = Gungnir (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -427,19 +423,19 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Ear1 = Thrud Earring
             |Ear2 = Pel. Earring +1
             |Body = Gleti's Cuirass
-            |Hands = Nyame Gauntlets
+            |Hands = Ptero. Fin. G. +4
             |Ring1 = Epaminondas's Ring
             |Ring2 = Niqmaddu Ring
             |Back = Brigantia's Mantle
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Fotia Belt
-            |Legs = Vishap Brais +3
+            |Legs = Vishap Brais +4
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 DRG/SAM: 1200 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 DRG/SAM: 1200 TP + Aftermath Level 1
+        Updated 2025 Jun. 28
     }}
 
 
@@ -453,8 +449,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 60145 damage
             |Main = Naegling
             |Sub = Regis
             |Range =
@@ -464,7 +460,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
             |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Hands = Ptero. Fin. G. +4
             |Ring1 = Beithir Ring
             |Ring2 = Regal Ring
             |Back = Brigantia's Mantle
@@ -477,8 +473,8 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 68367 damage
             |Main = Naegling
             |Sub = Regis
             |Range =
@@ -488,7 +484,7 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Ear1 = Moonshade Earring
             |Ear2 = Pel. Earring +1
             |Body = Pelt. Plackart +3
-            |Hands = Nyame Gauntlets
+            |Hands = Ptero. Fin. G. +4
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Brigantia's Mantle
@@ -500,6 +496,135 @@ Hasso was enabled for all two-handed weapon skill sets. Sets also assume the Wyv
             |Background =
         }}
         |Equipment Set Notes=ML30 DRG/WAR: 1500 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
+    }}
+}}
+
+
+
+
+{{
+    Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
+    {{
+        Guide Equipment Set
+        |Set Name Background=#607090
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Gae Buide TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 2.880 s
+            |Main = Gae Buide (Level 119 II)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Hjarrandi Helm
+            |Neck = Vim Torque +1
+            |Ear1 = Sherida Earring
+            |Ear2 = Dedition Earring
+            |Body = Gleti's Cuirass
+            |Hands = Pel. Vambraces +3
+            |Ring1 = Moonlight Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Brigantia's Mantle
+            |BackAug = DEX, DA
+            |Waist = Ioskeha Belt +1
+            |Legs = Gleti's Breeches
+            |Feet = Carmine Greaves +1
+            |FeetAug = Path B
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 2.790
+            |Main = Gae Buide (Level 119 II)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Hjarrandi Helm
+            |Neck = Vim Torque +1
+            |Ear1 = Sherida Earring
+            |Ear2 = Sroda Earring
+            |Body = Gleti's Cuirass
+            |Hands = Gleti's Gauntlets
+            |Ring1 = Petrov Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Null Shawl
+            |BackAug = DA, Store TP
+            |Waist = Ioskeha Belt +1
+            |Legs = Ptero. Brais +4
+            |Feet = Flam. Gambieras +2
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 DRG/SAM: 1000 TP
+        Updated 2025 Jun. 28
+    }}
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#607090
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Naegling TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 2.864 s
+            |Main = Naegling
+            |Sub = Regis
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Hjarrandi Helm
+            |Neck = Vim Torque +1
+            |Ear1 = Sherida Earring
+            |Ear2 = Dedition Earring
+            |Body = Gleti's Cuirass
+            |Hands = Pel. Vambraces +3
+            |Ring1 = Moonlight Ring
+            |Ring2 = Moonlight Ring
+            |Back = Brigantia's Mantle
+            |BackAug = DEX, DA
+            |Waist = Ioskeha Belt +1
+            |Legs = Volte Tights
+            |Feet = Flam. Gambieras +2
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 2.756 s
+            |Main = Naegling
+            |Sub = Regis
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Flam. Zucchetto +2
+            |Neck = Vim Torque +1
+            |Ear1 = Sherida Earring
+            |Ear2 = Dedition Earring
+            |Body = Gleti's Cuirass
+            |Hands = Pel. Vambraces +3
+            |Ring1 = Moonlight Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Null Shawl
+            |Waist = Ioskeha Belt +1
+            |Legs = Ptero. Brais +4
+            |Feet = Flam. Gambieras +2
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 DRG/WAR: 1000 TP
+        Updated 2025 Jun. 28
     }}
 }}
