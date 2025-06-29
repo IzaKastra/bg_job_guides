@@ -24,7 +24,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 37148 damage
+            |CaptionBottom = 40990 damage
             |Main = Laphria (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -86,7 +86,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 35731 damage
+            |CaptionBottom = 39505 damage
             |Main = Chango
             |Sub = Utu Grip
             |Range =
@@ -97,8 +97,8 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
             |Ear2 = Thrud Earring
             |Body = Nyame Mail
             |Hands = Boii Mufflers +3
-            |Ring1 = Regal Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Regal Ring
             |Back = Cichol's Mantle
             |BackAug = VIT, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -148,7 +148,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 28798 damage
+            |CaptionBottom = 31799 damage
             |Main = Conqueror (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -209,7 +209,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 27059 damage
+            |CaptionBottom = 28489 damage
             |Main = Ukonvasara (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -220,7 +220,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
             |Ear2 = Boii Earring +1
             |Body = Sakpata's Plate
             |Hands = Boii Mufflers +3
-            |Ring1 = Begrudging Ring
+            |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Cichol's Mantle
             |BackAug = STR, Crit Rate
@@ -272,15 +272,15 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 23313 damage
+            |CaptionBottom = 25717 damage
             |Main = Bravura (Level 119 III)
             |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Knobkierrie
             |Head = Agoge Mask +4
             |Neck = War. Beads +2
-            |Ear1 = Schere Earring
-            |Ear2 = Thrud Earring
+            |Ear1 = Thrud Earring
+            |Ear2 = Schere Earring
             |Body = Nyame Mail
             |Hands = Boii Mufflers +3
             |Ring1 = Sroda Ring
@@ -333,7 +333,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 19139 damage
+            |CaptionBottom = 20387 damage
             |Main = Labraunda
             |MainAug = Path C
             |Sub = Utu Grip
@@ -343,8 +343,8 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
             |Neck = War. Beads +2
             |Ear1 = Schere Earring
             |Ear2 = Boii Earring +1
-            |Body = Hjarrandi Breast.
-            |Hands = Boii Mufflers +3
+            |Body = Sakpata's Plate
+            |Hands = Flam. Manopolas +2
             |Ring1 = Begrudging Ring
             |Ring2 = Niqmaddu Ring
             |Back = Cichol's Mantle
@@ -395,7 +395,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 49966 damage
+            |CaptionBottom = 55132 damage
             |Main = Naegling
             |Sub = Blurred Shield +1
             |Range =
@@ -404,10 +404,10 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
             |Neck = War. Beads +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Nyame Mail
+            |Body = Pumm. Lorica +4
             |Hands = Boii Mufflers +3
-            |Ring1 = Beithir Ring
-            |Ring2 = Regal Ring
+            |Ring1 = Regal Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Cichol's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -455,15 +455,15 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 33796 damage
+            |CaptionBottom = 37257 damage
             |Main = Dolichenus
             |Sub = Barbarity +1
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Agoge Mask +4
             |Neck = War. Beads +2
-            |Ear1 = Schere Earring
-            |Ear2 = Lugra Earring +1
+            |Ear1 = Lugra Earring +1
+            |Ear2 = Schere Earring
             |Body = Agoge Lorica +4
             |Hands = Boii Mufflers +3
             |Ring1 = Sroda Ring
@@ -516,8 +516,8 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 35113 damage
-            |Main = Ikenga's Axe
+            |CaptionBottom = 38688 damage
+            |Main = Ikenga's Axe 
             |Sub = Fernagu
             |Range =
             |Ammo = Knobkierrie
@@ -613,7 +613,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 37532 damage
+            |CaptionBottom = 41448 damage
             |Main = Helheim (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -624,12 +624,12 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
             |Ear2 = Thrud Earring
             |Body = Nyame Mail
             |Hands = Boii Mufflers +3
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Regal Ring
+            |Ring1 = Regal Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Cichol's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Boii Cuisses +3
+            |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
@@ -674,7 +674,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 22296 damage
+            |CaptionBottom = 24633 damage
             |Main = Ragnarok (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -685,8 +685,8 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
             |Ear2 = Thrud Earring
             |Body = Nyame Mail
             |Hands = Boii Mufflers +3
-            |Ring1 = Regal Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Regal Ring
             |Back = Cichol's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -735,7 +735,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 29998 damage
+            |CaptionBottom = 32930 damage
             |Main = Agwu's Claymore
             |Sub = Rigorous Grip +1
             |Range =
@@ -795,9 +795,9 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 40282 damage
+            |CaptionBottom = 43353 damage
             |Main = Shining One
-            |Sub = Rigorous Grip +1
+            |Sub = Utu Grip
             |Range =
             |Ammo = Yetshila +1
             |Head = Agoge Mask +4
@@ -856,7 +856,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 23883 damage
+            |CaptionBottom = 25722 damage
             |Main = Shining One
             |Sub = Utu Grip
             |Range =
@@ -917,7 +917,7 @@ Hasso (2h weapon skills) was enabled for all sets using /SAM.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 34263 damage
+            |CaptionBottom = 37981 damage
             |Main = Loxotic Mace +1
             |Sub = Fernagu
             |Range =
