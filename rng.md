@@ -4,72 +4,135 @@ See the main [[:All Jobs Gear Sets]] page for details on how each set was determ
 
 Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
-True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Shot, while melee sets did not. 
+[[True Shot]] and [[Hover Shot]] were not used on any WS set, but a Gandiva AM3 Damage-dealt TP set is included and used both.
+
+Ranged sets used [[Velocity Shot]], while melee sets did not.   
 
 
 {{Guide Equipment Set Table
     |Header Notes=
     |Guide Equipment Sets=
+
     {{
         Guide Equipment Set
         |Set Name Background=#404040
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Savage Blade[[Savage Blade|*]]
+        |Set Name= Terminus[[Terminus|*]]
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
-            |Main = Naegling
-            |Sub = Gleti's Knife
-            |Range = Accipiter
-            |Ammo = Hauksbok Arrow
-            |Head = Nyame Helm
+            |CaptionTop = Mid buff
+            |CaptionBottom = 37619 damage
+            |Main = Ternion Dagger +1
+            |Sub = Perun +1
+            |Range = Earp (Level 119 II)
+            |Ammo = Chrono Bullet
+            |Head = Orion Beret +4
             |Neck = Rep. Plat. Medal
-            |Ear1 = Ishvara Earring
-            |Ear2 = Sherida Earring
-            |Body = Nyame Mail
+            |Ear1 = Moonshade Earring
+            |Ear2 = Ishvara Earring
+            |Body = Ikenga's Vest
             |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
+            |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
             |Back = Belenus's Cape
             |BackAug = STR, Weapon Skill Damage
-            |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Waist = Fotia Belt
+            |Legs = Arc. Bracca +4
+            |Feet = Amini Bottillons +3
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Naegling
-            |Sub = Ternion Dagger +1
-            |Range = Accipiter
-            |Ammo = Hauksbok Arrow
-            |Head = Orion Beret +3
+            |CaptionTop = High buff
+            |CaptionBottom = 46750 damage
+            |Main = Ternion Dagger +1
+            |Sub = Crepuscular Knife
+            |Range = Earp (Level 119 II)
+            |Ammo = Chrono Bullet
+            |Head = Orion Beret +4
             |Neck = Scout's Gorget +2
-            |Ear1 = Amini Earring +1
-            |Ear2 = Sherida Earring
+            |Ear1 = Moonshade Earring
+            |Ear2 = Amini Earring +1
+            |Body = Ikenga's Vest
+            |Hands = Nyame Gauntlets
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Regal Ring
+            |Back = Belenus's Cape
+            |BackAug = DEX, Weapon Skill Damage
+            |Waist = Fotia Belt
+            |Legs = Arc. Bracca +4
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN: 2000 TP + Aftermath Level 2
+        Updated 2025 Jun. 28
+    }}
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#404040
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Coronach[[Coronach|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 27496 damage
+            |Main = Perun +1
+            |Sub = Ternion Dagger +1
+            |Range = Annihilator (Level 119 III)
+            |Ammo = Chrono Bullet
+            |Head = Orion Beret +4
+            |Neck = Fotia Gorget
+            |Ear1 = Ishvara Earring
+            |Ear2 = Amini Earring +1
+            |Body = Amini Caban +3
+            |Hands = Nyame Gauntlets
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Regal Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Weapon Skill Damage
+            |Waist = Fotia Belt
+            |Legs = Arc. Bracca +4
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 30522 damage
+            |Main = Ternion Dagger +1
+            |Sub = Crepuscular Knife
+            |Range = Annihilator (Level 119 III)
+            |Ammo = Chrono Bullet
+            |Head = Orion Beret +4
+            |Neck = Scout's Gorget +2
+            |Ear1 = Ishvara Earring
+            |Ear2 = Amini Earring +1
             |Body = Amini Caban +3
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Belenus's Cape
-            |BackAug = STR, Weapon Skill Damage
-            |Waist = Sailfi Belt +1
+            |BackAug = DEX, Weapon Skill Damage
+            |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Amini Bottillons +3
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN: 2000 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP + Aftermath Level 1
+        Updated 2025 Jun. 28
     }}
-    
+
     {{
         Guide Equipment Set
         |Set Name Background=#404040
@@ -80,13 +143,13 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 28833 damage
             |Main = Ternion Dagger +1
             |Sub = Perun +1
             |Range = Fomalhaut
             |Ammo = Chrono Bullet
-            |Head = Orion Beret +3
+            |Head = Orion Beret +4
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
             |Ear2 = Ishvara Earring
@@ -97,20 +160,20 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
             |Back = Belenus's Cape
             |BackAug = AGI, Weapon Skill Damage
             |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
+            |Legs = Arc. Bracca +4
             |Feet = Amini Bottillons +3
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Ternion Dagger +1
-            |Sub = Crepuscular Knife
+            |CaptionTop = High buff
+            |CaptionBottom = 36389 damage
+            |Main = Crepuscular Knife
+            |Sub = Ternion Dagger +1
             |Range = Fomalhaut
             |Ammo = Chrono Bullet
-            |Head = Orion Beret +3
+            |Head = Orion Beret +4
             |Neck = Scout's Gorget +2
             |Ear1 = Moonshade Earring
             |Ear2 = Amini Earring +1
@@ -127,317 +190,7 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2024 Nov. 23
-    }}
-
-
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#404040
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= Coronach[[Coronach|*]]
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
-            |Main = Perun +1
-            |Sub = Ternion Dagger +1
-            |Range = Annihilator (Level 119 III)
-            |Ammo = Chrono Bullet
-            |Head = Orion Beret +3
-            |Neck = Fotia Gorget
-            |Ear1 = Ishvara Earring
-            |Ear2 = Sherida Earring
-            |Body = Amini Caban +3
-            |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Regal Ring
-            |Back = Belenus's Cape
-            |BackAug = STR, Weapon Skill Damage
-            |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Crepuscular Knife
-            |Sub = Ternion Dagger +1
-            |Range = Annihilator (Level 119 III)
-            |Ammo = Chrono Bullet
-            |Head = Orion Beret +3
-            |Neck = Scout's Gorget +2
-            |Ear1 = Ishvara Earring
-            |Ear2 = Amini Earring +1
-            |Body = Amini Caban +3
-            |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
-            |Ring2 = Epaminondas's Ring
-            |Back = Belenus's Cape
-            |BackAug = AGI, Weapon Skill Damage
-            |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2024 Nov. 23
-    }}
-
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#404040
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= Terminus[[Terminus|*]]
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
-            |Main = Ternion Dagger +1
-            |Sub = Perun +1
-            |Range = Earp (Level 119 II)
-            |Ammo = Chrono Bullet
-            |Head = Orion Beret +3
-            |Neck = Rep. Plat. Medal
-            |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
-            |Body = Ikenga's Vest
-            |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Regal Ring
-            |Back = Belenus's Cape
-            |BackAug = STR, Weapon Skill Damage
-            |Waist = Ponente Sash
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Ternion Dagger +1
-            |Sub = Crepuscular Knife
-            |Range = Earp (Level 119 II)
-            |Ammo = Chrono Bullet
-            |Head = Orion Beret +3
-            |Neck = Scout's Gorget +2
-            |Ear1 = Moonshade Earring
-            |Ear2 = Amini Earring +1
-            |Body = Ikenga's Vest
-            |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Regal Ring
-            |Back = Belenus's Cape
-            |BackAug = AGI, Weapon Skill Damage
-            |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 RNG/NIN: 2000 TP
-        Updated 2024 Nov. 23
-    }}
-
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#404040
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= Jishnu's Radiance[[Jishnu's Radiance|*]]
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
-            |Main = Oneiros Knife
-            |Sub = Gleti's Knife
-            |Range = Gandiva (Level 119 III)
-            |Ammo = Chrono Arrow
-            |Head = Orion Beret +3
-            |Neck = Fotia Gorget
-            |Ear1 = Odr Earring
-            |Ear2 = Amini Earring +1
-            |Body = Amini Caban +3
-            |Hands = Amini Glove. +3
-            |Ring1 = Begrudging Ring
-            |Ring2 = Regal Ring
-            |Back = Belenus's Cape
-            |BackAug = DEX, Crit Rate
-            |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Oneiros Knife
-            |Sub = Gleti's Knife
-            |Range = Gandiva (Level 119 III)
-            |Ammo = Chrono Arrow
-            |Head = Blistering Sallet +1
-            |Neck = Scout's Gorget +2
-            |Ear1 = Odr Earring
-            |Ear2 = Amini Earring +1
-            |Body = Amini Caban +3
-            |Hands = Malignance Gloves
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Regal Ring
-            |Back = Belenus's Cape
-            |BackAug = DEX, Crit Rate
-            |Waist = Fotia Belt
-            |Legs = Ikenga's Trousers
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2024 Nov. 23
-    }}
-
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#404040
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= Namas Arrow[[Namas Arrow|*]]
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
-            |Main = Perun +1
-            |Sub = Ternion Dagger +1
-            |Range = Yoichinoyumi (Level 119 III)
-            |Ammo = Chrono Arrow
-            |Head = Orion Beret +3
-            |Neck = Fotia Gorget
-            |Ear1 = Ishvara Earring
-            |Ear2 = Sherida Earring
-            |Body = Amini Caban +3
-            |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Regal Ring
-            |Back = Belenus's Cape
-            |BackAug = STR, Weapon Skill Damage
-            |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Crepuscular Knife
-            |Sub = Ternion Dagger +1
-            |Range = Yoichinoyumi (Level 119 III)
-            |Ammo = Chrono Arrow
-            |Head = Orion Beret +3
-            |Neck = Scout's Gorget +2
-            |Ear1 = Amini Earring +1
-            |Ear2 = Ishvara Earring
-            |Body = Amini Caban +3
-            |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
-            |Ring2 = Epaminondas's Ring
-            |Back = Belenus's Cape
-            |BackAug = STR, Weapon Skill Damage
-            |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2024 Nov. 23
-    }}
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#404040
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= Sarv[[Sarv|*]]
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
-            |Main = Ternion Dagger +1
-            |Sub = Perun +1
-            |Range = Pinaka (Level 119 II)
-            |Ammo = Chrono Arrow
-            |Head = Orion Beret +3
-            |Neck = Rep. Plat. Medal
-            |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
-            |Body = Ikenga's Vest
-            |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Regal Ring
-            |Back = Belenus's Cape
-            |BackAug = STR, Weapon Skill Damage
-            |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Crepuscular Knife
-            |Sub = Ternion Dagger +1
-            |Range = Pinaka (Level 119 II)
-            |Ammo = Chrono Arrow
-            |Head = Orion Beret +3
-            |Neck = Scout's Gorget +2
-            |Ear1 = Moonshade Earring
-            |Ear2 = Amini Earring +1
-            |Body = Ikenga's Vest
-            |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
-            |Ring2 = Epaminondas's Ring
-            |Back = Belenus's Cape
-            |BackAug = STR, Weapon Skill Damage
-            |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 RNG/NIN: 2000 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
 
     {{
@@ -445,17 +198,17 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
         |Set Name Background=#404040
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Flaming Arrow[[Flaming Arrow|*]]
+        |Set Name= Hot Shot[[Hot Shot|*]]
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 70769 damage
             |Main = Perfervid Sword
             |Sub = Malevolence
-            |Range = Fail-Not
-            |Ammo = Chrono Arrow
+            |Range = Fomalhaut
+            |Ammo = Chrono Bullet
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
@@ -474,91 +227,30 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Malevolence
+            |CaptionTop = High buff
+            |CaptionBottom = 76732 damage
+            |Main = Perfervid Sword
             |Sub = Malevolence
-            |Range = Fail-Not
-            |Ammo = Chrono Arrow
+            |Range = Fomalhaut
+            |Ammo = Chrono Bullet
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
             |Ear2 = Amini Earring +1
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
-            |Ring2 = Epaminondas's Ring
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Dingir Ring
             |Back = Belenus's Cape
-            |BackAug = STR, Weapon Skill Damage
-            |Waist = Orpheus's Sash
+            |BackAug = AGI, Weapon Skill Damage
+            |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 2000 TP
-        Updated 2024 Nov. 23
-    }}
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#404040
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= Apex Arrow[[Apex Arrow|*]]
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
-            |Main = Ternion Dagger +1
-            |Sub = Crepuscular Knife
-            |Range = Fail-Not
-            |Ammo = Chrono Arrow
-            |Head = Orion Beret +3
-            |Neck = Scout's Gorget +2
-            |Ear1 = Ishvara Earring
-            |Ear2 = Amini Earring +1
-            |Body = Amini Caban +3
-            |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
-            |Ring2 = Epaminondas's Ring
-            |Back = Belenus's Cape
-            |BackAug = AGI, Weapon Skill Damage
-            |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Crepuscular Knife
-            |Sub = Ternion Dagger +1
-            |Range = Fail-Not
-            |Ammo = Chrono Arrow
-            |Head = Orion Beret +3
-            |Neck = Scout's Gorget +2
-            |Ear1 = Ishvara Earring
-            |Ear2 = Amini Earring +1
-            |Body = Amini Caban +3
-            |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
-            |Ring2 = Epaminondas's Ring
-            |Back = Belenus's Cape
-            |BackAug = AGI, Weapon Skill Damage
-            |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Amini Bottillons +3
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1400 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
 
 
@@ -572,8 +264,8 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 37216 damage
             |Main = Malevolence
             |Sub = Malevolence
             |Range = Gastraphetes (Level 119 III)
@@ -584,18 +276,18 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
             |Ear2 = Friomisi Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Weather. Ring +1
-            |Ring2 = Dingir Ring
+            |Ring1 = Dingir Ring
+            |Ring2 = Weather. Ring +1
             |Back = Belenus's Cape
             |BackAug = AGI, Weapon Skill Damage
-            |Waist = Orpheus's Sash
+            |Waist = Skrymir Cord +1
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1600 TP
-        Updated 2024 Nov. 23
+        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
+        Updated 2025 Jun. 28
     }}
     
     {{
@@ -608,16 +300,16 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 25473 damage
             |Main = Malevolence
             |Sub = Malevolence
             |Range = Armageddon (Level 119 III)
-            |Ammo = Chrono Bullet
+            |Ammo = Eradicating Bullet
             |Head = Nyame Helm
             |Neck = Scout's Gorget +2
-            |Ear1 = Crematio Earring
-            |Ear2 = Friomisi Earring
+            |Ear1 = Friomisi Earring
+            |Ear2 = Crematio Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -631,29 +323,150 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
-    
+
+
     {{
         Guide Equipment Set
         |Set Name Background=#404040
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Hot Shot[[Hot Shot|*]]
+        |Set Name= Sarv[[Sarv|*]]
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
-            |Main = Malevolence
-            |Sub = Perfervid Sword
-            |Range = Fomalhaut
-            |Ammo = Chrono Bullet
+            |CaptionTop = Mid buff
+            |CaptionBottom = 39796 damage
+            |Main = Ternion Dagger +1
+            |Sub = Odium
+            |Range = Pinaka (Level 119 II)
+            |Ammo = Chrono Arrow
+            |Head = Orion Beret +4
+            |Neck = Rep. Plat. Medal
+            |Ear1 = Moonshade Earring
+            |Ear2 = Ishvara Earring
+            |Body = Ikenga's Vest
+            |Hands = Nyame Gauntlets
+            |Ring1 = Sroda Ring
+            |Ring2 = Epaminondas's Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Weapon Skill Damage
+            |Waist = Sailfi Belt +1
+            |Legs = Arc. Bracca +4
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 46760 damage
+            |Main = Ternion Dagger +1
+            |Sub = Odium
+            |Range = Pinaka (Level 119 II)
+            |Ammo = Chrono Arrow
+            |Head = Orion Beret +4
+            |Neck = Scout's Gorget +2
+            |Ear1 = Moonshade Earring
+            |Ear2 = Amini Earring +1
+            |Body = Ikenga's Vest
+            |Hands = Nyame Gauntlets
+            |Ring1 = Sroda Ring
+            |Ring2 = Epaminondas's Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Weapon Skill Damage
+            |Waist = Sailfi Belt +1
+            |Legs = Nyame Flanchard
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN: 2000 TP + Aftermath Level 2
+        Updated 2025 Jun. 28
+    }}
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#404040
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Jishnu's Radiance[[Jishnu's Radiance|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 25224 damage
+            |Main = Oneiros Knife
+            |Sub = Gleti's Knife
+            |Range = Gandiva (Level 119 III)
+            |Ammo = Chrono Arrow
+            |Head = Orion Beret +4
+            |Neck = Fotia Gorget
+            |Ear1 = Odr Earring
+            |Ear2 = Amini Earring +1
+            |Body = Amini Caban +3
+            |Hands = Amini Glove. +3
+            |Ring1 = Begrudging Ring
+            |Ring2 = Regal Ring
+            |Back = Belenus's Cape
+            |BackAug = DEX, Crit Rate
+            |Waist = Fotia Belt
+            |Legs = Arc. Bracca +4
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 28500 damage
+            |Main = Oneiros Knife
+            |Sub = Gleti's Knife
+            |Range = Gandiva (Level 119 III)
+            |Ammo = Chrono Arrow
+            |Head = Orion Beret +4
+            |Neck = Scout's Gorget +2
+            |Ear1 = Odr Earring
+            |Ear2 = Amini Earring +1
+            |Body = Amini Caban +3
+            |Hands = Malignance Gloves
+            |Ring1 = Begrudging Ring
+            |Ring2 = Regal Ring
+            |Back = Belenus's Cape
+            |BackAug = DEX, Crit Rate
+            |Waist = Fotia Belt
+            |Legs = Ikenga's Trousers
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
+        Updated 2025 Jun. 28
+    }}
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#404040
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Flaming Arrow[[Flaming Arrow|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 66597 damage
+            |Main = Perfervid Sword
+            |Sub = Malevolence
+            |Range = Fail-Not
+            |Ammo = Chrono Arrow
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Friomisi Earring
+            |Ear2 = Amini Earring +1
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -668,32 +481,213 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Malevolence
+            |CaptionTop = High buff
+            |CaptionBottom = 68957 damage
+            |Main = Perfervid Sword
             |Sub = Malevolence
-            |Range = Fomalhaut
-            |Ammo = Chrono Bullet
+            |Range = Fail-Not
+            |Ammo = Chrono Arrow
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
             |Ear2 = Amini Earring +1
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Dingir Ring
+            |Ring1 = Sroda Ring
+            |Ring2 = Epaminondas's Ring
             |Back = Belenus's Cape
-            |BackAug = AGI, Weapon Skill Damage
-            |Waist = Orpheus's Sash
+            |BackAug = STR, Weapon Skill Damage
+            |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 2000 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
     }}
-    
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#404040
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Namas Arrow[[Namas Arrow|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 22940 damage
+            |Main = Perun +1
+            |Sub = Ternion Dagger +1
+            |Range = Yoichinoyumi (Level 119 III)
+            |Ammo = Chrono Arrow
+            |Head = Orion Beret +4
+            |Neck = Fotia Gorget
+            |Ear1 = Ishvara Earring
+            |Ear2 = Amini Earring +1
+            |Body = Amini Caban +3
+            |Hands = Nyame Gauntlets
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Regal Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Weapon Skill Damage
+            |Waist = Fotia Belt
+            |Legs = Arc. Bracca +4
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 25823 damage
+            |Main = Ternion Dagger +1
+            |Sub = Odium
+            |Range = Yoichinoyumi (Level 119 III)
+            |Ammo = Chrono Arrow
+            |Head = Orion Beret +4
+            |Neck = Scout's Gorget +2
+            |Ear1 = Ishvara Earring
+            |Ear2 = Amini Earring +1
+            |Body = Amini Caban +3
+            |Hands = Nyame Gauntlets
+            |Ring1 = Sroda Ring
+            |Ring2 = Epaminondas's Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Weapon Skill Damage
+            |Waist = Fotia Belt
+            |Legs = Nyame Flanchard
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP + Aftermath Level 1
+        Updated 2025 Jun. 28
+    }}
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#404040
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Apex Arrow[[Apex Arrow|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 20292 damage
+            |Main = Crepuscular Knife
+            |Sub = Ternion Dagger +1
+            |Range = Fail-Not
+            |Ammo = Chrono Arrow
+            |Head = Orion Beret +4
+            |Neck = Scout's Gorget +2
+            |Ear1 = Ishvara Earring
+            |Ear2 = Amini Earring +1
+            |Body = Amini Caban +3
+            |Hands = Nyame Gauntlets
+            |Ring1 = Sroda Ring
+            |Ring2 = Epaminondas's Ring
+            |Back = Belenus's Cape
+            |BackAug = AGI, Weapon Skill Damage
+            |Waist = Fotia Belt
+            |Legs = Nyame Flanchard
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 20292 damage
+            |Main = Crepuscular Knife
+            |Sub = Ternion Dagger +1
+            |Range = Fail-Not
+            |Ammo = Chrono Arrow
+            |Head = Orion Beret +4
+            |Neck = Scout's Gorget +2
+            |Ear1 = Ishvara Earring
+            |Ear2 = Amini Earring +1
+            |Body = Amini Caban +3
+            |Hands = Nyame Gauntlets
+            |Ring1 = Sroda Ring
+            |Ring2 = Epaminondas's Ring
+            |Back = Belenus's Cape
+            |BackAug = AGI, Weapon Skill Damage
+            |Waist = Fotia Belt
+            |Legs = Nyame Flanchard
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN: 1500 TP
+        Updated 2025 Jun. 28
+    }}
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#404040
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Savage Blade[[Savage Blade|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 54009 damage
+            |Main = Naegling
+            |Sub = Gleti's Knife
+            |Range = Accipiter
+            |Ammo = Hauksbok Arrow
+            |Head = Nyame Helm
+            |Neck = Rep. Plat. Medal
+            |Ear1 = Moonshade Earring
+            |Ear2 = Sherida Earring
+            |Body = Nyame Mail
+            |Hands = Nyame Gauntlets
+            |Ring1 = Sroda Ring
+            |Ring2 = Regal Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Weapon Skill Damage
+            |Waist = Sailfi Belt +1
+            |Legs = Nyame Flanchard
+            |Feet = Nyame Sollerets
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 68295 damage
+            |Main = Naegling
+            |Sub = Ternion Dagger +1
+            |Range = Accipiter
+            |Ammo = Hauksbok Arrow
+            |Head = Orion Beret +4
+            |Neck = Scout's Gorget +2
+            |Ear1 = Moonshade Earring
+            |Ear2 = Amini Earring +1
+            |Body = Ikenga's Vest
+            |Hands = Nyame Gauntlets
+            |Ring1 = Sroda Ring
+            |Ring2 = Epaminondas's Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Weapon Skill Damage
+            |Waist = Sailfi Belt +1
+            |Legs = Nyame Flanchard
+            |Feet = Amini Bottillons +3
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
+        Updated 2025 Jun. 28
+    }}
+
     {{
         Guide Equipment Set
         |Set Name Background=#404040
@@ -704,8 +698,8 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 15355 damage
             |Main = Malevolence
             |Sub = Malevolence
             |Range = Accipiter
@@ -727,6 +721,323 @@ True Shot and Hover Shot were not used on any set. Ranged sets used Velocity Sho
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2024 Nov. 23
+        Updated 2025 Jun. 28
+    }}
+}}
+
+
+{{
+    Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384048
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Armageddon AM3 /ra (True Shot[[True Shot|*]])
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 17017 damage
+            |Main = Oneiros Knife
+            |Sub = Gleti's Knife
+            |Range = Armageddon (Level 119 III)
+            |Ammo = Chrono Bullet
+            |Head = Meghanada Visor +2
+            |Neck = Rep. Plat. Medal
+            |Ear1 = Odr Earring
+            |Ear2 = Amini Earring +1
+            |Body = Nisroch Jerkin
+            |Hands = Arc. Bracers +4
+            |Ring1 = Begrudging Ring
+            |Ring2 = Regal Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Crit Rate
+            |Waist = Tellen Belt
+            |Legs = Amini Bragues +3
+            |Feet = Arc. Socks +4
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 21604 damage
+            |Main = Oneiros Knife
+            |Sub = Gleti's Knife
+            |Range = Armageddon (Level 119 III)
+            |Ammo = Chrono Bullet
+            |Head = Blistering Sallet +1
+            |Neck = Scout's Gorget +2
+            |Ear1 = Odr Earring
+            |Ear2 = Amini Earring +1
+            |Body = Nisroch Jerkin
+            |Hands = Ikenga's Gloves
+            |Ring1 = Sroda Ring
+            |Ring2 = Begrudging Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Crit Rate
+            |Waist = Tellen Belt
+            |Legs = Amini Bragues +3
+            |Feet = Ikenga's Clogs
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN. Aftermath Level 3 + Hover Shot
+        Updated 2025 Jun. 28
+    }}
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384048
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Armageddon AM3 Barrage[[Barrage|*]] (True Shot[[True Shot|*]])
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 187840 damage
+            |Main = Oneiros Knife
+            |Sub = Gleti's Knife
+            |Range = Armageddon (Level 119 III)
+            |Ammo = Chrono Bullet
+            |Head = Meghanada Visor +2
+            |Neck = Rep. Plat. Medal
+            |Ear1 = Odr Earring
+            |Ear2 = Amini Earring +1
+            |Body = Nisroch Jerkin
+            |Hands = Orion Bracers +4
+            |Ring1 = Begrudging Ring
+            |Ring2 = Regal Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Crit Rate
+            |Waist = Tellen Belt
+            |Legs = Amini Bragues +3
+            |Feet = Arc. Socks +4
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 228380 damage
+            |Main = Oneiros Knife
+            |Sub = Gleti's Knife
+            |Range = Armageddon (Level 119 III)
+            |Ammo = Chrono Bullet
+            |Head = Blistering Sallet +1
+            |Neck = Scout's Gorget +2
+            |Ear1 = Odr Earring
+            |Ear2 = Amini Earring +1
+            |Body = Nisroch Jerkin
+            |Hands = Orion Bracers +4
+            |Ring1 = Sroda Ring
+            |Ring2 = Begrudging Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Crit Rate
+            |Waist = Tellen Belt
+            |Legs = Amini Bragues +3
+            |Feet = Ikenga's Clogs
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN. Aftermath Level 3 + Hover Shot + Sharpshot
+        Updated 2025 Jun. 28
+    }}
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384048
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Gandiva AM3 /ra (True Shot[[True Shot|*]])
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 14584 damage
+            |Main = Oneiros Knife
+            |Sub = Gleti's Knife
+            |Range = Gandiva (Level 119 III)
+            |Ammo = Chrono Arrow
+            |Head = Blistering Sallet +1
+            |Neck = Rep. Plat. Medal
+            |Ear1 = Odr Earring
+            |Ear2 = Amini Earring +1
+            |Body = Nisroch Jerkin
+            |Hands = Amini Glove. +3
+            |Ring1 = Begrudging Ring
+            |Ring2 = Regal Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Crit Rate
+            |Waist = Tellen Belt
+            |Legs = Amini Bragues +3
+            |Feet = Ikenga's Clogs
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 17302 damage
+            |Main = Oneiros Knife
+            |Sub = Gleti's Knife
+            |Range = Gandiva (Level 119 III)
+            |Ammo = Chrono Arrow
+            |Head = Blistering Sallet +1
+            |Neck = Scout's Gorget +2
+            |Ear1 = Odr Earring
+            |Ear2 = Amini Earring +1
+            |Body = Nisroch Jerkin
+            |Hands = Malignance Gloves
+            |Ring1 = Sroda Ring
+            |Ring2 = Begrudging Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Crit Rate
+            |Waist = Tellen Belt
+            |Legs = Amini Bragues +3
+            |Feet = Ikenga's Clogs
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN. Aftermath Level 3 + Hover Shot
+        Updated 2025 Jun. 28
+    }}
+
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384048
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Gandiva AM3 Barrage[[Barrage|*]] (True Shot[[True Shot|*]])
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 160003 damage
+            |Main = Oneiros Knife
+            |Sub = Gleti's Knife
+            |Range = Gandiva (Level 119 III)
+            |Ammo = Chrono Arrow
+            |Head = Blistering Sallet +1
+            |Neck = Rep. Plat. Medal
+            |Ear1 = Odr Earring
+            |Ear2 = Amini Earring +1
+            |Body = Nisroch Jerkin
+            |Hands = Orion Bracers +4
+            |Ring1 = Begrudging Ring
+            |Ring2 = Regal Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Crit Rate
+            |Waist = Tellen Belt
+            |Legs = Amini Bragues +3
+            |Feet = Ikenga's Clogs
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 182892 damage
+            |Main = Oneiros Knife
+            |Sub = Gleti's Knife
+            |Range = Gandiva (Level 119 III)
+            |Ammo = Chrono Arrow
+            |Head = Blistering Sallet +1
+            |Neck = Scout's Gorget +2
+            |Ear1 = Odr Earring
+            |Ear2 = Amini Earring +1
+            |Body = Nisroch Jerkin
+            |Hands = Orion Bracers +4
+            |Ring1 = Sroda Ring
+            |Ring2 = Begrudging Ring
+            |Back = Belenus's Cape
+            |BackAug = STR, Crit Rate
+            |Waist = Tellen Belt
+            |Legs = Amini Bragues +3
+            |Feet = Ikenga's Clogs
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN. Aftermath Level 3 + Hover Shot + Sharpshot
+        Updated 2025 Jun. 28
+    }}
+
+}}
+
+
+
+{{
+    Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384048
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Naegling + Gleti Knife TP set
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = 50% DT
+            |CaptionBottom = 4.237 s
+            |Main = Naegling
+            |Sub = Gleti's Knife
+            |Range = Accipiter
+            |Ammo = Hauksbok Arrow
+            |Head = Malignance Chapeau
+            |Neck = Iskur Gorget
+            |Ear1 = Dedition Earring
+            |Ear2 = Sherida Earring
+            |Body = Tatena. Harama. +1
+            |Hands = Amini Glove. +3
+            |Ring1 = Defending Ring
+            |Ring2 = Epona's Ring
+            |Back = Belenus's Cape
+            |BackAug = AGI, Dual Wield
+            |Waist = Sailfi Belt +1
+            |Legs = Amini Bragues +3
+            |Feet = Tatena. Sune. +1
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = 25% DT
+            |CaptionBottom = 4.006 s
+            |Main = Naegling
+            |Sub = Gleti's Knife
+            |Range = Accipiter
+            |Ammo = Hauksbok Arrow
+            |Head = Adhemar Bonnet +1
+            |Neck = Iskur Gorget
+            |Ear1 = Sherida Earring
+            |Ear2 = Dedition Earring
+            |Body = Tatena. Harama. +1
+            |Hands = Malignance Gloves
+            |Ring1 = Epona's Ring
+            |Ring2 = Chirich Ring +1
+            |Back = Belenus's Cape
+            |BackAug = AGI, Dual Wield
+            |Waist = Windbuffet Belt +1
+            |Legs = Amini Bragues +3
+            |Feet = Tatena. Sune. +1
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RNG/NIN: 1000 TP
+        Updated 2025 Jun. 28
     }}
 }}
