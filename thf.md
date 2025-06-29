@@ -24,18 +24,18 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 40765 damage
+            |CaptionBottom = 32867 damage
             |Main = Twashtar (Level 119 III)
             |Sub = Centovente
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Pill. Bonnet +4
+            |Head = Nyame Helm
             |Neck = Asn. Gorget +2
             |Ear1 = Moonshade Earring
             |Ear2 = Domin. Earring +1
             |Body = Skulker's Vest +3
             |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
+            |Ring1 = Ilabrat Ring
             |Ring2 = Regal Ring
             |Back = Toutatis's Cape
             |BackAug = DEX, Weapon Skill Damage
@@ -70,7 +70,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
 
 
@@ -85,7 +85,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 41308 damage
+            |CaptionBottom = 33353 damage
             |Main = Mpu Gandring (Level 119 II)
             |Sub = Centovente
             |Range =
@@ -109,7 +109,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 49521 damage
+            |CaptionBottom = 49468 damage
             |Main = Mpu Gandring (Level 119 II)
             |Sub = Centovente
             |Range =
@@ -131,7 +131,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP + Aftermath Level 2
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
 
 
@@ -146,11 +146,11 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 31985 damage
+            |CaptionBottom = 31148 damage
             |Main = Vajra (Level 119 III)
             |Sub = Centovente
             |Range =
-            |Ammo = Crepuscular Pebble
+            |Ammo = Aurgelmir Orb +1
             |Head = Skulker's Bonnet +3
             |Neck = Asn. Gorget +2
             |Ear1 = Moonshade Earring
@@ -192,7 +192,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP + Aftermath Level 3
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
 
 
@@ -207,23 +207,23 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 37184 damage
+            |CaptionBottom = 34201 damage
             |Main = Tauret
             |Sub = Gleti's Knife
             |Range =
             |Ammo = Yetshila +1
-            |Head = Skulker's Bonnet +3
+            |Head = Blistering Sallet +1
             |Neck = Fotia Gorget
-            |Ear1 = Odr Earring
-            |Ear2 = Domin. Earring +1
+            |Ear1 = Moonshade Earring
+            |Ear2 = Odr Earring
             |Body = Plunderer's Vest +4
             |Hands = Gleti's Gauntlets
-            |Ring1 = Begrudging Ring
-            |Ring2 = Regal Ring
+            |Ring1 = Gere Ring
+            |Ring2 = Begrudging Ring
             |Back = Toutatis's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
-            |Legs = Gleti's Breeches
+            |Legs = Pill. Culottes +4
             |Feet = Gleti's Boots
             |List = Y
             |Background =
@@ -253,7 +253,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
 
 
@@ -268,12 +268,12 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 33258 damage
+            |CaptionBottom = 27614 damage
             |Main = Mandau (Level 119 III)
             |Sub = Gleti's Knife
             |Range =
             |Ammo = Seeth. Bomblet +1
-            |Head = Skulker's Bonnet +3
+            |Head = Nyame Helm
             |Neck = Rep. Plat. Medal
             |Ear1 = Sherida Earring
             |Ear2 = Skulk. Earring +1
@@ -314,7 +314,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
 
 
@@ -330,7 +330,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 17276 damage
+            |CaptionBottom = 14000 damage
             |Main = Aeneas
             |Sub = Gleti's Knife
             |Range =
@@ -376,7 +376,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
     
 
@@ -391,7 +391,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 26196 damage
+            |CaptionBottom = 21096 damage
             |Main = Aeneas
             |Sub = Centovente
             |Range =
@@ -437,7 +437,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
     
 
@@ -452,18 +452,18 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 49100 damage
+            |CaptionBottom = 40142 damage
             |Main = Naegling
             |Sub = Centovente
             |Range =
             |Ammo = Seeth. Bomblet +1
             |Head = Pill. Bonnet +4
-            |Neck = Null Loop
+            |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
             |Ear2 = Sherida Earring
             |Body = Skulker's Vest +3
             |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
+            |Ring1 = Beithir Ring
             |Ring2 = Regal Ring
             |Back = Toutatis's Cape
             |BackAug = STR, Weapon Skill Damage
@@ -498,7 +498,7 @@ See also: [https://www.ffxiah.com/forum/topic/36654/for-the-shinies-a-guide-for-
             |Background =
         }}
         |Equipment Set Notes=ML30 THF/DRG: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
 
     {{
