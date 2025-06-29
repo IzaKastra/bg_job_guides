@@ -22,7 +22,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 35722 damage
+            |CaptionBottom = 39417 damage
             |Main = Spalirisos (Level 119 II)
             |Sub = Ikenga's Axe
             |Range =
@@ -83,14 +83,14 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 28509 damage
+            |CaptionBottom = 31585 damage
             |Main = Dolichenus
             |Sub = Barbarity +1
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Ankusa Helm +4
             |Neck = Fotia Gorget
-            |Ear1 = Thrud Earring
+            |Ear1 = Lugra Earring +1
             |Ear2 = Sherida Earring
             |Body = Nukumi Gausape +3
             |Hands = Nyame Gauntlets
@@ -145,7 +145,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 34367 damage
+            |CaptionBottom = 37854 damage
             |Main = Ikenga's Axe
             |Sub = Barbarity +1
             |Range =
@@ -206,7 +206,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 17774 damage
+            |CaptionBottom = 19637 damage
             |Main = Guttler (Level 119 III)
             |Sub = Ikenga's Axe
             |Range =
@@ -268,10 +268,11 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 35013 damage
+            |CaptionBottom = 38647 damage
             |Main = Tri-edge
             |Sub = Ikenga's Axe
             |Range =
+            |RangeAug =
             |Ammo = Coiste Bodhar
             |Head = Ankusa Helm +4
             |Neck = Rep. Plat. Medal
@@ -330,16 +331,17 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 18054 damage
+            |CaptionBottom = 18928 damage
             |Main = Spalirisos (Level 119 II)
             |Sub = Ikenga's Axe
             |Range =
+            |RangeAug =
             |Ammo = Coiste Bodhar
             |Head = Blistering Sallet +1
             |Neck = Fotia Gorget
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Thrud Earring
-            |Body = Meg. Cuirie +2
+            |Ear1 = Sherida Earring
+            |Ear2 = Lugra Earring +1
+            |Body = Gleti's Cuirass
             |Hands = Nukumi Manoplas +3
             |Ring1 = Gere Ring
             |Ring2 = Regal Ring
@@ -392,7 +394,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 14827 damage
+            |CaptionBottom = 16449 damage
             |Main = Tri-edge
             |Sub = Barbarity +1
             |Range =
@@ -454,7 +456,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 17741 damage
+            |CaptionBottom = 19580 damage
             |Main = Agwu's Axe
             |Sub = Ikenga's Axe
             |Range =
