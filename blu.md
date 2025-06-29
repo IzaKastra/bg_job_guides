@@ -4,7 +4,7 @@ See the main [[:All Jobs Gear Sets]] page for details on how each set was determ
 
 Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
-Thibron (TP Bonus +1000) was enabled for all sets.
+Thibron (TP Bonus +1000) was enabled for all sets. However, [[Ice Brand]] and [[Flametongue]] were disabled unless otherwise specified.
 
 To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [https://www.ffxiah.com/forum/topic/30626/the-beast-within-a-guide-to-blue-mage/ FFXIAH BLU guide]. The code uses the following bonuses from this spell set:
 
@@ -106,11 +106,13 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Adhemar Bonnet +1
+            |HeadAug = Path B
             |Neck = Mirage Stole +2
             |Ear1 = Odr Earring
             |Ear2 = Mache Earring +1
             |Body = Gleti's Cuirass
             |Hands = Adhemar Wrist. +1
+            |HandsAug = Path B
             |Ring1 = Epona's Ring
             |Ring2 = Begrudging Ring
             |Back = Rosmerta's Cape
@@ -130,6 +132,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Adhemar Bonnet +1
+            |HeadAug = Path B
             |Neck = Mirage Stole +2
             |Ear1 = Mache Earring +1
             |Ear2 = Odr Earring
@@ -271,8 +274,6 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         Updated 2025 Jun. 28
     }}
 
-
-
     {{
         Guide Equipment Set
         |Set Name Background=#304878
@@ -332,6 +333,127 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
         Updated 2025 Jun. 28
     }}
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#304878
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Sanguine Blade[[Sanguine Blade|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 18416 damage
+            |Main = Naegling
+            |Sub = Bunzi's Rod
+            |Range =
+            |Ammo = Ghastly Tathlum +1
+            |Head = Hashishin Kavuk +3
+            |Neck = Sibyl Scarf
+            |Ear1 = Friomisi Earring
+            |Ear2 = Regal Earring
+            |Body = Nyame Mail
+            |Hands = Jhakri Cuffs +2
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Archon Ring
+            |Back = Rosmerta's Cape
+            |BackAug = INT, Weapon Skill Damage
+            |Waist = Orpheus's Sash
+            |Legs = Luh. Shalwar +4
+            |Feet = Hashi. Basmak +3
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = Ice Brand enabled
+            |CaptionBottom = 20850 damage
+            |Main = Ice Brand
+            |Sub = Bunzi's Rod
+            |Range =
+            |Ammo = Ghastly Tathlum +1
+            |Head = Hashishin Kavuk +3
+            |Neck = Sibyl Scarf
+            |Ear1 = Regal Earring
+            |Ear2 = Friomisi Earring
+            |Body = Nyame Mail
+            |Hands = Jhakri Cuffs +2
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Archon Ring
+            |Back = Rosmerta's Cape
+            |BackAug = INT, Weapon Skill Damage
+            |Waist = Orpheus's Sash
+            |Legs = Luh. Shalwar +4
+            |Feet = Hashi. Basmak +3
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
+        Updated 2025 Jun. 29
+    }}
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#304878
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Red Lotus Blade[[Red Lotus Blade|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 14325 damage
+            |Main = Sequence
+            |Sub = Thibron
+            |Range =
+            |Ammo = Ghastly Tathlum +1
+            |Head = Hashishin Kavuk +3
+            |Neck = Sibyl Scarf
+            |Ear1 = Moonshade Earring
+            |Ear2 = Friomisi Earring
+            |Body = Nyame Mail
+            |Hands = Jhakri Cuffs +2
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Beithir Ring
+            |Back = Rosmerta's Cape
+            |BackAug = STR, Weapon Skill Damage
+            |Waist = Orpheus's Sash
+            |Legs = Luh. Shalwar +4
+            |Feet = Hashi. Basmak +3
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = Ice Brand enabled
+            |CaptionBottom = 14968 damage
+            |Main = Ice Brand
+            |Sub = Thibron
+            |Range =
+            |Ammo = Ghastly Tathlum +1
+            |Head = Hashishin Kavuk +3
+            |Neck = Sibyl Scarf
+            |Ear1 = Moonshade Earring
+            |Ear2 = Regal Earring
+            |Body = Nyame Mail
+            |Hands = Jhakri Cuffs +2
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Beithir Ring
+            |Back = Rosmerta's Cape
+            |BackAug = INT, Weapon Skill Damage
+            |Waist = Orpheus's Sash
+            |Legs = Luh. Shalwar +4
+            |Feet = Hashi. Basmak +3
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
+        Updated 2025 Jun. 29
+    }}
+
 }}
 
 
@@ -399,6 +521,4 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         |Equipment Set Notes=ML30 BLU/WAR: 1000 TP + Aftermath Level 3
         Updated 2025 Jun. 28
     }}
-
-
 }}
