@@ -20,7 +20,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 25460 damage
+            |CaptionBottom = 22901 damage
             |Main = Carnwenhan (Level 119 III)
             |Sub = Crepuscular Knife
             |Range = Linos
@@ -68,7 +68,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
             |Background =
         }}
         |Equipment Set Notes=ML30 BRD/NIN: 1200 TP + Aftermath Level 3
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
 
     
@@ -83,14 +83,14 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 37352 damage
-            |Main = Mpu Gandring (Level 119 II)
+            |CaptionBottom = 32388 damage
+            |Main = Mpu Gandring (Level 119 III)
             |Sub = Centovente
             |Range = Linos
             |RangeAug = STR, Weapon Skill Damage
             |Ammo =
             |Head = Nyame Helm
-            |Neck = Rep. Plat. Medal
+            |Neck = Bard's Charm +2
             |Ear1 = Moonshade Earring
             |Ear2 = Ishvara Earring
             |Body = Bihu Justaucorps +4
@@ -108,7 +108,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 52415 damage
+            |CaptionBottom = 50433 damage
             |Main = Mpu Gandring (Level 119 III)
             |Sub = Centovente
             |Range = Linos
@@ -130,8 +130,8 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BRD/NIN: 1700 TP + Aftermath Level 2
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 BRD/NIN: 1600 TP + Aftermath Level 2
+        Updated 2025 Jun. 29
     }}
 
 
@@ -146,7 +146,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 33584 damage
+            |CaptionBottom = 29584 damage
             |Main = Twashtar (Level 119 III)
             |Sub = Centovente
             |Range = Linos
@@ -171,7 +171,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 44598 damage
+            |CaptionBottom = 43536 damage
             |Main = Twashtar (Level 119 III)
             |Sub = Centovente
             |Range = Linos
@@ -184,7 +184,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
             |Body = Bihu Justaucorps +4
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
-            |Ring2 = Cacoethic Ring +1
+            |Ring2 = Ilabrat Ring
             |Back = Intarabus's Cape
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Kentarch Belt +1
@@ -193,8 +193,8 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BRD/NIN: 1700 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 BRD/NIN: 1600 TP
+        Updated 2025 Jun. 29
     }}
 
     
@@ -209,7 +209,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 24202 damage
+            |CaptionBottom = 21782 damage
             |Main = Mandau (Level 119 III)
             |Sub = Gleti's Knife
             |Range = Linos
@@ -217,8 +217,8 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
             |Ammo =
             |Head = Nyame Helm
             |Neck = Rep. Plat. Medal
-            |Ear1 = Brutal Earring
-            |Ear2 = Ishvara Earring
+            |Ear1 = Ishvara Earring
+            |Ear2 = Brutal Earring
             |Body = Bihu Justaucorps +4
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
@@ -257,7 +257,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
             |Background =
         }}
         |Equipment Set Notes=ML30 BRD/NIN: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
 
 
@@ -274,15 +274,15 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 20244 damage
+            |CaptionBottom = 19342 damage
             |Main = Tauret
             |Sub = Gleti's Knife
             |Range = Linos
-            |RangeAug = QA, DA
+            |RangeAug = DEX, Crit Rate
             |Ammo =
             |Head = Blistering Sallet +1
             |Neck = Fotia Gorget
-            |Ear1 = Mache Earring +1
+            |Ear1 = Moonshade Earring
             |Ear2 = Mache Earring +1
             |Body = Bihu Justaucorps +4
             |Hands = Nyame Gauntlets
@@ -291,39 +291,38 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
             |Back = Intarabus's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
-            |Legs = Jokushu Haidate
+            |Legs = Zoar Subligar +1
             |Feet = Lustra. Leggings +1
-            |FeetAug = Path D
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 22201 damage
+            |CaptionBottom = 22173 damage
             |Main = Tauret
             |Sub = Crepuscular Knife
-            |Range =
-            |Ammo = Crepuscular Pebble
+            |Range = Linos
+            |RangeAug = DA, QA
+            |Ammo =
             |Head = Blistering Sallet +1
             |Neck = Bard's Charm +2
             |Ear1 = Mache Earring +1
             |Ear2 = Mache Earring +1
             |Body = Bunzi's Robe
             |Hands = Volte Mittens
-            |Ring1 = Ilabrat Ring
-            |Ring2 = Cacoethic Ring +1
+            |Ring1 = Cacoethic Ring +1
+            |Ring2 = Ilabrat Ring
             |Back = Intarabus's Cape
             |BackAug = DEX, DA
             |Waist = Fotia Belt
             |Legs = Jokushu Haidate
             |Feet = Lustra. Leggings +1
-            |FeetAug = Path D
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 BRD/NIN: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
 
     {{
@@ -376,7 +375,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 43341 damage
+            |CaptionBottom = 39005 damage
             |Main = Naegling
             |Sub = Centovente
             |Range = Linos
@@ -401,7 +400,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 52839 damage
+            |CaptionBottom = 52830 damage
             |Main = Naegling
             |Sub = Centovente
             |Range = Linos
@@ -424,7 +423,7 @@ Centovente (TP Bonus +1000) was enabled for these sets, but Minuet IV was swappe
             |Background =
         }}
         |Equipment Set Notes=ML30 BRD/NIN: 1400 TP
-        Updated 2025 Jun. 28
+        Updated 2025 Jun. 29
     }}
 
 }}
