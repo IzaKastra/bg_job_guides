@@ -6,15 +6,47 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
 See also: [https://www.ffxiah.com/forum/topic/53593/a-summoners-gear-guide/  A Summoner's Gear Guide (FFXIAH)]
 
-
-SMN sets compared against an enemy with 1300 Evasion and 1450 Defense.
-
-All sets enabled Crimson Howl and Ifrit's Favor.
+All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of Bliss used Shiva's Favor for the Magic Attack bonus.
 
 {{Guide Equipment Set Table
     |Header Notes=
     |Guide Equipment Sets=
 
+    {{
+        Guide Equipment Set
+        |Set Name Background=#1A7A38
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Garland of Bliss[[Garland of Bliss|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 17850 damage
+            |Main = Nirvana (Level 119 III)
+            |Sub = Alber Strap
+            |Range =
+            |Ammo = Oshasha's Treatise
+            |Head = Nyame Helm
+            |Neck = Saevus Pendant +1
+            |Ear1 = Crematio Earring
+            |Ear2 = Friomisi Earring
+            |Body = Nyame Mail
+            |Hands = Nyame Gauntlets
+            |Ring1 = Weather. Ring +1
+            |Ring2 = Metamor. Ring +1
+            |Back = Campestres's Cape
+            |BackAug = MND, Weapon Skill Damage
+            |Waist = Orpheus's Sash
+            |Legs = Nyame Flanchard
+            |Feet = Nyame Sollerets
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 SMN/RDM: 1200 TP + Shiva's Favor
+        Updated 2025 Jun. 29
+    }}
 
     {{
         Guide Equipment Set
@@ -26,20 +58,20 @@ All sets enabled Crimson Howl and Ifrit's Favor.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 9301 damage
             |Main = Khatvanga
-            |Sub = Khonsu
+            |Sub = Rigorous Grip +1
             |Range =
-            |Ammo = Oshasha's Treatise
+            |Ammo = Ghastly Tathlum +1
             |Head = Nyame Helm
-            |Neck = Fotia Gorget
+            |Neck = Null Loop
             |Ear1 = Mache Earring +1
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Mache Earring +1
             |Body = Nyame Mail
             |Hands = Gazu Bracelets +1
-            |Ring1 = Cacoethic Ring +1
-            |Ring2 = Metamor. Ring +1
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Cacoethic Ring +1
             |Back = Campestres's Cape
             |BackAug = INT, DA
             |Waist = Fotia Belt
@@ -50,18 +82,18 @@ All sets enabled Crimson Howl and Ifrit's Favor.
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
+            |CaptionTop = High buff
+            |CaptionBottom = 13316 damage
             |Main = Khatvanga
             |Sub = Khonsu
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
-            |Neck = Fotia Gorget
-            |Ear1 = Mache Earring +1
+            |Neck = Null Loop
+            |Ear1 = Domin. Earring +1
             |Ear2 = Sroda Earring
             |Body = Bunzi's Robe
-            |Hands = Nyame Gauntlets
+            |Hands = Bunzi's Gloves
             |Ring1 = Epaminondas's Ring
             |Ring2 = Metamor. Ring +1
             |Back = Campestres's Cape
@@ -73,10 +105,8 @@ All sets enabled Crimson Howl and Ifrit's Favor.
             |Background =
         }}
         |Equipment Set Notes=ML30 SMN/RDM: 1200 TP
-        Updated 2024 Nov. 24
+        Updated 2025 Jun. 29
     }}
-
-
 
     {{
         Guide Equipment Set
@@ -88,76 +118,14 @@ All sets enabled Crimson Howl and Ifrit's Favor.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
+            |CaptionTop = Mid buff
+            |CaptionBottom = 10316 damage
             |Main = Xoanon
-            |Sub = Rigorous Grip +1
-            |Range =
-            |Ammo = Crepuscular Pebble
-            |Head = Nyame Helm
-            |Neck = Fotia Gorget
-            |Ear1 = Moonshade Earring
-            |Ear2 = Mache Earring +1
-            |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Rufescent Ring
-            |Back = Campestres's Cape
-            |BackAug = MND, Weapon Skill Damage
-            |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Xoanon
-            |Sub = Rigorous Grip +1
-            |Range =
-            |Ammo = Crepuscular Pebble
-            |Head = Nyame Helm
-            |Neck = Fotia Gorget
-            |Ear1 = Moonshade Earring
-            |Ear2 = Mache Earring +1
-            |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Rufescent Ring
-            |Back = Campestres's Cape
-            |BackAug = MND, Weapon Skill Damage
-            |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 SMN/RDM: 1200 TP
-        Updated 2024 Nov. 24
-    }}
-
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#1A7A38
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= Black Halo[[Black Halo|*]]
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
-            |Main = Bunzi's Rod
-            |Sub = Culminus
+            |Sub = Khonsu
             |Range =
             |Ammo = Oshasha's Treatise
             |Head = Nyame Helm
-            |Neck = Rep. Plat. Medal
+            |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
             |Ear2 = Domin. Earring +1
             |Body = Nyame Mail
@@ -166,7 +134,7 @@ All sets enabled Crimson Howl and Ifrit's Favor.
             |Ring2 = Metamor. Ring +1
             |Back = Campestres's Cape
             |BackAug = STR, Weapon Skill Damage
-            |Waist = Grunfeld Rope
+            |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
@@ -174,59 +142,58 @@ All sets enabled Crimson Howl and Ifrit's Favor.
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Bunzi's Rod
-            |Sub = Culminus
+            |CaptionTop = High buff
+            |CaptionBottom = 10657 damage
+            |Main = Xoanon
+            |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
             |Ear2 = Domin. Earring +1
-            |Body = Bunzi's Robe
+            |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Metamor. Ring +1
             |Back = Campestres's Cape
-            |BackAug = MND, Weapon Skill Damage
+            |BackAug = STR, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SMN/RDM: 2000 TP
-        Updated 2024 Nov. 24
+        |Equipment Set Notes=ML30 SMN/RDM: 1200 TP
+        Updated 2025 Jun. 29
     }}
-
 
     {{
         Guide Equipment Set
         |Set Name Background=#1A7A38
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Realmrazer[[Realmrazer|*]]
+        |Set Name= Gate of Tartarus[[Gate of Tartarus|*]]
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom =
-            |Main = Bunzi's Rod
-            |Sub = Culminus
+            |CaptionTop = Mid buff
+            |CaptionBottom = 9542 damage
+            |Main = Claustrum (Level 119 III)
+            |Sub = Rigorous Grip +1
             |Range =
-            |Ammo = Hasty Pinion +1
+            |Ammo = Oshasha's Treatise
             |Head = Nyame Helm
             |Neck = Fotia Gorget
-            |Ear1 = Domin. Earring +1
-            |Ear2 = Mache Earring +1
+            |Ear1 = Ishvara Earring
+            |Ear2 = Telos Earring
             |Body = Nyame Mail
-            |Hands = Gazu Bracelets +1
-            |Ring1 = Rufescent Ring
+            |Hands = Nyame Gauntlets
+            |Ring1 = Epaminondas's Ring
             |Ring2 = Metamor. Ring +1
             |Back = Campestres's Cape
-            |BackAug = MND, DA
+            |BackAug = INT, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
@@ -235,30 +202,31 @@ All sets enabled Crimson Howl and Ifrit's Favor.
         }}
         {{
             Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom =
-            |Main = Bunzi's Rod
-            |Sub =
+            |CaptionTop = High buff
+            |CaptionBottom = 12392 damage
+            |Main = Claustrum (Level 119 III)
+            |Sub = Khonsu
             |Range =
+            |RangeAug =
             |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
             |Neck = Fotia Gorget
-            |Ear1 = Mache Earring +1
-            |Ear2 = Domin. Earring +1
+            |Ear1 = Ishvara Earring
+            |Ear2 = Sroda Earring
             |Body = Bunzi's Robe
-            |Hands = Bunzi's Gloves
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Rufescent Ring
+            |Hands = Nyame Gauntlets
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Campestres's Cape
-            |BackAug = MND, DA
+            |BackAug = INT, Weapon Skill Damage
             |Waist = Fotia Belt
-            |Legs = Bunzi's Pants
+            |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SMN/RDM: 1500 TP
-        Updated 2024 Nov. 24
+        |Equipment Set Notes=ML30 SMN/RDM: 1200 TP
+        Updated 2025 Jun. 29
     }}
 
 }}
