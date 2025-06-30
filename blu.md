@@ -495,7 +495,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         }}
         {{
             Equipment Set
-            |CaptionTop = 50% DT
+            |CaptionTop = 25% DT
             |CaptionBottom = 3.448 s
             |Main = Tizona (Level 119 III)
             |Sub = Thibron
