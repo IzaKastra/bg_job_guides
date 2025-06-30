@@ -483,7 +483,7 @@ Orpheus's Sash was excluded from Ranged sets.
         |Set Name Background=#a0a098
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Naegling TP
+        |Set Name= Naegling + Gleti's TP
         |Set Border Color=#51414F
         |Equipment Set=
         {{
@@ -530,17 +530,15 @@ Orpheus's Sash was excluded from Ranged sets.
             |Ring1 = Petrov Ring
             |Ring2 = Epona's Ring
             |Back = Camulus's Mantle
-            |BackAug = AGI, DA
+            |BackAug = DEX, DA
             |Waist = Windbuffet Belt +1
             |Legs = Chas. Culottes +3
             |Feet = Carmine Greaves +1
-            |FeetAug = Path D
+            |FeetAug = Path B
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 COR/DNC: 1000 TP
+        |Equipment Set Notes=ML30 COR/DNC: 1000 TP + subjob Haste Samba (+5% JA Haste)
         Updated 2025 Jun. 29
     }}
-
-
 }}
