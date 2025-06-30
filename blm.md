@@ -4,13 +4,16 @@ See the main [[:All Jobs Gear Sets]] page for details on how each set was determ
 
 Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
-
 All magic damage sets sets used:
 * Crooked 10-Wizard's roll and 9-Warlocks roll with job bonuses enabled
 * Indi-Acumen and 20% potency BoG Geo-Malaise.
 * Tropical Crepe
 
-Weather was disabled for these tests.
+Mythic Aftermath Level assumed 85% full potency
+* +46 Magic Attack
+* +46 Magic Accuracy
+
+Weather was disabled for these tests, but [[Hachirin-no-Obi]] would be the clear winner with tier1 storm spells enabled.
 
 Melee sets used Grape Daifuku with standard Melee buffs defined on the main page, but against an i132 Apex enemy with 1150 evasion, 1250 defense, and 270 VIT.
 
@@ -58,7 +61,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 104859 damage
+            |CaptionBottom = 104,859 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
@@ -118,7 +121,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 104572 damage
+            |CaptionBottom = 104,572 damage
             |Main = Laevateinn (Level 119 III)
             |Sub = Enki Strap
             |Range =
@@ -178,7 +181,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 100540 damage
+            |CaptionBottom = 100,540 damage
             |Main = Marin Staff +1
             |Sub = Enki Strap
             |Range =
