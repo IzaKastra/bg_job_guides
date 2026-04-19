@@ -25,53 +25,54 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 19881 damage
+            |CaptionBottom = 22206 damage
             |Main = Heishi Shorinken
             |Sub = Yagyu Darkblade
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Mpaca's Cap
+            |Head = Revelation Masque
             |Neck = Fotia Gorget
-            |Ear1 = Lugra Earring +1
+            |Ear1 = Moonshade Earring
             |Ear2 = Hattori Earring +1
-            |Body = Malignance Tabard
-            |Hands = Malignance Gloves
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
             |Ring1 = Gere Ring
             |Ring2 = Regal Ring
             |Back = Andartia's Mantle
             |BackAug = DEX, DA
             |Waist = Fotia Belt
             |Legs = Mpaca's Hose
-            |Feet = Hattori Kyahan +3
+            |Feet = Revelation Sab.
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 20824 damage
+            |CaptionBottom = 23539 damage
             |Main = Heishi Shorinken
             |Sub = Yagyu Darkblade
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Ken. Jinpachi +1
+            |Head = Revelation Masque
             |Neck = Ninja Nodowa +2
-            |Ear1 = Lugra Earring +1
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
             |Ear2 = Hattori Earring +1
-            |Body = Malignance Tabard
-            |Hands = Malignance Gloves
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
             |Ring1 = Gere Ring
             |Ring2 = Regal Ring
             |Back = Andartia's Mantle
             |BackAug = DEX, DA
             |Waist = Fotia Belt
             |Legs = Mpaca's Hose
-            |Feet = Ken. Sune-Ate +1
+            |Feet = Revelation Sab.
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2025 Jun. 17
+        Updated 2026 Apr. 19
     }}
 
     {{
@@ -85,7 +86,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 34612 damage
+            |CaptionBottom = 34282 damage
             |Main = Heishi Shorinken
             |Sub = Kunimitsu
             |Range =
@@ -93,7 +94,8 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Head = Mpaca's Cap
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Lugra Earring +1
+            |Ear2 = Hoxne Earring
+            |Ear2Aug = Mastery Rank 7
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
@@ -109,17 +111,17 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 43133 damage
+            |CaptionBottom = 42985 damage
             |Main = Heishi Shorinken
-            |Sub = Crepuscular Knife
+            |Sub = Kunimitsu
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Hachi. Hatsu. +4
             |Neck = Ninja Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Hattori Earring +1
-            |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Andartia's Mantle
@@ -130,10 +132,9 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1900 TP
-        Updated 2025 Jun. 17
+        |Equipment Set Notes=ML30 NIN/WAR: 1800 TP
+        Updated 2026 Apr. 19
     }}
-
 
     {{
         Guide Equipment Set
@@ -146,15 +147,16 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 27843 damage
+            |CaptionBottom = 28487 damage
             |Main = Kikoku (Level 119 III)
             |Sub = Kunimitsu
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Hachi. Hatsu. +4
             |Neck = Ninja Nodowa +2
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Domin. Earring +1
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
+            |Ear2 = Alabaster Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
@@ -170,17 +172,17 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 34594 damage
+            |CaptionBottom = 36205 damage
             |Main = Kikoku (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Hachi. Hatsu. +4
             |Neck = Ninja Nodowa +2
-            |Ear1 = Lugra Earring +1
+            |Ear1 = Hoxne Earring
             |Ear2 = Hattori Earring +1
-            |Body = Malignance Tabard
-            |Hands = Nyame Gauntlets
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
             |Ring1 = Epaminondas's Ring
             |Ring2 = Gere Ring
             |Back = Andartia's Mantle
@@ -191,9 +193,10 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1200 TP + Aftermath Level 1
-        Updated 2025 Jun. 17
+        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP + AM1
+        Updated 2026 Apr. 19
     }}
+
 
     {{
         Guide Equipment Set
@@ -206,21 +209,21 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 30079 damage
-            |Main = Dokoku (Level 119 II)
+            |CaptionBottom = 32460 damage
+            |Main = Dokoku (Level 119 III)
             |Sub = Kunimitsu
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Mpaca's Cap
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Lugra Earring +1
+            |Ear2 = Hoxne Earring
+            |Ear2Aug = Mastery Rank 7
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Ilabrat Ring
+            |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
-            |Back = Andartia's Mantle
-            |BackAug = STR, Weapon Skill Damage
+            |Back = Alabaster Mantle
             |Waist = Sailfi Belt +1
             |Legs = Mochi. Hakama +4
             |Feet = Hattori Kyahan +3
@@ -230,30 +233,29 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 40810 damage
-            |Main = Dokoku (Level 119 II)
-            |Sub = Crepuscular Knife
+            |CaptionBottom = 44090 damage
+            |Main = Dokoku (Level 119 III)
+            |Sub = Kunimitsu
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Mpaca's Cap
             |Neck = Ninja Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Hattori Earring +1
-            |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
             |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
-            |Back = Andartia's Mantle
-            |BackAug = DEX, Weapon Skill Damage
-            |Waist = Kentarch Belt +1
+            |Back = Alabaster Mantle
+            |Waist = Sailfi Belt +1
             |Legs = Nyame Flanchard
             |Feet = Hattori Kyahan +3
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1900 TP + Aftermath Level 2
-        Updated 2025 Jun. 17
-    }}    
+        |Equipment Set Notes=ML30 NIN/WAR: 2000 TP + AM2
+        Updated 2026 Apr. 19
+    }}
     
     {{
         Guide Equipment Set
@@ -266,53 +268,55 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 21924 damage
+            |CaptionBottom = 22959 damage
             |Main = Gokotai
             |Sub = Kunimitsu
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Mpaca's Cap
+            |Head = Revelation Masque
             |Neck = Fotia Gorget
             |Ear1 = Lugra Earring +1
-            |Ear2 = Brutal Earring
-            |Body = Nyame Mail
+            |Ear2 = Hoxne Earring
+            |Ear2Aug = Mastery Rank 7
+            |Body = Revelation Plate.
             |Hands = Mochi. Tekko +4
             |Ring1 = Gere Ring
             |Ring2 = Regal Ring
             |Back = Andartia's Mantle
             |BackAug = STR, DA
             |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Hattori Kyahan +3
+            |Legs = Revelation Brais
+            |Feet = Revelation Sab.
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 28145 damage
+            |CaptionBottom = 33618 damage
             |Main = Gokotai
             |Sub = Crepuscular Knife
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Blistering Sallet +1
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Lugra Earring +1
+            |Head = Revelation Masque
+            |Neck = Fotia Gorget
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
             |Ear2 = Hattori Earring +1
-            |Body = Nyame Mail
-            |Hands = Malignance Gloves
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
             |Ring1 = Sroda Ring
             |Ring2 = Gere Ring
             |Back = Andartia's Mantle
             |BackAug = STR, DA
             |Waist = Fotia Belt
-            |Legs = Mpaca's Hose
-            |Feet = Hattori Kyahan +3
+            |Legs = Revelation Brais
+            |Feet = Revelation Sab.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2025 Jun. 17
+        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP
+        Updated 2026 Apr. 19
     }}
 
 
@@ -327,7 +331,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 25280 damage
+            |CaptionBottom = 26003 damage
             |Main = Kannagi (Level 119 III)
             |Sub = Gleti's Knife
             |Range =
@@ -335,10 +339,11 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Head = Hachi. Hatsu. +4
             |Neck = Ninja Nodowa +2
             |Ear1 = Odr Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
+            |Ear2Aug = Mastery Rank 7
             |Body = Hattori Ningi +3
             |Hands = Nyame Gauntlets
-            |Ring1 = Ilabrat Ring
+            |Ring1 = Gere Ring
             |Ring2 = Regal Ring
             |Back = Andartia's Mantle
             |BackAug = AGI, Weapon Skill Damage
@@ -351,31 +356,33 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 27688 damage
+            |CaptionBottom = 30381 damage
             |Main = Kannagi (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
             |Ammo = Yetshila +1
             |Head = Hachi. Hatsu. +4
             |Neck = Ninja Nodowa +2
-            |Ear1 = Odr Earring
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
             |Ear2 = Hattori Earring +1
-            |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
-            |Ring2 = Epaminondas's Ring
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Regal Ring
             |Back = Andartia's Mantle
             |BackAug = AGI, Weapon Skill Damage
             |Waist = Gerdr Belt +1
-            |Legs = Mpaca's Hose
+            |Legs = Revelation Brais
             |Feet = Hattori Kyahan +3
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2025 Jun. 17
+        Updated 2026 Apr. 19
     }}
-    
+
+
     {{
         Guide Equipment Set
         |Set Name Background=#384820
@@ -387,55 +394,56 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 16125 damage
+            |CaptionBottom = 18343 damage
             |Main = Nagi (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Hachi. Hatsu. +4
+            |Head = Revelation Masque
             |Neck = Ninja Nodowa +2
-            |Ear1 = Lugra Earring +1
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
             |Ear2 = Hattori Earring +1
-            |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
             |Ring1 = Sroda Ring
             |Ring2 = Gere Ring
             |Back = Andartia's Mantle
-            |BackAug = STR, Weapon Skill Damage
+            |BackAug = STR, DA
             |Waist = Sailfi Belt +1
-            |Legs = Mpaca's Hose
-            |Feet = Nyame Sollerets
+            |Legs = Revelation Brais
+            |Feet = Revelation Sab.
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 16179 damage
+            |CaptionBottom = 18343 damage
             |Main = Nagi (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Hachi. Hatsu. +4
+            |Head = Revelation Masque
             |Neck = Ninja Nodowa +2
-            |Ear1 = Lugra Earring +1
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
             |Ear2 = Hattori Earring +1
-            |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
             |Ring1 = Sroda Ring
             |Ring2 = Gere Ring
             |Back = Andartia's Mantle
             |BackAug = STR, DA
             |Waist = Sailfi Belt +1
-            |Legs = Mpaca's Hose
-            |Feet = Nyame Sollerets
+            |Legs = Revelation Brais
+            |Feet = Revelation Sab.
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP + AM3
-        Updated 2025 Jun. 17
+        Updated 2026 Apr. 19
     }}
-
 
     {{
         Guide Equipment Set
@@ -448,7 +456,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 44585 damage
+            |CaptionBottom = 45836 damage
             |Main = Naegling
             |Sub = Hitaki
             |Range =
@@ -456,7 +464,8 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Head = Hachi. Hatsu. +4
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Lugra Earring +1
+            |Ear2 = Hoxne Earring
+            |Ear2Aug = Mastery Rank 7
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Beithir Ring
@@ -472,7 +481,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 56359 damage
+            |CaptionBottom = 56795 damage
             |Main = Naegling
             |Sub = Hitaki
             |Range =
@@ -482,7 +491,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Ear1 = Moonshade Earring
             |Ear2 = Hattori Earring +1
             |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Hands = Revelation Gaunt.
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Andartia's Mantle
@@ -494,9 +503,8 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2025 Jun. 17
+        Updated 2026 Apr. 19
     }}
-
 
     {{
         Guide Equipment Set
@@ -509,7 +517,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 80361 damage
+            |CaptionBottom = 77741 damage
             |Main = Heishi Shorinken
             |Sub = Kunimitsu
             |Range =
@@ -517,7 +525,8 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Head = Mochi. Hatsu. +4
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Lugra Earring +1
+            |Ear2 = Hoxne Earring
+            |Ear2Aug = Mastery Rank 7
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -533,7 +542,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 93868 damage
+            |CaptionBottom = 90070 damage
             |Main = Heishi Shorinken
             |Sub = Kunimitsu
             |Range =
@@ -554,10 +563,9 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1900 TP
-        Updated 2025 Jun. 17
+        |Equipment Set Notes=ML30 NIN/WAR: 1800 TP
+        Updated 2026 Apr. 19
     }}
-
 
 
     {{
@@ -571,7 +579,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 17984 damage
+            |CaptionBottom = 17300 damage
             |Main = Heishi Shorinken
             |Sub = Kunimitsu
             |Range =
@@ -592,10 +600,11 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1900 TP
-        Updated 2025 Jun. 17
-    }}    
-    
+        |Equipment Set Notes=ML30 NIN/WAR: 1800 TP
+        Updated 2026 Apr. 19
+    }}
+
+
     {{
         Guide Equipment Set
         |Set Name Background=#384820
@@ -606,14 +615,14 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = High buff
-            |CaptionBottom = 12115 damage
-            |Main = Tauret
-            |Sub = Kunimitsu
+            |CaptionTop = Mid buff
+            |CaptionBottom = 13446 damage
+            |Main = Malevolence
+            |Sub = Hitaki
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Mochi. Hatsu. +4
-            |Neck = Baetyl Pendant
+            |Neck = Sibyl Scarf
             |Ear1 = Moonshade Earring
             |Ear2 = Friomisi Earring
             |Body = Nyame Mail
@@ -621,7 +630,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Ring1 = Epaminondas's Ring
             |Ring2 = Dingir Ring
             |Back = Andartia's Mantle
-            |BackAug = INT, Weapon Skill Damage
+            |BackAug = DEX, Weapon Skill Damage
             |Waist = Orpheus's Sash
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
@@ -629,9 +638,72 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2025 Jun. 17
+        Updated 2026 Apr. 19
     }}
 
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384820
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Evisceration[[Evisceration|*]]
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Mid buff
+            |CaptionBottom = 30582 damage
+            |Main = Tauret
+            |Sub = Gleti's Knife
+            |Range =
+            |Ammo = Yetshila +1
+            |Head = Adhemar Bonnet +1
+            |HeadAug = Path B
+            |Neck = Fotia Gorget
+            |Ear1 = Odr Earring
+            |Ear2 = Hoxne Earring
+            |Ear2Aug = Mastery Rank 7
+            |Body = Revelation Plate.
+            |Hands = Ryuo Tekko +1
+            |HandsAug = Path A
+            |Ring1 = Gere Ring
+            |Ring2 = Regal Ring
+            |Back = Andartia's Mantle
+            |BackAug = DEX, DA
+            |Waist = Fotia Belt
+            |Legs = Revelation Brais
+            |Feet = Revelation Sab.
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 32976 damage
+            |Main = Tauret
+            |Sub = Crepuscular Knife
+            |Range =
+            |Ammo = Yetshila +1
+            |Head = Revelation Masque
+            |Neck = Ninja Nodowa +2
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
+            |Ear2 = Hattori Earring +1
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
+            |Ring1 = Gere Ring
+            |Ring2 = Regal Ring
+            |Back = Andartia's Mantle
+            |BackAug = DEX, DA
+            |Waist = Fotia Belt
+            |Legs = Revelation Brais
+            |Feet = Revelation Sab.
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 NIN/WAR: 1200 TP + [[Innin|Innin]]
+        Updated 2026 Apr. 19
+    }}
 
     {{
         Guide Equipment Set
@@ -644,23 +716,24 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 22107 damage
+            |CaptionBottom = 23251 damage
             |Main = Karambit
             |Sub =
             |Range =
             |Ammo = Seeth. Bomblet +1
-            |Head = Mochi. Hatsu. +4
+            |Head = Revelation Masque
             |Neck = Fotia Gorget
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Domin. Earring +1
-            |Body = Hattori Ningi +3
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
+            |Ear2Aug = Mastery Rank 7
+            |Body = Revelation Plate.
             |Hands = Mochi. Tekko +4
-            |Ring1 = Beithir Ring
+            |Ring1 = Gere Ring
             |Ring2 = Regal Ring
             |Back = Andartia's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Fotia Belt
-            |Legs = Tatena. Haidate +1
+            |Legs = Revelation Brais
             |Feet = Hattori Kyahan +3
             |List = Y
             |Background =
@@ -668,94 +741,30 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 32089 damage
+            |CaptionBottom = 36301 damage
             |Main = Karambit
             |Sub =
             |Range =
-            |Ammo = Crepuscular Pebble
-            |Head = Hachi. Hatsu. +4
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Lugra Earring +1
+            |Ammo = Seeth. Bomblet +1
+            |Head = Revelation Masque
+            |Neck = Fotia Gorget
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
             |Ear2 = Hattori Earring +1
-            |Body = Nyame Mail
-            |Hands = Malignance Gloves
+            |Body = Revelation Plate.
+            |Hands = Revelation Gaunt.
             |Ring1 = Sroda Ring
             |Ring2 = Regal Ring
             |Back = Andartia's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Mpaca's Hose
-            |Feet = Hattori Kyahan +3
+            |Feet = Revelation Sab.
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 NIN/WAR: 1200 TP
-        Updated 2025 Jun. 17
-    }}
-    
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= Evisceration[[Evisceration|*]]
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom = 28326 damage
-            |Main = Tauret
-            |Sub = Gleti's Knife
-            |Range =
-            |Ammo = Yetshila +1
-            |Head = Adhemar Bonnet +1
-            |HeadAug = Path B
-            |Neck = Fotia Gorget
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Hattori Earring +1
-            |Body = Hattori Ningi +3
-            |Hands = Ryuo Tekko +1
-            |HandsAug = Path A
-            |Ring1 = Gere Ring
-            |Ring2 = Regal Ring
-            |Back = Andartia's Mantle
-            |BackAug = DEX, Crit Rate
-            |Waist = Fotia Belt
-            |Legs = Mpaca's Hose
-            |Feet = Ken. Sune-Ate +1
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High Buff
-            |CaptionBottom = 29728 damage
-            |Main = Tauret
-            |Sub = Gleti's Knife
-            |Range =
-            |Ammo = Yetshila +1
-            |Head = Adhemar Bonnet +1
-            |HeadAug = Path B
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Hattori Earring +1
-            |Body = Abnoba Kaftan
-            |Hands = Ryuo Tekko +1
-            |HandsAug = Path A
-            |Ring1 = Gere Ring
-            |Ring2 = Regal Ring
-            |Back = Andartia's Mantle
-            |BackAug = DEX, Crit Rate
-            |Waist = Fotia Belt
-            |Legs = Mpaca's Hose
-            |Feet = Ken. Sune-Ate +1
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1200 TP + [[Innin|Innin]]
-        Updated 2025 Jun. 17
+        Updated 2026 Apr. 19
     }}
 
 
@@ -776,19 +785,20 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 10627 damage
+            |CaptionBottom = 10695 damage
             |Main = Gokotai
             |Sub = Tauret
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Mochi. Hatsu. +4
             |Neck = Sibyl Scarf
-            |Ear1 = Friomisi Earring
-            |Ear2 = Crematio Earring
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
+            |Ear2 = Friomisi Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Metamor. Ring +1
-            |Ring2 = Shiva Ring +1
+            |Ring2 = Dingir Ring
             |Back = Andartia's Mantle
             |BackAug = INT, Magic Attack
             |Waist = Orpheus's Sash
@@ -800,15 +810,16 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 32572 damage
-            |Main = Kunimitsu
-            |Sub = Gokotai
+            |CaptionBottom = 32826 damage
+            |Main = Gokotai
+            |Sub = Kunimitsu
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Mochi. Hatsu. +4
             |Neck = Sibyl Scarf
-            |Ear1 = Friomisi Earring
-            |Ear2 = Crematio Earring
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
+            |Ear2 = Friomisi Earring
             |Body = Nyame Mail
             |Hands = Hattori Tekko +3
             |Ring1 = Metamor. Ring +1
@@ -826,7 +837,7 @@ See also: [https://www.ffxiah.com/forum/topic/56749/updated-ninjutsu-damage-form
 Assumes 5/5 Ninjutsu Magic Attack Merits
 
 Ignoring Gyve, which has zero magic accuracy.
-Updated 2025 Jun. 21
+Updated 2026 Apr. 19
     }}
 
 
@@ -840,20 +851,21 @@ Updated 2025 Jun. 21
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Futae Nuke
-            |CaptionBottom = 20675 damage
+            |CaptionTop = Free Nuke
+            |CaptionBottom = 20755 damage
             |Main = Gokotai
             |Sub = Tauret
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Mochi. Hatsu. +4
             |Neck = Sibyl Scarf
-            |Ear1 = Friomisi Earring
-            |Ear2 = Crematio Earring
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
+            |Ear2 = Friomisi Earring
             |Body = Nyame Mail
             |Hands = Hattori Tekko +3
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Dingir Ring
+            |Ring1 = Dingir Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Andartia's Mantle
             |BackAug = INT, Magic Attack
             |Waist = Orpheus's Sash
@@ -864,20 +876,21 @@ Updated 2025 Jun. 21
         }}
         {{
             Equipment Set
-            |CaptionTop = Futae Burst
-            |CaptionBottom = 65532 damage
-            |Main = Kunimitsu
-            |Sub = Gokotai
+            |CaptionTop = Magic Burst
+            |CaptionBottom = 65848 damage
+            |Main = Gokotai
+            |Sub = Kunimitsu
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Mochi. Hatsu. +4
             |Neck = Sibyl Scarf
-            |Ear1 = Friomisi Earring
-            |Ear2 = Crematio Earring
+            |Ear1 = Hoxne Earring
+            |Ear1Aug = Mastery Rank 7
+            |Ear2 = Friomisi Earring
             |Body = Nyame Mail
             |Hands = Hattori Tekko +3
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Mujin Band
+            |Ring1 = Mujin Band
+            |Ring2 = Metamor. Ring +1
             |Back = Andartia's Mantle
             |BackAug = INT, Magic Attack
             |Waist = Orpheus's Sash
@@ -891,427 +904,138 @@ Updated 2025 Jun. 21
 Assumes 5/5 Ninjutsu Magic Attack Merits
 
 Ignoring Gyve, which has zero magic accuracy.
-Updated 2025 Jun. 28
+Updated 2026 Apr. 19
     }}
-
 }}
 
 
 
 
 {{Guide Equipment Set Table
-    |Header Notes=Heishi + Kunimitsu TP sets
+    |Header Notes=TP sets
     |Guide Equipment Sets=
     {{
         Guide Equipment Set
         |Set Name Background=#384820
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= 0% DT Heishi+Kunimitsu TP
+        |Set Name= Heishi + Kunimitsu TP
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom = 2.605 s
+            |CaptionTop = -50% DT
+            |CaptionBottom = 2.732 s
             |Main = Heishi Shorinken
             |Sub = Kunimitsu
             |Range =
             |Ammo = Seki Shuriken
-            |Head = Malignance Chapeau
+            |Head = Revelation Masque
             |Neck = Ninja Nodowa +2
-            |Ear1 = Dedition Earring
-            |Ear2 = Telos Earring
-            |Body = Tatena. Harama. +1
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path C
-            |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
-            |Back = Null Shawl
-            |Waist = Sailfi Belt +1
-            |Legs = Samnuha Tights
-            |Feet = Tatena. Sune. +1
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP
-        Updated 2025 Feb. 26
-    }}
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= 10% DT Heishi+Kunimitsu TP
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom = 2.638 s
-            |Main = Heishi Shorinken
-            |Sub = Kunimitsu
-            |Range =
-            |Ammo = Seki Shuriken
-            |Head = Mpaca's Cap
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Dedition Earring
-            |Ear2 = Telos Earring
-            |Body = Tatena. Harama. +1
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path C
-            |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
-            |Back = Null Shawl
-            |Waist = Windbuffet Belt +1
-            |Legs = Malignance Tights
-            |Feet = Tatena. Sune. +1
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP
-        Updated 2025 Feb. 26
-    }}
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= 20% DT Heishi+Kunimitsu TP
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom = 2.641 s
-            |Main = Heishi Shorinken
-            |Sub = Kunimitsu
-            |Range =
-            |Ammo = Date Shuriken
-            |Head = Malignance Chapeau
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Dedition Earring
-            |Ear2 = Telos Earring
-            |Body = Mpaca's Doublet
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path C
-            |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
-            |Back = Null Shawl
-            |Waist = Sailfi Belt +1
-            |Legs = Ryuo Hakama +1
-            |LegsAug = Path D
-            |Feet = Tatena. Sune. +1
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP
-        Updated 2025 Feb. 26
-    }}
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= 30% DT Heishi+Kunimitsu TP
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom = 2.692 s
-            |Main = Heishi Shorinken
-            |Sub = Kunimitsu
-            |Range =
-            |Ammo = Seki Shuriken
-            |Head = Malignance Chapeau
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Brutal Earring
-            |Ear2 = Telos Earring
-            |Body = Mpaca's Doublet
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path C
-            |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
-            |Back = Andartia's Mantle
-            |BackAug = AGI, Store TP
-            |Waist = Sailfi Belt +1
-            |Legs = Ryuo Hakama +1
-            |LegsAug = Path D
-            |Feet = Tatena. Sune. +1
-            |List = Y
-            |Background =
-        }} 
-       |Equipment Set Notes=ML30 NIN/WAR: 1000 TP
-        Updated 2025 Feb. 26
-    }}
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= 40% DT Heishi+Kunimitsu TP
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom = 2.773 s
-            |Main = Heishi Shorinken
-            |Sub = Kunimitsu
-            |Range =
-            |Ammo = Seki Shuriken
-            |Head = Mpaca's Cap
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Dedition Earring
-            |Ear2 = Brutal Earring
-            |Body = Mpaca's Doublet
-            |Hands = Malignance Gloves
-            |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
-            |Back = Andartia's Mantle
-            |BackAug = AGI, DA
-            |Waist = Windbuffet Belt +1
-            |Legs = Malignance Tights
-            |Feet = Malignance Boots
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP
-        Updated 2025 Feb. 26
-    }}
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= 50% DT Heishi+Kunimitsu TP
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom = 2.872 s
-            |Main = Heishi Shorinken
-            |Sub = Kunimitsu
-            |Range =
-            |Ammo = Seki Shuriken
-            |Head = Mpaca's Cap
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Dedition Earring
-            |Ear2 = Brutal Earring
-            |Body = Mpaca's Doublet
-            |Hands = Malignance Gloves
-            |Ring1 = Defending Ring
-            |Ring2 = Gere Ring
-            |Back = Andartia's Mantle
-            |BackAug = AGI, DA
-            |Waist = Windbuffet Belt +1
-            |Legs = Malignance Tights
-            |Feet = Malignance Boots
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP
-        Updated 2025 Feb. 26
-    }}
-
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= 30% DT Nagi AM3 TP
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom = 2.390 s
-            |Main = Nagi (Level 119 III)
-            |Sub = Crepuscular Knife
-            |Range =
-            |Ammo = Seki Shuriken
-            |Head = Malignance Chapeau
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Dedition Earring
-            |Ear2 = Telos Earring
-            |Body = Mpaca's Doublet
-            |Hands = Malignance Gloves
-            |Ring1 = Gere Ring
-            |Ring2 = Petrov Ring
-            |Back = Andartia's Mantle
-            |BackAug = AGI, Store TP
-            |Waist = Sailfi Belt +1
-            |Legs = Samnuha Tights
-            |Feet = Malignance Boots
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP + Aftermath Level 3
-        Updated 2025 Feb. 27
-    }}
-
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= 30% DT Kannagi AM3 DPS TP
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Mid Buff
-            |CaptionBottom = 2839 DPS, 3.333 s
-            |Main = Kannagi (Level 119 III)
-            |Sub = Gleti's Knife
-            |Range =
-            |Ammo = Date Shuriken
-            |Head = Adhemar Bonnet +1
-            |HeadAug = Path B
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Odr Earring
-            |Body = Hattori Ningi +3
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path B
-            |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
-            |Back = Andartia's Mantle
-            |BackAug = STR, Crit Rate
-            |Waist = Sailfi Belt +1
-            |Legs = Mpaca's Hose
-            |Feet = Ken. Sune-Ate +1
-            |List = Y
-            |Background =
-        }}        
-        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP + Aftermath Level 3
-        Updated 2025 Feb. 27
-    }}
-
-
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= 20% DT Heishi+Kunimitsu (30% Haste) TP
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Trust Buff
-            |CaptionBottom = 4.023 s
-            |Main = Heishi Shorinken
-            |Sub = Kunimitsu
-            |Range =
-            |Ammo = Date Shuriken
-            |Head = Ryuo Somen +1
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Dedition Earring
-            |Ear2 = Eabani Earring
-            |Body = Mpaca's Doublet
-            |Hands = Malignance Gloves
-            |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
-            |Back = Null Shawl
-            |Waist = Reiki Yotai
-            |Legs = Malignance Tights
-            |Feet = Tatena. Sune. +1
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP + Sublime Sushi
-        Updated 2025 Feb. 27
-    }}
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= 20% DT Heishi+Kunimitsu (15% Haste) TP
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Trust Buff
-            |CaptionBottom = 4.566 s
-            |Main = Heishi Shorinken
-            |Sub = Kunimitsu
-            |Range =
-            |Ammo = Seki Shuriken
-            |Head = Ryuo Somen +1
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Dedition Earring
-            |Ear2 = Telos Earring
-            |Body = Mochi. Chainmail +3
-            |Hands = Malignance Gloves
-            |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
-            |Back = Andartia's Mantle
-            |BackAug = AGI, Dual Wield
-            |Waist = Gerdr Belt +1
-            |Legs = Malignance Tights
-            |Feet = Tatena. Sune. +1
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP + Sublime Sushi
-        Updated 2025 Feb. 27
-    }}
-
-    {{
-        Guide Equipment Set
-        |Set Name Background=#384820
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name= 20% DT Heishi+Kunimitsu (0% Haste) TP
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Trust Buff
-            |CaptionBottom = 4.934 s
-            |Main = Heishi Shorinken
-            |Sub = Kunimitsu
-            |Range =
-            |Ammo = Seki Shuriken
-            |Head = Ryuo Somen +1
-            |Neck = Ninja Nodowa +2
-            |Ear1 = Suppanomimi
+            |Ear1 = Alabaster Earring
             |Ear2 = Dedition Earring
-            |Body = Mochi. Chainmail +3
-            |Hands = Malignance Gloves
+            |Body = Mpaca's Doublet
+            |Hands = Adhemar Wrist. +1
+            |HandsAug = Path A/B/C
             |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
+            |Ring2 = Murky Ring
             |Back = Andartia's Mantle
-            |BackAug = AGI, Dual Wield
-            |Waist = Reiki Yotai
+            |BackAug = DEX, DA
+            |Waist = Windbuffet Belt +1
             |Legs = Ryuo Hakama +1
             |LegsAug = Path D
-            |Feet = Malignance Boots
+            |Feet = Revelation Sab.
             |List = Y
             |Background =
-        }}        
-        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP + Sublime Sushi
-        Updated 2025 Feb. 27
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = -25% DT
+            |CaptionBottom = 2.576 s
+            |Main = Heishi Shorinken
+            |Sub = Kunimitsu
+            |Range =
+            |Ammo = Seki Shuriken
+            |Head = Revelation Masque
+            |Neck = Ninja Nodowa +2
+            |Ear1 = Alabaster Earring
+            |Ear2 = Dedition Earring
+            |Body = Mpaca's Doublet
+            |Hands = Adhemar Wrist. +1
+            |HandsAug = Path A/B/C
+            |Ring1 = Epona's Ring
+            |Ring2 = Gere Ring
+            |Back = Null Shawl
+            |Waist = Windbuffet Belt +1
+            |Legs = Ryuo Hakama +1
+            |LegsAug = Path D
+            |Feet = Tatena. Sune. +1
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP
+        Updated 2026 Apr. 19
     }}
 
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384820
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Nagi + Kunimitsu TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = -50% DT
+            |CaptionBottom = 2.548 s
+            |Main = Nagi (Level 119 III)
+            |Sub = Kunimitsu
+            |Range =
+            |Ammo = Seki Shuriken
+            |Head = Revelation Masque
+            |Neck = Ninja Nodowa +2
+            |Ear1 = Alabaster Earring
+            |Ear2 = Dedition Earring
+            |Body = Mpaca's Doublet
+            |Hands = Malignance Gloves
+            |Ring1 = Gere Ring
+            |Ring2 = Defending Ring
+            |Back = Andartia's Mantle
+            |BackAug = DEX, Store TP
+            |Waist = Windbuffet Belt +1
+            |Legs = Ryuo Hakama +1
+            |LegsAug = Path D
+            |Feet = Tatena. Sune. +1
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = -25% DT
+            |CaptionBottom = 2.462 s
+            |Main = Nagi (Level 119 III)
+            |Sub = Kunimitsu
+            |Range =
+            |Ammo = Seki Shuriken
+            |Head = Revelation Masque
+            |Neck = Ninja Nodowa +2
+            |Ear1 = Alabaster Earring
+            |Ear2 = Dedition Earring
+            |Body = Mpaca's Doublet
+            |Hands = Adhemar Wrist. +1
+            |HandsAug = Path A/B/C
+            |Ring1 = Gere Ring
+            |Ring2 = Chirich Ring +1
+            |Back = Null Shawl
+            |Waist = Windbuffet Belt +1
+            |Legs = Ryuo Hakama +1
+            |LegsAug = Path D
+            |Feet = Tatena. Sune. +1
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 NIN/WAR: 1000 TP + AM3
+        Updated 2026 Apr. 19
+    }}
 }}
