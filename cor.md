@@ -24,7 +24,7 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 28109 damage
+            |CaptionBottom = 28890 damage
             |Main = Crepuscular Knife
             |Sub = Odium
             |Range = Earp (Level 119 II)
@@ -32,13 +32,12 @@ Orpheus's Sash was excluded from Ranged sets.
             |Head = Nyame Helm
             |Neck = Comm. Charm +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Ikenga's Vest
             |Hands = Chasseur's Gants +3
             |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
-            |Back = Camulus's Mantle
-            |BackAug = STR, Weapon Skill Damage
+            |Back = Alabaster Mantle
             |Waist = Ponente Sash
             |Legs = Nyame Flanchard
             |Feet = Lanun Bottes +4
@@ -48,29 +47,28 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 37112 damage
+            |CaptionBottom = 38379 damage
             |Main = Crepuscular Knife
             |Sub = Odium
             |Range = Earp (Level 119 II)
             |Ammo = Chrono Bullet
-            |Head = Nyame Helm
+            |Head = Clemen. Somen
             |Neck = Comm. Charm +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Ikenga's Vest
             |Hands = Chasseur's Gants +3
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
-            |Back = Camulus's Mantle
-            |BackAug = AGI, Weapon Skill Damage
+            |Back = Alabaster Mantle
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Lanun Bottes +4
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 COR/DNC: 2000 TP + Aftermath Level 2
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 COR/DNC: 2000 TP + AM2
+        Updated 2026 Apr. 27
     }}
 
     {{
@@ -84,21 +82,21 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 21398 damage
+            |CaptionBottom = 21869 damage
             |Main = Crepuscular Knife
             |Sub = Odium
             |Range = Fomalhaut
             |Ammo = Chrono Bullet
             |Head = Lanun Tricorne +4
-            |Neck = Fotia Gorget
+            |Neck = Comm. Charm +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Ikenga's Vest
             |Hands = Chasseur's Gants +3
             |Ring1 = Dingir Ring
             |Ring2 = Regal Ring
             |Back = Camulus's Mantle
-            |BackAug = AGI, Weapon Skill Damage
+            |BackAug = STR, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Lanun Bottes +4
@@ -108,15 +106,15 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 29135 damage
+            |CaptionBottom = 31300 damage
             |Main = Crepuscular Knife
             |Sub = Odium
             |Range = Fomalhaut
             |Ammo = Chrono Bullet
-            |Head = Nyame Helm
+            |Head = Clemen. Somen
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Ikenga's Vest
             |Hands = Chasseur's Gants +3
             |Ring1 = Sroda Ring
@@ -124,13 +122,13 @@ Orpheus's Sash was excluded from Ranged sets.
             |Back = Camulus's Mantle
             |BackAug = AGI, Weapon Skill Damage
             |Waist = Fotia Belt
-            |Legs = Ikenga's Trousers
-            |Feet = Lanun Bottes +4
+            |Legs = Clem. Haidate
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 COR/DNC: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 Apr. 27
     }}
 
     {{
@@ -144,7 +142,7 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 55630 damage
+            |CaptionBottom = 55978 damage
             |Main = Naegling
             |Sub = Tauret
             |Range = Fomalhaut
@@ -152,7 +150,7 @@ Orpheus's Sash was excluded from Ranged sets.
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Friomisi Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -168,7 +166,7 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 70175 damage
+            |CaptionBottom = 70222 damage
             |Main = Naegling
             |Sub = Tauret
             |Range = Fomalhaut
@@ -176,7 +174,7 @@ Orpheus's Sash was excluded from Ranged sets.
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Friomisi Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
@@ -190,9 +188,8 @@ Orpheus's Sash was excluded from Ranged sets.
             |Background =
         }}
         |Equipment Set Notes=ML30 COR/DNC: 2000 TP
-        Updated 2025 Jun. 29
+        Updated 2026 Apr. 27
     }}
-
     
     {{
         Guide Equipment Set
@@ -205,7 +202,7 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 54774 damage
+            |CaptionBottom = 54990 damage
             |Main = Naegling
             |Sub = Tauret
             |Range = Death Penalty (Level 119 III)
@@ -213,11 +210,11 @@ Orpheus's Sash was excluded from Ranged sets.
             |Head = Pixie Hairpin +1
             |Neck = Comm. Charm +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Friomisi Earring
+            |Ear2 = Hoxne Earring
             |Body = Lanun Frac +4
             |Hands = Nyame Gauntlets
-            |Ring1 = Archon Ring
-            |Ring2 = Dingir Ring
+            |Ring1 = Dingir Ring
+            |Ring2 = Archon Ring
             |Back = Camulus's Mantle
             |BackAug = AGI, Weapon Skill Damage
             |Waist = Skrymir Cord +1
@@ -226,8 +223,8 @@ Orpheus's Sash was excluded from Ranged sets.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 COR/DNC: 2000 TP
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 COR/DNC: 2000 TP + AM2
+        Updated 2026 Apr. 27
     }}
 
 
@@ -242,15 +239,15 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 26590 damage
-            |Main = Tauret
-            |Sub = Naegling
+            |CaptionBottom = 26777 damage
+            |Main = Naegling
+            |Sub = Tauret
             |Range = Armageddon (Level 119 III)
             |Ammo = Living Bullet
             |Head = Nyame Helm
             |Neck = Comm. Charm +2
-            |Ear1 = Crematio Earring
-            |Ear2 = Friomisi Earring
+            |Ear1 = Friomisi Earring
+            |Ear2 = Hoxne Earring
             |Body = Lanun Frac +4
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -263,10 +260,9 @@ Orpheus's Sash was excluded from Ranged sets.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 COR/DNC: 2000 TP
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 COR/DNC: 2000 TP + AM2
+        Updated 2026 Apr. 27
     }}
-
 
     {{
         Guide Equipment Set
@@ -279,7 +275,7 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 43292 damage
+            |CaptionBottom = 44800 damage
             |Main = Naegling
             |Sub = Gleti's Knife
             |Range = Ataktos
@@ -287,7 +283,7 @@ Orpheus's Sash was excluded from Ranged sets.
             |Head = Nyame Helm
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Chasseur's Gants +3
             |Ring1 = Epaminondas's Ring
@@ -303,15 +299,15 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 49710 damage
+            |CaptionBottom = 52102 damage
             |Main = Naegling
             |Sub = Crepuscular Knife
             |Range = Ataktos
             |Ammo = Bayeux Bullet
-            |Head = Nyame Helm
+            |Head = Clemen. Somen
             |Neck = Comm. Charm +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Ikenga's Vest
             |Hands = Chasseur's Gants +3
             |Ring1 = Sroda Ring
@@ -325,7 +321,7 @@ Orpheus's Sash was excluded from Ranged sets.
             |Background =
         }}
         |Equipment Set Notes=ML30 COR/DNC: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 Apr. 27
     }}
 
     {{
@@ -339,54 +335,56 @@ Orpheus's Sash was excluded from Ranged sets.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 24712 damage
+            |CaptionBottom = 28177 damage
             |Main = Tauret
             |Sub = Gleti's Knife
             |Range = Earp (Level 119 II)
             |Ammo = Bayeux Bullet
             |Head = Adhemar Bonnet +1
+            |HeadAug = Path B
             |Neck = Fotia Gorget
-            |Ear1 = Domin. Earring +1
-            |Ear2 = Odr Earring
-            |Body = Ikenga's Vest
-            |Hands = Chasseur's Gants +3
-            |Ring1 = Epona's Ring
+            |Ear1 = Odr Earring
+            |Ear2 = Hoxne Earring
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
+            |Ring1 = Begrudging Ring
             |Ring2 = Regal Ring
             |Back = Camulus's Mantle
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
-            |Legs = Zoar Subligar +1
-            |Feet = Adhe. Gamashes +1
+            |Legs = Clem. Haidate
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 24890 damage
+            |CaptionBottom = 31303 damage
             |Main = Tauret
-            |Sub = Gleti's Knife
+            |Sub = Crepuscular Knife
             |Range = Molybdosis
             |Ammo = Bayeux Bullet
-            |Head = Adhemar Bonnet +1
+            |Head = Clemen. Somen
             |Neck = Fotia Gorget
-            |Ear1 = Mache Earring +1
-            |Ear2 = Odr Earring
-            |Body = Ikenga's Vest
-            |Hands = Chasseur's Gants +3
-            |Ring1 = Epona's Ring
+            |Ear1 = Odr Earring
+            |Ear2 = Hoxne Earring
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
+            |Ring1 = Begrudging Ring
             |Ring2 = Regal Ring
             |Back = Camulus's Mantle
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
-            |Legs = Zoar Subligar +1
-            |Feet = Adhe. Gamashes +1
+            |Legs = Clem. Haidate
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 COR/DNC: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 Apr. 27
     }}
+
 
     {{
         Guide Equipment Set
@@ -421,11 +419,9 @@ Orpheus's Sash was excluded from Ranged sets.
             |Background =
         }}
         |Equipment Set Notes=ML30 COR/DNC: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 Apr. 27
     }}
 }}
-
-
 
 {{
     Guide Equipment Set Table
@@ -441,7 +437,7 @@ Orpheus's Sash was excluded from Ranged sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid Buff
+            |CaptionTop = Mid buff
             |CaptionBottom = 10134 damage
             |Main = Tauret
             |Sub = Naegling
@@ -454,8 +450,8 @@ Orpheus's Sash was excluded from Ranged sets.
             |Body = Lanun Frac +4
             |Hands = Carmine Fin. Ga. +1
             |HandsAug = Path D
-            |Ring1 = Fenrir Ring +1
-            |Ring2 = Dingir Ring
+            |Ring1 = Dingir Ring
+            |Ring2 = Fenrir Ring +1
             |Back = Camulus's Mantle
             |BackAug = AGI, Magic Attack
             |Waist = Skrymir Cord +1
@@ -464,14 +460,10 @@ Orpheus's Sash was excluded from Ranged sets.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 COR/DNC Earth Shot
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 COR/DNC: 1200 TP
+        Updated 2026 Apr. 27
     }}
 }}
-
-
-    
-
 
 
 {{
@@ -488,57 +480,52 @@ Orpheus's Sash was excluded from Ranged sets.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = 50% DT
-            |CaptionBottom = 4.054 s
+            |CaptionTop = -50% DT
+            |CaptionBottom = 3.495 s
             |Main = Naegling
             |Sub = Gleti's Knife
             |Range = Ataktos
             |Ammo = Bayeux Bullet
-            |Head = Malignance Chapeau
+            |Head = Clemen. Somen
             |Neck = Iskur Gorget
             |Ear1 = Dedition Earring
-            |Ear2 = Cessance Earring
-            |Body = Malignance Tabard
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path A/B
+            |Ear2 = Alabaster Earring
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
             |Ring1 = Epona's Ring
-            |Ring2 = Defending Ring
+            |Ring2 = Petrov Ring
             |Back = Camulus's Mantle
-            |BackAug = DEX, DA
-            |Waist = Windbuffet Belt +1
+            |BackAug = DEX, Store TP
+            |Waist = Reiki Yotai
             |Legs = Chas. Culottes +3
-            |Feet = Malignance Boots
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = 25% DT
-            |CaptionBottom = 3.795 s
+            |CaptionTop = -25% DT
+            |CaptionBottom = 3.414 s
             |Main = Naegling
             |Sub = Gleti's Knife
             |Range = Ataktos
             |Ammo = Bayeux Bullet
-            |Head = Malignance Chapeau
+            |Head = Clemen. Somen
             |Neck = Iskur Gorget
-            |Ear1 = Brutal Earring
+            |Ear1 = Alabaster Earring
             |Ear2 = Dedition Earring
-            |Body = Adhemar Jacket +1
-            |BodyAug = Path A/B
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path A
-            |Ring1 = Petrov Ring
-            |Ring2 = Epona's Ring
-            |Back = Camulus's Mantle
-            |BackAug = DEX, DA
-            |Waist = Windbuffet Belt +1
-            |Legs = Chas. Culottes +3
-            |Feet = Carmine Greaves +1
-            |FeetAug = Path B
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
+            |Ring1 = Epona's Ring
+            |Ring2 = Petrov Ring
+            |Back = Null Shawl
+            |Waist = Reiki Yotai
+            |Legs = Samnuha Tights
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 COR/DNC: 1000 TP + subjob Haste Samba (+5% JA Haste)
-        Updated 2025 Jun. 29
+        Updated 2026 Apr. 27
     }}
 }}
