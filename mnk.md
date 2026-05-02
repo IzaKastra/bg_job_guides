@@ -27,42 +27,43 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 32478 damage
-            |Main = Verethragna (Level 119 III)
-            |Sub =
-            |Range =
-            |Ammo = Coiste Bodhar
-            |Head = Mpaca's Cap
-            |Neck = Fotia Gorget
-            |Ear1 = Schere Earring
-            |Ear2 = Odr Earring
-            |Body = Mpaca's Doublet
-            |Hands = Ryuo Tekko +1
-            |HandsAug = Path A
-            |Ring1 = Gere Ring
-            |Ring2 = Niqmaddu Ring
-            |Back = Segomo's Mantle
-            |BackAug = STR, Crit Rate
-            |Waist = Moonbow Belt +1
-            |Legs = Mpaca's Hose
-            |Feet = Mpaca's Boots
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High buff
-            |CaptionBottom = 36002 damage
+            |CaptionBottom = 33591 damage
             |Main = Verethragna (Level 119 III)
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Adhemar Bonnet +1
             |HeadAug = Path B
+            |Neck = Fotia Gorget
+            |Ear1 = Hoxne Earring
+            |Ear2 = Odr Earring
+            |Body = Duty Cyclas
+            |Hands = Adhemar Wrist. +1
+            |HandsAug = Path B
+            |Ring1 = Gere Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Segomo's Mantle
+            |BackAug = STR, Crit Rate
+            |Waist = Moonbow Belt +1
+            |Legs = Mpaca's Hose
+            |Feet = Duty Sollerets
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 37151 damage
+            |Main = Verethragna (Level 119 III)
+            |Sub =
+            |Range =
+            |Ammo = Crepuscular Pebble
+            |Head = Adhemar Bonnet +1
+            |HeadAug = Path B
             |Neck = Mnk. Nodowa +2
             |Ear1 = Sherida Earring
-            |Ear2 = Odr Earring
-            |Body = Ken. Samue +1
+            |Ear2 = Hoxne Earring
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
@@ -70,12 +71,12 @@ Impetus assumes 90% max potency:
             |BackAug = STR, Crit Rate
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Ken. Sune-Ate +1
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 MNK/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 MNK/WAR: 1200 TP + AM1
+        Updated 2026 May 02
     }}
 
     {{
@@ -89,40 +90,14 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 53966 damage
+            |CaptionBottom = 54899 damage
             |Main = Verethragna (Level 119 III)
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Adhemar Bonnet +1
-            |HeadAug = Path B
+            |Head = Blistering Sallet +1
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
-            |Ear2 = Odr Earring
-            |Body = Bhikku Cyclas +3
-            |Hands = Bhikku Gloves +3
-            |Ring1 = Gere Ring
-            |Ring2 = Niqmaddu Ring
-            |Back = Segomo's Mantle
-            |BackAug = STR, Crit Rate
-            |Waist = Moonbow Belt +1
-            |Legs = Mpaca's Hose
-            |Feet = Ken. Sune-Ate +1
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = High buff
-            |CaptionBottom = 55024 damage
-            |Main = Verethragna (Level 119 III)
-            |Sub =
-            |Range =
-            |Ammo = Coiste Bodhar
-            |Head = Adhemar Bonnet +1
-            |HeadAug = Path B
-            |Neck = Mnk. Nodowa +2
-            |Ear1 = Mache Earring +1
+            |Ear1 = Hoxne Earring
             |Ear2 = Odr Earring
             |Body = Bhikku Cyclas +3
             |Hands = Bhikku Gloves +3
@@ -132,12 +107,36 @@ Impetus assumes 90% max potency:
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Ken. Sune-Ate +1
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 MNK/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 56116 damage
+            |Main = Verethragna (Level 119 III)
+            |Sub =
+            |Range =
+            |Ammo = Crepuscular Pebble
+            |Head = Blistering Sallet +1
+            |Neck = Mnk. Nodowa +2
+            |Ear1 = Sherida Earring
+            |Ear2 = Hoxne Earring
+            |Body = Bhikku Cyclas +3
+            |Hands = Bhikku Gloves +3
+            |Ring1 = Gere Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Segomo's Mantle
+            |BackAug = STR, DA
+            |Waist = Moonbow Belt +1
+            |Legs = Mpaca's Hose
+            |Feet = Duty Sollerets
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 MNK/WAR: 1200 TP + AM1
+        Updated 2026 May 02
     }}
 
 
@@ -153,53 +152,53 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 23397 damage
+            |CaptionBottom = 24288 damage
             |Main = Glanzfaust (Level 119 III)
             |Sub =
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Mpaca's Cap
+            |Head = Duty Crown
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Schere Earring
-            |Body = Nyame Mail
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
-            |BackAug = STR, DA
+            |BackAug = STR, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Mpaca's Hose
-            |Feet = Nyame Sollerets
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 23397 damage
+            |CaptionBottom = 24288 damage
             |Main = Glanzfaust (Level 119 III)
             |Sub =
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Mpaca's Cap
+            |Head = Duty Crown
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Schere Earring
-            |Body = Nyame Mail
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
-            |BackAug = STR, DA
+            |BackAug = STR, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Mpaca's Hose
-            |Feet = Nyame Sollerets
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 MNK/WAR: 1200 TP + Aftermath Level 3
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 MNK/WAR: 1200 TP + AM3
+        Updated 2026 May 02
     }}
 
     {{
@@ -213,7 +212,7 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 36096 damage
+            |CaptionBottom = 36753 damage
             |Main = Glanzfaust (Level 119 III)
             |Sub =
             |Range =
@@ -221,48 +220,48 @@ Impetus assumes 90% max potency:
             |Head = Adhemar Bonnet +1
             |HeadAug = Path B
             |Neck = Fotia Gorget
-            |Ear1 = Schere Earring
-            |Ear2 = Sherida Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Bhikku Cyclas +3
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = STR, Crit Rate
-            |Waist = Fotia Belt
-            |Legs = Mpaca's Hose
-            |Feet = Ken. Sune-Ate +1
-            |List = Y
-            |Background =
-        }}        {{
-            Equipment Set
-            |CaptionTop = High buff
-            |CaptionBottom = 36096 damage
-            |Main = Glanzfaust (Level 119 III)
-            |Sub =
-            |Range =
-            |Ammo = Crepuscular Pebble
-            |Head = Adhemar Bonnet +1
-            |HeadAug = Path B
-            |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
-            |Ear2 = Schere Earring
-            |Body = Bhikku Cyclas +3
-            |Hands = Bhikku Gloves +3
-            |Ring1 = Gere Ring
-            |Ring2 = Niqmaddu Ring
-            |Back = Segomo's Mantle
-            |BackAug = STR, Crit Rate
-            |Waist = Fotia Belt
+            |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
             |Feet = Ken. Sune-Ate +1
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 MNK/WAR: 1200 TP + Aftermath Level 3
-        Updated 2025 Jun. 28
+        {{
+            Equipment Set
+            |CaptionTop = High buff
+            |CaptionBottom = 36753 damage
+            |Main = Glanzfaust (Level 119 III)
+            |Sub =
+            |Range =
+            |Ammo = Crepuscular Pebble
+            |Head = Adhemar Bonnet +1
+            |HeadAug = Path B
+            |Neck = Fotia Gorget
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
+            |Body = Bhikku Cyclas +3
+            |Hands = Bhikku Gloves +3
+            |Ring1 = Gere Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Segomo's Mantle
+            |BackAug = STR, Crit Rate
+            |Waist = Moonbow Belt +1
+            |Legs = Mpaca's Hose
+            |Feet = Ken. Sune-Ate +1
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 MNK/WAR: 1200 TP + AM3
+        Updated 2026 May 02
     }}
-
 
 
     {{
@@ -276,7 +275,7 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 47123 damage
+            |CaptionBottom = 37997 damage
             |Main = Varga Purnikawa (Level 119 II)
             |Sub =
             |Range =
@@ -284,7 +283,7 @@ Impetus assumes 90% max potency:
             |Head = Mpaca's Cap
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Schere Earring
+            |Ear2 = Hoxne Earring
             |Body = Bhikku Cyclas +3
             |Hands = Anch. Gloves +4
             |Ring1 = Gere Ring
@@ -300,7 +299,7 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 65381 damage
+            |CaptionBottom = 52655 damage
             |Main = Varga Purnikawa (Level 119 II)
             |Sub =
             |Range =
@@ -308,7 +307,7 @@ Impetus assumes 90% max potency:
             |Head = Mpaca's Cap
             |Neck = Mnk. Nodowa +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
+            |Ear2 = Hoxne Earring
             |Body = Bhikku Cyclas +3
             |Hands = Bhikku Gloves +3
             |Ring1 = Epaminondas's Ring
@@ -321,8 +320,8 @@ Impetus assumes 90% max potency:
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 MNK/WAR: 1900 TP + Aftermath Level 2
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 MNK/WAR: 2000 TP + AM2
+        Updated 2026 May 02
     }}
 
 
@@ -338,39 +337,39 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 26167 damage
+            |CaptionBottom = 27301 damage
             |Main = Godhands
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Mpaca's Cap
+            |Head = Duty Crown
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Schere Earring
-            |Body = Bhikku Cyclas +3
-            |Hands = Mpaca's Gloves
+            |Body = Duty Cyclas
+            |Hands = Duty Gauntlets
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = DEX, DA
             |Waist = Moonbow Belt +1
             |Legs = Hesy. Hose +4
-            |Feet = Mpaca's Boots
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 37295 damage
+            |CaptionBottom = 38149 damage
             |Main = Godhands
             |Sub =
             |Range =
-            |Ammo = Coiste Bodhar
-            |Head = Ken. Jinpachi +1
+            |Ammo = Crepuscular Pebble
+            |Head = Duty Crown
             |Neck = Mnk. Nodowa +2
-            |Ear1 = Sherida Earring
-            |Ear2 = Mache Earring +1
+            |Ear1 = Hoxne Earring
+            |Ear2 = Sherida Earring
             |Body = Malignance Tabard
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
@@ -379,12 +378,12 @@ Impetus assumes 90% max potency:
             |BackAug = DEX, DA
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Ken. Sune-Ate +1
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 MNK/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
 
 
@@ -399,15 +398,15 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 24761 damage
+            |CaptionBottom = 25439 damage
             |Main = Spharai (Level 119 III)
             |Sub =
             |Range =
             |Ammo = Knobkierrie
             |Head = Hes. Crown +4
-            |Neck = Null Loop
-            |Ear1 = Sherida Earring
-            |Ear2 = Schere Earring
+            |Neck = Fotia Gorget
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Bhikku Cyclas +3
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
@@ -415,7 +414,7 @@ Impetus assumes 90% max potency:
             |Back = Segomo's Mantle
             |BackAug = VIT, Weapon Skill Damage
             |Waist = Moonbow Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Duty Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
@@ -423,18 +422,18 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 33317 damage
+            |CaptionBottom = 33747 damage
             |Main = Spharai (Level 119 III)
             |Sub =
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Hes. Crown +4
             |Neck = Mnk. Nodowa +2
-            |Ear1 = Sherida Earring
-            |Ear2 = Schere Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Bhikku Gloves +3
-            |Ring1 = Sroda Ring
+            |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = VIT, Weapon Skill Damage
@@ -444,10 +443,9 @@ Impetus assumes 90% max potency:
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 MNK/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 MNK/WAR: 1000 TP + AM1
+        Updated 2026 May 02
     }}
-
 
     {{
         Guide Equipment Set
@@ -460,7 +458,7 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 43391 damage
+            |CaptionBottom = 43879 damage
             |Main = Dragon Fangs
             |Sub =
             |Range =
@@ -468,7 +466,7 @@ Impetus assumes 90% max potency:
             |Head = Mpaca's Cap
             |Neck = Mnk. Nodowa +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
+            |Ear2 = Hoxne Earring
             |Body = Bhikku Cyclas +3
             |Hands = Bhikku Gloves +3
             |Ring1 = Epaminondas's Ring
@@ -484,7 +482,7 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 43391 damage
+            |CaptionBottom = 43879 damage
             |Main = Dragon Fangs
             |Sub =
             |Range =
@@ -492,7 +490,7 @@ Impetus assumes 90% max potency:
             |Head = Mpaca's Cap
             |Neck = Mnk. Nodowa +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
+            |Ear2 = Hoxne Earring
             |Body = Bhikku Cyclas +3
             |Hands = Bhikku Gloves +3
             |Ring1 = Epaminondas's Ring
@@ -506,7 +504,7 @@ Impetus assumes 90% max potency:
             |Background =
         }}
         |Equipment Set Notes=ML30 MNK/WAR: 1800 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
 
 
@@ -522,31 +520,31 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 37617 damage
+            |CaptionBottom = 39207 damage
             |Main = Godhands
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Mpaca's Cap
-            |Neck = Rep. Plat. Medal
+            |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
             |Ear2 = Schere Earring
-            |Body = Nyame Mail
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
-            |Legs = Mpaca's Hose
-            |Feet = Nyame Sollerets
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 41975 damage
+            |CaptionBottom = 43306 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -555,7 +553,7 @@ Impetus assumes 90% max potency:
             |Neck = Mnk. Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Schere Earring
-            |Body = Nyame Mail
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
@@ -563,12 +561,12 @@ Impetus assumes 90% max potency:
             |BackAug = VIT, DA
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Nyame Sollerets
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 MNK/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
 
 
@@ -584,15 +582,15 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 25729 damage
+            |CaptionBottom = 26308 damage
             |Main = Karambit
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Hes. Crown +4
             |Neck = Fotia Gorget
-            |Ear1 = Schere Earring
-            |Ear2 = Sherida Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Bhikku Cyclas +3
             |Hands = Bhikku Gloves +3
             |Ring1 = Sroda Ring
@@ -608,15 +606,15 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 34897 damage
+            |CaptionBottom = 35709 damage
             |Main = Karambit
             |Sub =
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Hes. Crown +4
             |Neck = Mnk. Nodowa +2
-            |Ear1 = Sherida Earring
-            |Ear2 = Schere Earring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Malignance Tabard
             |Hands = Bhikku Gloves +3
             |Ring1 = Sroda Ring
@@ -630,7 +628,7 @@ Impetus assumes 90% max potency:
             |Background =
         }}
         |Equipment Set Notes=ML30 MNK/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
 
     {{
@@ -644,7 +642,7 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 31038 damage
+            |CaptionBottom = 32340 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -653,22 +651,22 @@ Impetus assumes 90% max potency:
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
             |Ear2 = Schere Earring
-            |Body = Bhikku Cyclas +3
+            |Body = Duty Cyclas
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
-            |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 43043 damage
+            |CaptionBottom = 44483 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -677,7 +675,7 @@ Impetus assumes 90% max potency:
             |Neck = Mnk. Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Schere Earring
-            |Body = Nyame Mail
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
@@ -685,16 +683,13 @@ Impetus assumes 90% max potency:
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Nyame Sollerets
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 MNK/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
-
-
-
 
     {{
         Guide Equipment Set
@@ -707,23 +702,23 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 43380 damage
-            |Main = Godhands
+            |CaptionBottom = 44565 damage
+            |Main = Godhands    
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Mpaca's Cap
-            |Neck = Mnk. Nodowa +2
+            |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
             |Ear2 = Schere Earring
-            |Body = Nyame Mail
+            |Body = Duty Cyclas
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
-            |Legs = Nyame Flanchard
+            |Legs = Duty Flanchard
             |Feet = Anch. Gaiters +4
             |List = Y
             |Background =
@@ -731,7 +726,7 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 53700 damage
+            |CaptionBottom = 54897 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -740,7 +735,7 @@ Impetus assumes 90% max potency:
             |Neck = Mnk. Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Schere Earring
-            |Body = Nyame Mail
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
@@ -753,7 +748,7 @@ Impetus assumes 90% max potency:
             |Background =
         }}
         |Equipment Set Notes=ML30 MNK/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
 
 
@@ -768,7 +763,7 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 32214 damage
+            |CaptionBottom = 33234 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -776,23 +771,23 @@ Impetus assumes 90% max potency:
             |Head = Mpaca's Cap
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Schere Earring
-            |Body = Nyame Mail
-            |Hands = Bhikku Gloves +3
+            |Ear2 = Hoxne Earring
+            |Body = Duty Cyclas
+            |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
-            |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 44972 damage
+            |CaptionBottom = 46430 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -800,8 +795,8 @@ Impetus assumes 90% max potency:
             |Head = Mpaca's Cap
             |Neck = Mnk. Nodowa +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Schere Earring
-            |Body = Nyame Mail
+            |Ear2 = Hoxne Earring
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
@@ -809,12 +804,12 @@ Impetus assumes 90% max potency:
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Nyame Sollerets
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 MNK/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
 
 
@@ -829,31 +824,31 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 46269 damage
+            |CaptionBottom = 47244 damage
             |Main = Godhands
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Mpaca's Cap
-            |Neck = Mnk. Nodowa +2
+            |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
             |Ear2 = Schere Earring
-            |Body = Nyame Mail
+            |Body = Duty Cyclas
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
-            |Legs = Nyame Flanchard
-            |Feet = Anch. Gaiters +4
+            |Legs = Duty Flanchard
+            |Feet = Anch. Gaiters +3
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 58190 damage
+            |CaptionBottom = 59232 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -862,7 +857,7 @@ Impetus assumes 90% max potency:
             |Neck = Mnk. Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Schere Earring
-            |Body = Nyame Mail
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
@@ -870,14 +865,13 @@ Impetus assumes 90% max potency:
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Anch. Gaiters +4
+            |Feet = Anch. Gaiters +3
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 MNK/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
-
 
     {{
         Guide Equipment Set
@@ -890,7 +884,7 @@ Impetus assumes 90% max potency:
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 43593 damage
+            |CaptionBottom = 44505 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -898,8 +892,8 @@ Impetus assumes 90% max potency:
             |Head = Mpaca's Cap
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Schere Earring
-            |Body = Bhikku Cyclas +3
+            |Ear2 = Hoxne Earring
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
@@ -907,14 +901,14 @@ Impetus assumes 90% max potency:
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
             |Legs = Nyame Flanchard
-            |Feet = Mpaca's Boots
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 61832 damage
+            |CaptionBottom = 63901 damage
             |Main = Godhands
             |Sub =
             |Range =
@@ -922,8 +916,8 @@ Impetus assumes 90% max potency:
             |Head = Mpaca's Cap
             |Neck = Mnk. Nodowa +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Schere Earring
-            |Body = Malignance Tabard
+            |Ear2 = Hoxne Earring
+            |Body = Duty Cyclas
             |Hands = Bhikku Gloves +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
@@ -931,12 +925,12 @@ Impetus assumes 90% max potency:
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Ken. Sune-Ate +1
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 MNK/WAR: 1800 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
 }}
 
@@ -955,60 +949,55 @@ Impetus assumes 90% max potency:
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = 50% DT
-            |CaptionBottom = 3.280 s
+            |CaptionTop = -25% DT
+            |CaptionBottom = 3.034 s
             |Main = Godhands
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Ryuo Somen +1
-            |HeadAug = Path C
+            |Head = Duty Crown
             |Neck = Mnk. Nodowa +2
-            |Ear1 = Sherida Earring
+            |Ear1 = Alabaster Earring
             |Ear2 = Schere Earring
-            |Body = Mpaca's Doublet
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path A/B
-            |Ring1 = Defending Ring
-            |Ring2 = Gere Ring
+            |Body = Duty Cyclas
+            |Hands = Tatena. Gote +1
+            |Ring1 = Gere Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = DEX, Store TP
             |Waist = Moonbow Belt +1
             |Legs = Bhikku Hose +3
-            |Feet = Tatena. Sune. +1
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = 25% DT
-            |CaptionBottom = 3.168 s
+            |CaptionTop = -25% DT + Footwork
+            |CaptionBottom = 2.933 s
             |Main = Godhands
             |Sub =
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Ryuo Somen +1
-            |HeadAug = Path C
+            |Head = Duty Crown
             |Neck = Mnk. Nodowa +2
-            |Ear1 = Sherida Earring
-            |Ear2 = Schere Earring
-            |Body = Mpaca's Doublet
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path A/B
+            |Ear1 = Schere Earring
+            |Ear2 = Alabaster Earring
+            |Body = Duty Cyclas
+            |Hands = Tatena. Gote +1
             |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = DEX, Store TP
             |Waist = Moonbow Belt +1
             |Legs = Bhikku Hose +3
-            |Feet = Tatena. Sune. +1
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 MNK/WAR: 1000 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
-
 
 
     {{
@@ -1016,63 +1005,59 @@ Impetus assumes 90% max potency:
         |Set Name Background=#a05028
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Godhands + Footwork TP set
+        |Set Name= Varga Purnikawa TP set
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = 50% DT
-            |CaptionBottom = 3.159 s
-            |Main = Godhands
+            |CaptionTop = -25% DT
+            |CaptionBottom = 3.093 s
+            |Main = Varga Purnikawa (Level 119 II)
             |Sub =
             |Range =
-            |Ammo = Coiste Bodhar
-            |Head = Ryuo Somen +1
-            |HeadAug = Path C
+            |Ammo = Aurgelmir Orb +1
+            |Head = Duty Crown
             |Neck = Mnk. Nodowa +2
-            |Ear1 = Sherida Earring
-            |Ear2 = Schere Earring
-            |Body = Mpaca's Doublet
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path A/B
-            |Ring1 = Defending Ring
-            |Ring2 = Gere Ring
+            |Ear1 = Schere Earring
+            |Ear2 = Alabaster Earring
+            |Body = Duty Cyclas
+            |Hands = Duty Gauntlets
+            |Ring1 = Gere Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = DEX, Store TP
             |Waist = Moonbow Belt +1
             |Legs = Bhikku Hose +3
-            |Feet = Tatena. Sune. +1
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = 25% DT
-            |CaptionBottom = 3.055 s
-            |Main = Godhands
+            |CaptionTop = -25% DT + Footwork
+            |CaptionBottom = 2.996 s
+            |Main = Varga Purnikawa (Level 119 II)
             |Sub =
             |Range =
-            |Ammo = Coiste Bodhar
-            |Head = Ryuo Somen +1
-            |HeadAug = Path C
+            |Ammo = Aurgelmir Orb +1
+            |Head = Duty Crown
             |Neck = Mnk. Nodowa +2
-            |Ear1 = Sherida Earring
+            |Ear1 = Alabaster Earring
             |Ear2 = Schere Earring
-            |Body = Mpaca's Doublet
-            |Hands = Adhemar Wrist. +1
-            |HandsAug = Path A/B
+            |Body = Duty Cyclas
+            |Hands = Tatena. Gote +1
             |Ring1 = Gere Ring
-            |Ring2 = Epona's Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Segomo's Mantle
             |BackAug = DEX, Store TP
             |Waist = Moonbow Belt +1
             |Legs = Bhikku Hose +3
-            |Feet = Tatena. Sune. +1
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 MNK/WAR: 1000 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 MNK/WAR: 1000 TP + AM1
+        Updated 2026 May 02
     }}
-    
+
 }}
