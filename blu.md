@@ -38,7 +38,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 43279 damage
+            |CaptionBottom = 44696 damage
             |Main = Tizona (Level 119 III)
             |Sub = Thibron
             |Range =
@@ -46,7 +46,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Head = Hashishin Kavuk +3
             |Neck = Mirage Stole +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -62,7 +62,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 51011 damage
+            |CaptionBottom = 52332 damage
             |Main = Tizona (Level 119 III)
             |Sub = Thibron
             |Range =
@@ -70,21 +70,21 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Head = Hashishin Kavuk +3
             |Neck = Mirage Stole +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Assim. Jubbah +4
             |Hands = Gleti's Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Rosmerta's Cape
             |BackAug = STR, Weapon Skill Damage
-            |Waist = Kentarch Belt +1
+            |Waist = Sailfi Belt +1
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP + Aftermath Level 3
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP + AM3
+        Updated 2026 Apr. 28
     }}
 
 
@@ -100,20 +100,20 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 31440 damage
+            |CaptionBottom = 31913 damage
             |Main = Almace (Level 119 III)
-            |Sub = Tanmogayi +1
+            |Sub = Zantetsuken
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Adhemar Bonnet +1
             |HeadAug = Path B
             |Neck = Mirage Stole +2
             |Ear1 = Odr Earring
-            |Ear2 = Mache Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Gleti's Cuirass
             |Hands = Adhemar Wrist. +1
             |HandsAug = Path B
-            |Ring1 = Epona's Ring
+            |Ring1 = Murky Ring
             |Ring2 = Begrudging Ring
             |Back = Rosmerta's Cape
             |BackAug = DEX, Crit Rate
@@ -126,7 +126,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 33050 damage
+            |CaptionBottom = 33430 damage
             |Main = Almace (Level 119 III)
             |Sub = Zantetsuken
             |Range =
@@ -134,12 +134,12 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Head = Adhemar Bonnet +1
             |HeadAug = Path B
             |Neck = Mirage Stole +2
-            |Ear1 = Mache Earring +1
-            |Ear2 = Odr Earring
+            |Ear1 = Odr Earring
+            |Ear2 = Hoxne Earring
             |Body = Gleti's Cuirass
             |Hands = Gleti's Gauntlets
-            |Ring1 = Epona's Ring
-            |Ring2 = Begrudging Ring
+            |Ring1 = Begrudging Ring
+            |Ring2 = Epona's Ring
             |Back = Rosmerta's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
@@ -148,8 +148,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP + AM1
+        Updated 2026 Apr. 28
     }}
 
 
@@ -164,53 +164,53 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 13744 damage
+            |CaptionBottom = 14336 damage
             |Main = Sequence
             |Sub = Sakpata's Sword
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Hashishin Kavuk +3
             |Neck = Fotia Gorget
-            |Ear1 = Moonshade Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Hands = Sworn Gauntlets
             |Ring1 = Metamor. Ring +1
-            |Ring2 = Epona's Ring
+            |Ring2 = Rufescent Ring
             |Back = Rosmerta's Cape
             |BackAug = MND, DA
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 19676 damage
+            |CaptionBottom = 20501 damage
             |Main = Sequence
             |Sub = Maxentius
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Null Masque
             |Neck = Fotia Gorget
-            |Ear1 = Regal Earring
-            |Ear2 = Brutal Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Gleti's Cuirass
-            |Hands = Gleti's Gauntlets
+            |Hands = Sworn Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Metamor. Ring +1
             |Back = Rosmerta's Cape
             |BackAug = MND, DA
             |Waist = Fotia Belt
             |Legs = Gleti's Breeches
-            |Feet = Nyame Sollerets
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 Apr. 28
     }}
 
 
@@ -225,7 +225,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 37258 damage
+            |CaptionBottom = 38533 damage
             |Main = Caliburnus (Level 119 II)
             |Sub = Thibron
             |Range =
@@ -233,14 +233,13 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Head = Hashishin Kavuk +3
             |Neck = Mirage Stole +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Beithir Ring
-            |Back = Rosmerta's Cape
-            |BackAug = DEX, Weapon Skill Damage
-            |Waist = Sailfi Belt +1
+            |Back = Alabaster Mantle
+            |Waist = Kentarch Belt +1
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
@@ -249,7 +248,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 46875 damage
+            |CaptionBottom = 46791 damage
             |Main = Caliburnus (Level 119 II)
             |Sub = Thibron
             |Range =
@@ -257,7 +256,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Head = Hashishin Kavuk +3
             |Neck = Mirage Stole +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Assim. Jubbah +4
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -270,8 +269,8 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP + Aftermath Level 2
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 BLU/WAR: 1200 TP + AM1
+        Updated 2026 Apr. 28
     }}
 
     {{
@@ -285,7 +284,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 46311 damage
+            |CaptionBottom = 47831 damage
             |Main = Naegling
             |Sub = Thibron
             |Range =
@@ -293,7 +292,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Head = Hashishin Kavuk +3
             |Neck = Mirage Stole +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Hashi. Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -309,7 +308,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 50331 damage
+            |CaptionBottom = 51708 damage
             |Main = Naegling
             |Sub = Thibron
             |Range =
@@ -317,7 +316,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Head = Hashishin Kavuk +3
             |Neck = Mirage Stole +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Gleti's Cuirass
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
@@ -331,8 +330,9 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Background =
         }}
         |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 Apr. 28
     }}
+
 
     {{
         Guide Equipment Set
@@ -345,15 +345,15 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 18416 damage
-            |Main = Naegling
+            |CaptionBottom = 18911 damage
+            |Main = Archduke's Sword
             |Sub = Bunzi's Rod
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Hashishin Kavuk +3
             |Neck = Sibyl Scarf
-            |Ear1 = Friomisi Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Regal Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Jhakri Cuffs +2
             |Ring1 = Epaminondas's Ring
@@ -369,7 +369,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         {{
             Equipment Set
             |CaptionTop = Ice Brand enabled
-            |CaptionBottom = 20850 damage
+            |CaptionBottom = 21070 damage
             |Main = Ice Brand
             |Sub = Bunzi's Rod
             |Range =
@@ -377,7 +377,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Head = Hashishin Kavuk +3
             |Neck = Sibyl Scarf
             |Ear1 = Regal Earring
-            |Ear2 = Friomisi Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Jhakri Cuffs +2
             |Ring1 = Epaminondas's Ring
@@ -391,9 +391,9 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Background =
         }}
         |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 Apr. 28
     }}
-
+    
     {{
         Guide Equipment Set
         |Set Name Background=#304878
@@ -411,15 +411,15 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Hashishin Kavuk +3
-            |Neck = Sibyl Scarf
+            |Neck = Baetyl Pendant
             |Ear1 = Moonshade Earring
-            |Ear2 = Friomisi Earring
+            |Ear2 = Regal Earring
             |Body = Nyame Mail
             |Hands = Jhakri Cuffs +2
             |Ring1 = Epaminondas's Ring
             |Ring2 = Beithir Ring
             |Back = Rosmerta's Cape
-            |BackAug = STR, Weapon Skill Damage
+            |BackAug = INT, Weapon Skill Damage
             |Waist = Orpheus's Sash
             |Legs = Luh. Shalwar +4
             |Feet = Hashi. Basmak +3
@@ -451,7 +451,7 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
             |Background =
         }}
         |Equipment Set Notes=ML30 BLU/WAR: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 Apr. 28
     }}
 
 }}
@@ -471,54 +471,116 @@ To determine BLU traits, I used the spell list labeled "Zahak Reborn" from the [
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = 50% DT
-            |CaptionBottom = 3.715 s
+            |CaptionTop = -50% DT
+            |CaptionBottom = 3.043 s
             |Main = Tizona (Level 119 III)
             |Sub = Thibron
             |Range =
             |Ammo = Aurgelmir Orb +1
-            |Head = Malignance Chapeau
-            |Neck = Null Loop
-            |Ear1 = Telos Earring
-            |Ear2 = Hashi. Earring +1
-            |Body = Malignance Tabard
-            |Hands = Gazu Bracelets +1
-            |Ring1 = Defending Ring
-            |Ring2 = Epona's Ring
+            |Head = Sworn Crown
+            |Neck = Mirage Stole +2
+            |Ear1 = Eabani Earring
+            |Ear2 = Alabaster Earring
+            |Body = Sworn Platemail
+            |Hands = Sworn Gauntlets
+            |Ring1 = Epona's Ring
+            |Ring2 = Chirich Ring +1
             |Back = Rosmerta's Cape
-            |BackAug = DEX, Dual Wield
-            |Waist = Kentarch Belt +1
-            |Legs = Gleti's Breeches
-            |Feet = Malignance Boots
+            |BackAug = DEX, Store TP
+            |Waist = Reiki Yotai
+            |Legs = Sworn Brais
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = 25% DT
-            |CaptionBottom = 3.448 s
+            |CaptionTop = -25% DT
+            |CaptionBottom = 2.985 s
             |Main = Tizona (Level 119 III)
             |Sub = Thibron
             |Range =
             |Ammo = Aurgelmir Orb +1
-            |Head = Malignance Chapeau
+            |Head = Sworn Crown
             |Neck = Mirage Stole +2
-            |Ear1 = Suppanomimi
-            |Ear2 = Hashi. Earring +1
-            |Body = Adhemar Jacket +1
-            |BodyAug = Path A
-            |Hands = Gazu Bracelets +1
-            |Ring1 = Chirich Ring +1
-            |Ring2 = Epona's Ring
-            |Back = Rosmerta's Cape
-            |BackAug = DEX, Store TP
-            |Waist = Kentarch Belt +1
-            |Legs = Gleti's Breeches
-            |Feet = Malignance Boots
+            |Ear1 = Alabaster Earring
+            |Ear2 = Eabani Earring
+            |Body = Sworn Platemail
+            |Hands = Adhemar Wrist. +1
+            |Ring1 = Epona's Ring
+            |Ring2 = Chirich Ring +1
+            |Back = Null Shawl
+            |Waist = Reiki Yotai
+            |Legs = Samnuha Tights
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLU/WAR: 1000 TP + Aftermath Level 3
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 BLU/WAR: 1000 TP + AM3
+        Updated 2026 Apr. 28
     }}
+
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#304878
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Caliburnus + Thibron AM1 TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = -50% DT
+            |CaptionBottom = 3.305 s
+            |Main = Caliburnus (Level 119 II)
+            |Sub = Thibron
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Sworn Crown
+            |Neck = Mirage Stole +2
+            |Ear1 = Dedition Earring
+            |Ear2 = Alabaster Earring
+            |Body = Sworn Platemail
+            |Hands = Adhemar Wrist. +1
+            |HandsAug = Path A
+            |Ring1 = Petrov Ring
+            |Ring2 = Epona's Ring
+            |Back = Rosmerta's Cape
+            |BackAug = DEX, Dual Wield
+            |Waist = Windbuffet Belt +1
+            |Legs = Sworn Brais
+            |Feet = Sworn Sabatons
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = -25% DT
+            |CaptionBottom = 3.257 s
+            |Main = Caliburnus (Level 119 II)
+            |Sub = Thibron
+            |Range =
+            |Ammo = Coiste Bodhar
+            |Head = Sworn Crown
+            |Neck = Mirage Stole +2
+            |Ear1 = Dedition Earring
+            |Ear2 = Alabaster Earring
+            |Body = Sworn Platemail
+            |Hands = Adhemar Wrist. +1
+            |HandsAug = Path A
+            |Ring1 = Epona's Ring
+            |Ring2 = Chirich Ring +1
+            |Back = Null Shawl
+            |Waist = Reiki Yotai
+            |Legs = Samnuha Tights
+            |Feet = Sworn Sabatons
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 BLU/WAR: 1000 TP + AM1
+        Updated 2026 Apr. 28
+    }}
+
 }}
