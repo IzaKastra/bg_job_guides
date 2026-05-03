@@ -26,7 +26,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 33782 damage
+            |CaptionBottom = 34514 damage
             |Main = Ternion Dagger +1
             |Sub = Perun +1
             |Range = Earp (Level 119 II)
@@ -34,14 +34,14 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Orion Beret +4
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Ikenga's Vest
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
             |Back = Belenus's Cape
             |BackAug = STR, Weapon Skill Damage
-            |Waist = Fotia Belt
+            |Waist = Ponente Sash
             |Legs = Arc. Bracca +4
             |Feet = Amini Bottillons +3
             |List = Y
@@ -50,9 +50,9 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 46750 damage
-            |Main = Ternion Dagger +1
-            |Sub = Crepuscular Knife
+            |CaptionBottom = 46889 damage
+            |Main = Crepuscular Knife
+            |Sub = Ternion Dagger +1
             |Range = Earp (Level 119 II)
             |Ammo = Chrono Bullet
             |Head = Orion Beret +4
@@ -63,16 +63,15 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
-            |Back = Belenus's Cape
-            |BackAug = DEX, Weapon Skill Damage
+            |Back = Alabaster Mantle
             |Waist = Fotia Belt
             |Legs = Arc. Bracca +4
             |Feet = Amini Bottillons +3
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN: 2000 TP + Aftermath Level 2
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN: 2000 TP + AM2
+        Updated 2026 May 03
     }}
 
     {{
@@ -86,15 +85,15 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 24885 damage
+            |CaptionBottom = 25675 damage
             |Main = Perun +1
             |Sub = Ternion Dagger +1
             |Range = Annihilator (Level 119 III)
             |Ammo = Chrono Bullet
             |Head = Orion Beret +4
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
-            |Ear2 = Ishvara Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Amini Caban +3
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -110,29 +109,28 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 30522 damage
+            |CaptionBottom = 31094 damage
             |Main = Ternion Dagger +1
             |Sub = Crepuscular Knife
             |Range = Annihilator (Level 119 III)
             |Ammo = Chrono Bullet
             |Head = Orion Beret +4
             |Neck = Scout's Gorget +2
-            |Ear1 = Ishvara Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Amini Earring +1
             |Body = Amini Caban +3
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
-            |Back = Belenus's Cape
-            |BackAug = AGI, Weapon Skill Damage
+            |Back = Alabaster Mantle
             |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
+            |Legs = Arc. Bracca +4
             |Feet = Amini Bottillons +3
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP + Aftermath Level 1
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN: 1000 TP + AM1
+        Updated 2026 May 03
     }}
 
     {{
@@ -146,7 +144,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 25894 damage
+            |CaptionBottom = 26491 damage
             |Main = Perun +1
             |Sub = Ternion Dagger +1
             |Range = Fomalhaut
@@ -154,7 +152,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Orion Beret +4
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Amini Caban +3
             |Hands = Nyame Gauntlets
             |Ring1 = Dingir Ring
@@ -170,7 +168,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 36389 damage
+            |CaptionBottom = 37494 damage
             |Main = Crepuscular Knife
             |Sub = Ternion Dagger +1
             |Range = Fomalhaut
@@ -180,19 +178,19 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Ear1 = Moonshade Earring
             |Ear2 = Amini Earring +1
             |Body = Ikenga's Vest
-            |Hands = Ikenga's Gloves
+            |Hands = Clemency Kote
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Belenus's Cape
             |BackAug = AGI, Weapon Skill Damage
             |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
+            |Legs = Clem. Haidate
             |Feet = Amini Bottillons +3
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 03
     }}
 
     {{
@@ -207,8 +205,8 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             Equipment Set
             |CaptionTop = Mid buff
             |CaptionBottom = 63713 damage
-            |Main = Perfervid Sword
-            |Sub = Malevolence
+            |Main = Malevolence
+            |Sub = Perfervid Sword
             |Range = Fomalhaut
             |Ammo = Chrono Bullet
             |Head = Nyame Helm
@@ -252,9 +250,8 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 2000 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May. 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -266,8 +263,8 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = High buff
-            |CaptionBottom = 37216 damage
+            |CaptionTop = Mid buff
+            |CaptionBottom = 37394 damage
             |Main = Malevolence
             |Sub = Malevolence
             |Range = Gastraphetes (Level 119 III)
@@ -275,11 +272,11 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Nyame Helm
             |Neck = Scout's Gorget +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Friomisi Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Dingir Ring
-            |Ring2 = Weather. Ring +1
+            |Ring1 = Weather. Ring +1
+            |Ring2 = Dingir Ring
             |Back = Belenus's Cape
             |BackAug = AGI, Weapon Skill Damage
             |Waist = Skrymir Cord +1
@@ -288,10 +285,10 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP + AM1
+        Updated 2026 May 03
     }}
-    
+
     {{
         Guide Equipment Set
         |Set Name Background=#404040
@@ -303,7 +300,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 25473 damage
+            |CaptionBottom = 22945 damage
             |Main = Malevolence
             |Sub = Malevolence
             |Range = Armageddon (Level 119 III)
@@ -311,23 +308,22 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Nyame Helm
             |Neck = Scout's Gorget +2
             |Ear1 = Friomisi Earring
-            |Ear2 = Crematio Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Dingir Ring
             |Back = Belenus's Cape
             |BackAug = AGI, Weapon Skill Damage
-            |Waist = Orpheus's Sash
+            |Waist = Skrymir Cord +1
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN: 1000 TP
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -340,7 +336,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 36014 damage
+            |CaptionBottom = 36834 damage
             |Main = Perun +1
             |Sub = Ternion Dagger +1
             |Range = Pinaka (Level 119 II)
@@ -348,7 +344,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Orion Beret +4
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Ikenga's Vest
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -385,8 +381,8 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN: 2000 TP + Aftermath Level 2
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN: 2000 TP + AM2
+        Updated 2026 May 03
     }}
 
     {{
@@ -400,7 +396,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 22653 damage
+            |CaptionBottom = 23164 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Gandiva (Level 119 III)
@@ -408,10 +404,10 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Orion Beret +4
             |Neck = Fotia Gorget
             |Ear1 = Odr Earring
-            |Ear2 = Amini Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Amini Caban +3
             |Hands = Amini Glove. +3
-            |Ring1 = Begrudging Ring
+            |Ring1 = Murky Ring
             |Ring2 = Regal Ring
             |Back = Belenus's Cape
             |BackAug = DEX, Crit Rate
@@ -424,29 +420,29 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 28500 damage
+            |CaptionBottom = 32124 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Gandiva (Level 119 III)
             |Ammo = Chrono Arrow
-            |Head = Orion Beret +4
+            |Head = Clemen. Somen
             |Neck = Scout's Gorget +2
-            |Ear1 = Odr Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Amini Earring +1
-            |Body = Amini Caban +3
-            |Hands = Malignance Gloves
-            |Ring1 = Begrudging Ring
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
+            |Ring1 = Epaminondas's Ring
             |Ring2 = Regal Ring
             |Back = Belenus's Cape
-            |BackAug = DEX, Crit Rate
+            |BackAug = DEX, Weapon Skill Damage
             |Waist = Fotia Belt
-            |Legs = Ikenga's Trousers
-            |Feet = Amini Bottillons +3
+            |Legs = Clem. Haidate
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP + AM1
+        Updated 2026 May 03
     }}
 
     {{
@@ -460,7 +456,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 61777 damage
+            |CaptionBottom = 61801 damage
             |Main = Perfervid Sword
             |Sub = Malevolence
             |Range = Fail-Not
@@ -468,7 +464,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Friomisi Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -485,8 +481,8 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             Equipment Set
             |CaptionTop = High buff
             |CaptionBottom = 68957 damage
-            |Main = Perfervid Sword
-            |Sub = Malevolence
+            |Main = Malevolence
+            |Sub = Perfervid Sword
             |Range = Fail-Not
             |Ammo = Chrono Arrow
             |Head = Nyame Helm
@@ -506,7 +502,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 2000 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 03
     }}
 
     {{
@@ -520,15 +516,15 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 20763 damage
+            |CaptionBottom = 21452 damage
             |Main = Perun +1
             |Sub = Ternion Dagger +1
             |Range = Yoichinoyumi (Level 119 III)
             |Ammo = Chrono Arrow
             |Head = Orion Beret +4
             |Neck = Fotia Gorget
-            |Ear1 = Ishvara Earring
-            |Ear2 = Sherida Earring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Amini Caban +3
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -544,14 +540,14 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 25823 damage
+            |CaptionBottom = 26194 damage
             |Main = Ternion Dagger +1
             |Sub = Odium
             |Range = Yoichinoyumi (Level 119 III)
             |Ammo = Chrono Arrow
             |Head = Orion Beret +4
             |Neck = Scout's Gorget +2
-            |Ear1 = Ishvara Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Amini Earring +1
             |Body = Amini Caban +3
             |Hands = Nyame Gauntlets
@@ -565,8 +561,8 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP + Aftermath Level 1
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP + AM1
+        Updated 2026 May 03
     }}
 
     {{
@@ -580,14 +576,14 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 20292 damage
-            |Main = Crepuscular Knife
-            |Sub = Ternion Dagger +1
+            |CaptionBottom = 20539 damage
+            |Main = Ternion Dagger +1
+            |Sub = Crepuscular Knife
             |Range = Fail-Not
             |Ammo = Chrono Arrow
             |Head = Orion Beret +4
             |Neck = Scout's Gorget +2
-            |Ear1 = Ishvara Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Amini Earring +1
             |Body = Amini Caban +3
             |Hands = Nyame Gauntlets
@@ -596,7 +592,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Back = Belenus's Cape
             |BackAug = AGI, Weapon Skill Damage
             |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
+            |Legs = Arc. Bracca +4
             |Feet = Amini Bottillons +3
             |List = Y
             |Background =
@@ -604,14 +600,14 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 20292 damage
+            |CaptionBottom = 20539 damage
             |Main = Crepuscular Knife
             |Sub = Ternion Dagger +1
             |Range = Fail-Not
             |Ammo = Chrono Arrow
             |Head = Orion Beret +4
             |Neck = Scout's Gorget +2
-            |Ear1 = Ishvara Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Amini Earring +1
             |Body = Amini Caban +3
             |Hands = Nyame Gauntlets
@@ -620,16 +616,15 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Back = Belenus's Cape
             |BackAug = AGI, Weapon Skill Damage
             |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
+            |Legs = Arc. Bracca +4
             |Feet = Amini Bottillons +3
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 1500 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 03
     }}
-
-
+    
     {{
         Guide Equipment Set
         |Set Name Background=#404040
@@ -641,7 +636,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 48608 damage
+            |CaptionBottom = 50146 damage
             |Main = Naegling
             |Sub = Gleti's Knife
             |Range = Accipiter
@@ -649,7 +644,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Nyame Helm
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
@@ -665,9 +660,9 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 68228 damage
+            |CaptionBottom = 68291 damage
             |Main = Naegling
-            |Sub = Ternion Dagger +1
+            |Sub = Odium
             |Range = Accipiter
             |Ammo = Hauksbok Arrow
             |Head = Orion Beret +4
@@ -675,7 +670,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Ear1 = Moonshade Earring
             |Ear2 = Amini Earring +1
             |Body = Ikenga's Vest
-            |Hands = Nyame Gauntlets
+            |Hands = Clemency Kote
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Belenus's Cape
@@ -687,7 +682,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 03
     }}
 
     {{
@@ -701,7 +696,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 15355 damage
+            |CaptionBottom = 14296 damage
             |Main = Malevolence
             |Sub = Malevolence
             |Range = Accipiter
@@ -722,8 +717,8 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN: 1000 TP
+        Updated 2026 May 03
     }}
 }}
 
@@ -743,19 +738,19 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 15281 damage
+            |CaptionBottom = 15628 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Armageddon (Level 119 III)
             |Ammo = Chrono Bullet
             |Head = Meghanada Visor +2
             |Neck = Rep. Plat. Medal
-            |Ear1 = Odr Earring
-            |Ear2 = Amini Earring +1
+            |Ear1 = Hoxne Earring
+            |Ear2 = Odr Earring
             |Body = Nisroch Jerkin
-            |Hands = Arc. Bracers +4
-            |Ring1 = Begrudging Ring
-            |Ring2 = Regal Ring
+            |Hands = Clemency Kote
+            |Ring1 = Murky Ring
+            |Ring2 = Begrudging Ring
             |Back = Belenus's Cape
             |BackAug = STR, Crit Rate
             |Waist = Tellen Belt
@@ -767,19 +762,19 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 21604 damage
+            |CaptionBottom = 23418 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Armageddon (Level 119 III)
             |Ammo = Chrono Bullet
-            |Head = Blistering Sallet +1
+            |Head = Clemen. Somen
             |Neck = Scout's Gorget +2
             |Ear1 = Odr Earring
             |Ear2 = Amini Earring +1
-            |Body = Nisroch Jerkin
-            |Hands = Ikenga's Gloves
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
             |Ring1 = Sroda Ring
-            |Ring2 = Begrudging Ring
+            |Ring2 = Murky Ring
             |Back = Belenus's Cape
             |BackAug = STR, Crit Rate
             |Waist = Tellen Belt
@@ -788,8 +783,8 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN. Aftermath Level 3 + Hover Shot
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN: /ra + AM3 + Hover Shot + True Shot
+        Updated 2026 May 03
     }}
 
     {{
@@ -803,7 +798,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 168683 damage
+            |CaptionBottom = 170,501 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Armageddon (Level 119 III)
@@ -811,11 +806,11 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Meghanada Visor +2
             |Neck = Rep. Plat. Medal
             |Ear1 = Odr Earring
-            |Ear2 = Amini Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nisroch Jerkin
             |Hands = Orion Bracers +4
             |Ring1 = Begrudging Ring
-            |Ring2 = Regal Ring
+            |Ring2 = Murky Ring
             |Back = Belenus's Cape
             |BackAug = STR, Crit Rate
             |Waist = Tellen Belt
@@ -827,31 +822,30 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 228380 damage
+            |CaptionBottom = 240,506 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Armageddon (Level 119 III)
             |Ammo = Chrono Bullet
-            |Head = Blistering Sallet +1
+            |Head = Clemen. Somen
             |Neck = Scout's Gorget +2
             |Ear1 = Odr Earring
             |Ear2 = Amini Earring +1
-            |Body = Nisroch Jerkin
+            |Body = Clemen. Hara.
             |Hands = Orion Bracers +4
             |Ring1 = Sroda Ring
             |Ring2 = Begrudging Ring
             |Back = Belenus's Cape
             |BackAug = STR, Crit Rate
             |Waist = Tellen Belt
-            |Legs = Amini Bragues +3
+            |Legs = Clem. Haidate
             |Feet = Ikenga's Clogs
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN. Aftermath Level 3 + Hover Shot + Sharpshot
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN /ra + AM3 + Hover Shot + True Shot + Barrage + Sharpshot
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -864,7 +858,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 13111 damage
+            |CaptionBottom = 13365 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Gandiva (Level 119 III)
@@ -872,11 +866,11 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Meghanada Visor +2
             |Neck = Rep. Plat. Medal
             |Ear1 = Odr Earring
-            |Ear2 = Amini Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nisroch Jerkin
-            |Hands = Amini Glove. +3
-            |Ring1 = Begrudging Ring
-            |Ring2 = Regal Ring
+            |Hands = Clemency Kote
+            |Ring1 = Murky Ring
+            |Ring2 = Begrudging Ring
             |Back = Belenus's Cape
             |BackAug = STR, Crit Rate
             |Waist = Tellen Belt
@@ -888,32 +882,30 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 17302 damage
+            |CaptionBottom = 18812 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Gandiva (Level 119 III)
             |Ammo = Chrono Arrow
-            |Head = Blistering Sallet +1
+            |Head = Clemen. Somen
             |Neck = Scout's Gorget +2
             |Ear1 = Odr Earring
             |Ear2 = Amini Earring +1
-            |Body = Nisroch Jerkin
-            |Hands = Malignance Gloves
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
             |Ring1 = Sroda Ring
             |Ring2 = Begrudging Ring
             |Back = Belenus's Cape
             |BackAug = STR, Crit Rate
             |Waist = Tellen Belt
-            |Legs = Amini Bragues +3
+            |Legs = Clem. Haidate
             |Feet = Ikenga's Clogs
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN. Aftermath Level 3 + Hover Shot
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN /ra + AM3 + Hover Shot + True Shot
+        Updated 2026 May 03
     }}
-
-
 
     {{
         Guide Equipment Set
@@ -926,7 +918,7 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 143863 damage
+            |CaptionBottom = 145,566 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Gandiva (Level 119 III)
@@ -934,11 +926,11 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
             |Head = Meghanada Visor +2
             |Neck = Rep. Plat. Medal
             |Ear1 = Odr Earring
-            |Ear2 = Amini Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nisroch Jerkin
             |Hands = Orion Bracers +4
-            |Ring1 = Begrudging Ring
-            |Ring2 = Regal Ring
+            |Ring1 = Murky Ring
+            |Ring2 = Begrudging Ring
             |Back = Belenus's Cape
             |BackAug = STR, Crit Rate
             |Waist = Tellen Belt
@@ -950,29 +942,29 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 182892 damage
+            |CaptionBottom = 192,482 damage
             |Main = Oneiros Knife
             |Sub = Gleti's Knife
             |Range = Gandiva (Level 119 III)
             |Ammo = Chrono Arrow
-            |Head = Blistering Sallet +1
+            |Head = Clemen. Somen
             |Neck = Scout's Gorget +2
             |Ear1 = Odr Earring
             |Ear2 = Amini Earring +1
-            |Body = Nisroch Jerkin
+            |Body = Clemen. Hara.
             |Hands = Orion Bracers +4
             |Ring1 = Sroda Ring
             |Ring2 = Begrudging Ring
             |Back = Belenus's Cape
             |BackAug = STR, Crit Rate
             |Waist = Tellen Belt
-            |Legs = Amini Bragues +3
+            |Legs = Clem. Haidate
             |Feet = Ikenga's Clogs
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RNG/NIN. Aftermath Level 3 + Hover Shot + Sharpshot
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 RNG/NIN /ra + AM3 + Hover Shot + True Shot + Barrage + Sharpshot
+        Updated 2026 May 03
     }}
 
 }}
@@ -993,53 +985,53 @@ Ranged sets used [[Velocity Shot]], while melee sets did not.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = 50% DT
-            |CaptionBottom = 4.237 s
+            |CaptionTop = -50% DT
+            |CaptionBottom = 3.861 s
             |Main = Naegling
             |Sub = Gleti's Knife
             |Range = Accipiter
             |Ammo = Hauksbok Arrow
-            |Head = Malignance Chapeau
+            |Head = Clemen. Somen
             |Neck = Iskur Gorget
-            |Ear1 = Dedition Earring
-            |Ear2 = Sherida Earring
-            |Body = Tatena. Harama. +1
-            |Hands = Amini Glove. +3
-            |Ring1 = Defending Ring
-            |Ring2 = Epona's Ring
+            |Ear1 = Sherida Earring
+            |Ear2 = Alabaster Earring
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
+            |Ring1 = Epona's Ring
+            |Ring2 = Petrov Ring
             |Back = Belenus's Cape
-            |BackAug = AGI, Dual Wield
-            |Waist = Sailfi Belt +1
+            |BackAug = DEX, Dual Wield
+            |Waist = Windbuffet Belt +1
             |Legs = Amini Bragues +3
-            |Feet = Tatena. Sune. +1
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = 25% DT
-            |CaptionBottom = 4.006 s
+            |CaptionTop = -25% DT
+            |CaptionBottom = 3.791 s
             |Main = Naegling
             |Sub = Gleti's Knife
             |Range = Accipiter
             |Ammo = Hauksbok Arrow
-            |Head = Adhemar Bonnet +1
+            |Head = Clemen. Somen
             |Neck = Iskur Gorget
-            |Ear1 = Sherida Earring
-            |Ear2 = Dedition Earring
+            |Ear1 = Dedition Earring
+            |Ear2 = Sherida Earring
             |Body = Tatena. Harama. +1
-            |Hands = Malignance Gloves
+            |Hands = Clemency Kote
             |Ring1 = Epona's Ring
             |Ring2 = Chirich Ring +1
             |Back = Belenus's Cape
-            |BackAug = AGI, Dual Wield
-            |Waist = Windbuffet Belt +1
-            |Legs = Amini Bragues +3
-            |Feet = Tatena. Sune. +1
+            |BackAug = DEX, Dual Wield
+            |Waist = Sailfi Belt +1
+            |Legs = Samnuha Tights
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RNG/NIN: 1000 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 03
     }}
 }}
