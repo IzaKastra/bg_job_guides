@@ -4,13 +4,11 @@ See the main [[:All Jobs Gear Sets]] page for details on how each set was determ
 
 Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
-Thibron (TP Bonus +1000) was allowed for these sets since RDM gets access to Distract III.
-
 [[Flametongue]], [[Ice Brand]], and [[Wizard's Rod]] were not included. However, Flametongue was the clear winner in the off-hand for nearly all physical weapon skill, even beating Naegling for main-hand Savage Blade at high buffs (assuming 15 buffs for Naegling's attack+%).
 
-RDM sets used Dia3 instead of Dia2 and always had Composure, Temper II, Distract III, and Gain-STR enabled.
+Melee sets used Ninja subjob with Grape Daifuku, Dia3, Composure, Temper II, Distract III, and Gain-STR enabled.
 
-Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks roll (with job bonuses enabled), Indi-Acumen, and a 20% potency BoG Geo-Malaise. 
+Casting sets all Scholar subjob with used Tropical Crepe, Gain-INT, Crooked 10-Wizard's roll, 9-Warlocks roll (with job bonuses enabled), Indi-Acumen, and a 20% potency BoG Geo-Malaise. Casting sets ignored Orpheus's Sash.
 
 
 {{Guide Equipment Set Table
@@ -27,7 +25,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 52999 damage
+            |CaptionBottom = 54330 damage
             |Main = Naegling
             |Sub = Thibron
             |Range =
@@ -35,9 +33,9 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Head = Viti. Chapeau +4
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Hands = Atro. Gloves +4
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
             |Back = Sucellos's Cape
@@ -51,7 +49,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 54943 damage
+            |CaptionBottom = 56183 damage
             |Main = Naegling
             |Sub = Thibron
             |Range =
@@ -59,7 +57,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Head = Viti. Chapeau +4
             |Neck = Dls. Torque +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Atro. Gloves +4
             |Ring1 = Sroda Ring
@@ -73,7 +71,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        Updated 2026 May 03
     }}
 
     {{
@@ -87,53 +85,53 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 29300 damage
+            |CaptionBottom = 30653 damage
             |Main = Almace (Level 119 III)
             |Sub = Gleti's Knife
             |Range =
             |Ammo = Yetshila +1
             |Head = Blistering Sallet +1
             |Neck = Fotia Gorget
-            |Ear1 = Mache Earring +1
-            |Ear2 = Sherida Earring
-            |Body = Malignance Tabard
-            |Hands = Nyame Gauntlets
-            |Ring1 = Ilabrat Ring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
+            |Body = Sworn Platemail
+            |Hands = Malignance Gloves
+            |Ring1 = Murky Ring
             |Ring2 = Begrudging Ring
             |Back = Sucellos's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
             |Legs = Zoar Subligar +1
-            |Feet = Thereoid Greaves
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 30582 damage
+            |CaptionBottom = 31118 damage
             |Main = Almace (Level 119 III)
             |Sub = Gleti's Knife
             |Range =
             |Ammo = Yetshila +1
             |Head = Blistering Sallet +1
             |Neck = Fotia Gorget
-            |Ear1 = Mache Earring +1
-            |Ear2 = Sherida Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Malignance Tabard
             |Hands = Malignance Gloves
-            |Ring1 = Ilabrat Ring
-            |Ring2 = Begrudging Ring
+            |Ring1 = Cacoethic Ring +1
+            |Ring2 = Hetairoi Ring
             |Back = Sucellos's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
             |Legs = Zoar Subligar +1
-            |Feet = Thereoid Greaves
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        Updated 2026 May 03
     }}
 
 
@@ -148,19 +146,19 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 28104 damage
+            |CaptionBottom = 29135 damage
             |Main = Murgleis (Level 119 III)
             |Sub = Sakpata's Sword
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Viti. Chapeau +4
             |Neck = Rep. Plat. Medal
-            |Ear1 = Sherida Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Sroda Ring
-            |Ring2 = Epaminondas's Ring
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Sucellos's Cape
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -172,15 +170,15 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 31495 damage
+            |CaptionBottom = 32577 damage
             |Main = Murgleis (Level 119 III)
             |Sub = Maxentius
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Viti. Chapeau +4
             |Neck = Dls. Torque +2
-            |Ear1 = Sherida Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Bunzi's Robe
             |Hands = Malignance Gloves
             |Ring1 = Sroda Ring
@@ -193,10 +191,9 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RDM/NIN: 1200 TP + Aftermath Level 3
-        Updated 2025 Jun. 18
+        |Equipment Set Notes=ML30 RDM/NIN: 1200 TP + AM3
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -209,15 +206,15 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 32133 damage
+            |CaptionBottom = 33252 damage
             |Main = Excalibur (Level 119 III)
             |Sub = Sakpata's Sword
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Viti. Chapeau +4
             |Neck = Rep. Plat. Medal
-            |Ear1 = Sherida Earring
-            |Ear2 = Ishvara Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
@@ -233,15 +230,15 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 34375 damage
+            |CaptionBottom = 35491 damage
             |Main = Excalibur (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Viti. Chapeau +4
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
-            |Ear2 = Ishvara Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Atro. Gloves +4
             |Ring1 = Sroda Ring
@@ -254,8 +251,8 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        |Equipment Set Notes=ML30 RDM/NIN: 1000 TP + AM1
+        Updated 2026 May 03
     }}
 
 
@@ -270,7 +267,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 39102 damage
+            |CaptionBottom = 40474 damage
             |Main = Caliburnus (Level 119 II)
             |Sub = Thibron
             |Range =
@@ -278,13 +275,12 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Head = Viti. Chapeau +4
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Ilabrat Ring
-            |Back = Sucellos's Cape
-            |BackAug = MND, Weapon Skill Damage
+            |Back = Alabaster Mantle
             |Waist = Sailfi Belt +1
             |Legs = Nyame Flanchard
             |Feet = Leth. Houseaux +3
@@ -294,15 +290,15 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 47080 damage
-            |Main = Caliburnus (Level 119 III)
+            |CaptionBottom = 48246 damage
+            |Main = Caliburnus (Level 119 II)
             |Sub = Thibron
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Viti. Chapeau +4
             |Neck = Dls. Torque +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Bunzi's Robe
             |Hands = Atro. Gloves +4
             |Ring1 = Epaminondas's Ring
@@ -315,10 +311,9 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RDM/NIN: 1200 TP + Aftermath Level 2
-        Updated 2025 Jun. 18
+        |Equipment Set Notes=ML30 RDM/NIN: 1200 TP + AM2
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -331,55 +326,54 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 15894 damage
+            |CaptionBottom = 16373 damage
             |Main = Sequence
             |Sub = Sakpata's Sword
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Viti. Chapeau +4
             |Neck = Fotia Gorget
-            |Ear1 = Moonshade Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Bunzi's Gloves
             |Ring1 = Rufescent Ring
             |Ring2 = Metamor. Ring +1
             |Back = Sucellos's Cape
-            |BackAug = MND, DA
+            |BackAug = MND, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
-            |Feet = Leth. Houseaux +3
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 21215 damage
+            |CaptionBottom = 21863 damage
             |Main = Sequence
             |Sub = Daybreak
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Null Masque
             |Neck = Fotia Gorget
-            |Ear1 = Malignance Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Bunzi's Robe
             |Hands = Malignance Gloves
             |Ring1 = Sroda Ring
             |Ring2 = Metamor. Ring +1
             |Back = Sucellos's Cape
-            |BackAug = MND, DA
+            |BackAug = MND, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
-            |Feet = Leth. Houseaux +3
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        Updated 2026 May 03
     }}
-
 
     
     {{
@@ -392,7 +386,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop =
+            |CaptionTop = Mid buff
             |CaptionBottom = 32192 damage
             |Main = Crocea Mors
             |MainAug = Path C
@@ -416,7 +410,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        Updated 2026 May 03
     }}
 
     {{
@@ -429,8 +423,8 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop =
-            |CaptionBottom = 28075 damage
+            |CaptionTop = Mid buff
+            |CaptionBottom = 29418 damage
             |Main = Crocea Mors
             |MainAug = Path C
             |Sub = Daybreak
@@ -443,9 +437,9 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Body = Nyame Mail
             |Hands = Leth. Ganth. +3
             |Ring1 = Epaminondas's Ring
-            |Ring2 = Freke Ring
+            |Ring2 = Weather. Ring +1
             |Back = Sucellos's Cape
-            |BackAug = MND, Weapon Skill Damage
+            |BackAug = STR, Weapon Skill Damage
             |Waist = Orpheus's Sash
             |Legs = Nyame Flanchard
             |Feet = Leth. Houseaux +3
@@ -453,9 +447,8 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -467,7 +460,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop =
+            |CaptionTop = Mid buff
             |CaptionBottom = 24956 damage
             |Main = Crocea Mors
             |MainAug = Path C
@@ -483,7 +476,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Ring1 = Epaminondas's Ring
             |Ring2 = Freke Ring
             |Back = Sucellos's Cape
-            |BackAug = INT, Weapon Skill Damage
+            |BackAug = STR, Weapon Skill Damage
             |Waist = Orpheus's Sash
             |Legs = Nyame Flanchard
             |Feet = Leth. Houseaux +3
@@ -491,7 +484,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        Updated 2026 May 03
     }}
 
 
@@ -506,15 +499,15 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 32804 damage
+            |CaptionBottom = 33655 damage
             |Main = Mandau (Level 119 III)
             |Sub = Gleti's Knife
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Nyame Helm
             |Neck = Rep. Plat. Medal
-            |Ear1 = Ishvara Earring
-            |Ear2 = Sherida Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
@@ -530,15 +523,15 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 35210 damage
+            |CaptionBottom = 35845 damage
             |Main = Mandau (Level 119 III)
             |Sub = Crepuscular Knife
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
             |Neck = Rep. Plat. Medal
-            |Ear1 = Sherida Earring
-            |Ear2 = Ishvara Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Malignance Gloves
             |Ring1 = Sroda Ring
@@ -551,10 +544,9 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        |Equipment Set Notes=ML30 RDM/NIN: 1000 TP + AM1
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -567,7 +559,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 35378 damage
+            |CaptionBottom = 36554 damage
             |Main = Mpu Gandring (Level 119 II)
             |Sub = Thibron
             |Range =
@@ -575,13 +567,12 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Head = Viti. Chapeau +4
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Ilabrat Ring
-            |Back = Sucellos's Cape
-            |BackAug = STR, Weapon Skill Damage
+            |Back = Alabaster Mantle
             |Waist = Sailfi Belt +1
             |Legs = Nyame Flanchard
             |Feet = Leth. Houseaux +3
@@ -591,7 +582,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 41187 damage
+            |CaptionBottom = 43569 damage
             |Main = Mpu Gandring (Level 119 II)
             |Sub = Thibron
             |Range =
@@ -599,21 +590,20 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Head = Nyame Helm
             |Neck = Moepapa Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Malignance Gloves
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
-            |Back = Sucellos's Cape
-            |BackAug = DEX, Weapon Skill Damage
+            |Back = Alabaster Mantle
             |Waist = Kentarch Belt +1
             |Legs = Nyame Flanchard
             |Feet = Leth. Houseaux +3
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RDM/NIN: 1200 TP + Aftermath Level 1
-        Updated 2025 Jun. 18
+        |Equipment Set Notes=ML30 RDM/NIN: 1200 TP + AM2
+        Updated 2026 May 03
     }}
 
     {{
@@ -627,19 +617,19 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 25696 damage
+            |CaptionBottom = 26607 damage
             |Main = Tauret
             |Sub = Almace (Level 119 III)
             |Range =
             |Ammo = Yetshila +1
             |Head = Blistering Sallet +1
             |Neck = Fotia Gorget
-            |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
-            |Body = Agony Jerkin +1
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
+            |Body = Sworn Platemail
             |Hands = Malignance Gloves
-            |Ring1 = Ilabrat Ring
-            |Ring2 = Begrudging Ring
+            |Ring1 = Begrudging Ring
+            |Ring2 = Murky Ring
             |Back = Sucellos's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
@@ -651,19 +641,19 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 27115 damage
+            |CaptionBottom = 27663 damage
             |Main = Tauret
             |Sub = Almace (Level 119 III)
             |Range =
             |Ammo = Yetshila +1
             |Head = Blistering Sallet +1
             |Neck = Fotia Gorget
-            |Ear1 = Mache Earring +1
-            |Ear2 = Sherida Earring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Malignance Tabard
             |Hands = Malignance Gloves
-            |Ring1 = Ilabrat Ring
-            |Ring2 = Begrudging Ring
+            |Ring1 = Begrudging Ring
+            |Ring2 = Murky Ring
             |Back = Sucellos's Cape
             |BackAug = DEX, Crit Rate
             |Waist = Fotia Belt
@@ -673,9 +663,8 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -688,7 +677,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 47034 damage
+            |CaptionBottom = 48299 damage
             |Main = Maxentius
             |Sub = Thibron
             |Range =
@@ -696,7 +685,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Head = Viti. Chapeau +4
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Regal Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
@@ -712,7 +701,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 55998 damage
+            |CaptionBottom = 57136 damage
             |Main = Maxentius
             |Sub = Thibron
             |Range =
@@ -720,7 +709,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Head = Viti. Chapeau +4
             |Neck = Dls. Torque +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Regal Earring
+            |Ear2 = Hoxne Earring
             |Body = Bunzi's Robe
             |Hands = Atro. Gloves +4
             |Ring1 = Sroda Ring
@@ -734,9 +723,8 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -748,7 +736,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop =
+            |CaptionTop = Mid buff
             |CaptionBottom = 16358 damage
             |Main = Tauret
             |Sub = Thibron
@@ -763,7 +751,7 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Ring1 = Epaminondas's Ring
             |Ring2 = Freke Ring
             |Back = Sucellos's Cape
-            |BackAug = DEX, Weapon Skill Damage
+            |BackAug = INT, Weapon Skill Damage
             |Waist = Orpheus's Sash
             |Legs = Leth. Fuseau +3
             |Feet = Leth. Houseaux +3
@@ -771,8 +759,9 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/NIN: 1200 TP
-        Updated 2025 Jun. 18
+        Updated 2026 May 03
     }}
+    
 }}
 
 {{
@@ -790,22 +779,22 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 15704 damage
+            |CaptionBottom = 17930 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
-            |Ammo = Ghastly Tathlum +1
+            |Ammo = Sroda Tathlum
             |Head = Leth. Chappel +3
             |Neck = Sibyl Scarf
-            |Ear1 = Regal Earring
-            |Ear2 = Malignance Earring
+            |Ear1 = Malignance Earring
+            |Ear2 = Regal Earring
             |Body = Lethargy Sayon +3
             |Hands = Leth. Ganth. +3
             |Ring1 = Metamor. Ring +1
             |Ring2 = Freke Ring
             |Back = Sucellos's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Acuity Belt +1
+            |Waist = Skrymir Cord +1
             |Legs = Leth. Fuseau +3
             |Feet = Viti. Boots +4
             |List = Y
@@ -814,30 +803,91 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 53985 damage
+            |CaptionBottom = 62098 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Ea Hat +1
             |Neck = Sibyl Scarf
-            |Ear1 = Regal Earring
-            |Ear2 = Malignance Earring
+            |Ear1 = Malignance Earring
+            |Ear2 = Regal Earring
             |Body = Ea Houppe. +1
             |Hands = Bunzi's Gloves
-            |Ring1 = Metamor. Ring +1
+            |Ring1 = Mujin Band
             |Ring2 = Freke Ring
             |Back = Sucellos's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Acuity Belt +1
+            |Waist = Skrymir Cord +1
             |Legs = Ea Slops +1
             |Feet = Viti. Boots +4
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RDM/SCH: Fire V vs 100% resist rank
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 RDM/SCH: Fire V vs 100% Resist Rank
+        Updated 2026 May 03
     }}
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#601818
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= EnSpell
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = EnSpell: Crocea
+            |CaptionBottom = 1631 damage
+            |Main = Crocea Mors
+            |Sub =
+            |Range =
+            |Ammo = Sroda Tathlum
+            |Head = Sworn Crown
+            |Neck =
+            |Ear1 =
+            |Ear2 =
+            |Body = Sworn Platemail
+            |Hands = Aya. Manopolas +2
+            |Ring1 =
+            |Ring2 =
+            |Back =
+            |Waist = Orpheus's Sash
+            |Legs = Sworn Brais
+            |Feet = Sworn Sabatons
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = EnSpell: Archduke
+            |CaptionBottom = 718 damage
+            |Main = Archduke's Sword
+            |Sub =
+            |Range =
+            |Ammo = Sroda Tathlum
+            |Head = Sworn Crown
+            |Neck =
+            |Ear1 =
+            |Ear2 =
+            |Body = Sworn Platemail
+            |Hands = Aya. Manopolas +2
+            |Ring1 =
+            |Ring2 =
+            |Back =
+            |Waist = Orpheus's Sash
+            |Legs = Sworn Brais
+            |Feet = Sworn Sabatons
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RDM/NIN: EnSpell.
+        
+Consider Elemental Damage Bonus items: [[Levante Dagger]], [[Quanpur Necklace]], [[Hachirin-no-Obi]]
+        Updated 2026 May 03
+    }}
+
 }}
 
 
@@ -852,59 +902,58 @@ Casting sets all used Tropical Crepe with Crooked 10-Wizard's roll, 9-Warlocks r
         |Set Name Background=#601818
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Naegling+Thibron TP
+        |Set Name= Naegling + Thibron TP
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = 50% DT
-            |CaptionBottom = 3.289 s
+            |CaptionTop = -50% DT
+            |CaptionBottom = 3.010 s
             |Main = Naegling
             |Sub = Thibron
             |Range =
-            |Ammo = Coiste Bodhar
+            |Ammo = Aurgelmir Orb +1
             |Head = Bunzi's Hat
             |Neck = Anu Torque
-            |Ear1 = Sherida Earring
-            |Ear2 = Dedition Earring
-            |Body = Malignance Tabard
-            |Hands = Malignance Gloves
-            |Ring1 = Defending Ring
-            |Ring2 = Petrov Ring
+            |Ear1 = Eabani Earring
+            |Ear2 = Alabaster Earring
+            |Body = Sworn Platemail
+            |Hands = Sworn Gauntlets
+            |Ring1 = Chirich Ring +1
+            |Ring2 = Chirich Ring +1
             |Back = Sucellos's Cape
-            |BackAug = AGI, Dual Wield
-            |Waist = Windbuffet Belt +1
-            |Legs = Malignance Tights
-            |Feet = Malignance Boots
+            |BackAug = DEX, Store TP
+            |Waist = Reiki Yotai
+            |Legs = Sworn Brais
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = 25% DT
-            |CaptionBottom = 3.151 s
+            |CaptionTop = -25% DT
+            |CaptionBottom = 3.010 s
             |Main = Naegling
             |Sub = Thibron
             |Range =
-            |Ammo = Coiste Bodhar
+            |Ammo = Aurgelmir Orb +1
             |Head = Bunzi's Hat
             |Neck = Anu Torque
-            |Ear1 = Sherida Earring
-            |Ear2 = Eabani Earring
-            |Body = Malignance Tabard
-            |Hands = Malignance Gloves
+            |Ear1 = Eabani Earring
+            |Ear2 = Alabaster Earring
+            |Body = Sworn Platemail
+            |Hands = Sworn Gauntlets
             |Ring1 = Chirich Ring +1
             |Ring2 = Chirich Ring +1
-            |Back = Null Shawl
-            |BackAug = DA, Store TP
+            |Back = Sucellos's Cape
+            |BackAug = DEX, Store TP
             |Waist = Reiki Yotai
-            |Legs = Malignance Tights
-            |Feet = Carmine Greaves +1
+            |Legs = Sworn Brais
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RDM/NIN: 1000 TP
-        Updated 2025 Jun. 18
+        Updated 2026 May 03
     }}
-
 }}
