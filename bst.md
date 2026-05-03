@@ -22,7 +22,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 39417 damage
+            |CaptionBottom = 41134 damage
             |Main = Spalirisos (Level 119 II)
             |Sub = Ikenga's Axe
             |Range =
@@ -30,7 +30,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Head = Ankusa Helm +4
             |Neck = Bst. Collar +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Thrud Earring
+            |Ear2 = Hoxne Earring
             |Body = Nukumi Gausape +3
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
@@ -46,7 +46,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 55638 damage
+            |CaptionBottom = 57811 damage
             |Main = Spalirisos (Level 119 II)
             |Sub = Ikenga's Axe
             |Range =
@@ -67,8 +67,8 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BST/NIN: 1900 TP + Aftermath Level 2
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 BST/NIN: 2000 TP + AM2
+        Updated 2026 May 02
     }}
 
 
@@ -83,38 +83,38 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 31585 damage
+            |CaptionBottom = 31944 damage
             |Main = Dolichenus
             |Sub = Barbarity +1
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Ankusa Helm +4
             |Neck = Fotia Gorget
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Sherida Earring
-            |Body = Nukumi Gausape +3
+            |Ear1 = Hoxne Earring
+            |Ear2 = Thrud Earring
+            |Body = Duty Cyclas
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Gere Ring
             |Back = Artio's Mantle
             |BackAug = STR, DA
             |Waist = Sailfi Belt +1
-            |Legs = Nyame Flanchard
-            |Feet = Nukumi Ocreae +3
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 48175 damage
+            |CaptionBottom = 48768 damage
             |Main = Dolichenus
-            |Sub = Farsha (Level 119 III)
+            |Sub = Farsha
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Ankusa Helm +4
+            |Head = Duty Crown
             |Neck = Bst. Collar +2
-            |Ear1 = Sherida Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Nukumi Earring +1
             |Body = Gleti's Cuirass
             |Hands = Gleti's Gauntlets
@@ -129,9 +129,8 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Background =
         }}
         |Equipment Set Notes=ML30 BST/NIN: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 02
     }}
-
 
 
     {{
@@ -145,9 +144,9 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 37854 damage
-            |Main = Ikenga's Axe
-            |Sub = Barbarity +1
+            |CaptionBottom = 36519 damage
+            |Main = Tri-edge
+            |Sub = Ikenga's Axe
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Ankusa Helm +4
@@ -169,14 +168,14 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 49855 damage
+            |CaptionBottom = 48732 damage
             |Main = Tri-edge
             |Sub = Ikenga's Axe
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Ankusa Helm +4
             |Neck = Bst. Collar +2
-            |Ear1 = Thrud Earring
+            |Ear1 = Moonshade Earring
             |Ear2 = Nukumi Earring +1
             |Body = Nukumi Gausape +3
             |Hands = Tot. Gloves +4
@@ -190,8 +189,8 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BST/NIN: 1900 TP
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 BST/NIN: 1700 TP
+        Updated 2026 May 02
     }}
 
 
@@ -206,15 +205,15 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 19637 damage
+            |CaptionBottom = 19824 damage
             |Main = Guttler (Level 119 III)
             |Sub = Ikenga's Axe
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Ankusa Helm +4
             |Neck = Bst. Collar +2
-            |Ear1 = Sherida Earring
-            |Ear2 = Lugra Earring +1
+            |Ear1 = Lugra Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nukumi Gausape +3
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
@@ -230,14 +229,14 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 25781 damage
+            |CaptionBottom = 25937 damage
             |Main = Guttler (Level 119 III)
             |Sub = Ikenga's Axe
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Ankusa Helm +4
             |Neck = Bst. Collar +2
-            |Ear1 = Lugra Earring +1
+            |Ear1 = Hoxne Earring
             |Ear2 = Nukumi Earring +1
             |Body = Gleti's Cuirass
             |Hands = Tot. Gloves +4
@@ -251,8 +250,8 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BST/NIN: 1200 TP + Aftermath Level 1
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 BST/NIN: 1000 TP + AM1
+        Updated 2026 May 02
     }}
 
 
@@ -272,7 +271,6 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Main = Tri-edge
             |Sub = Ikenga's Axe
             |Range =
-            |RangeAug =
             |Ammo = Coiste Bodhar
             |Head = Ankusa Helm +4
             |Neck = Rep. Plat. Medal
@@ -315,7 +313,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Background =
         }}
         |Equipment Set Notes=ML30 BST/NIN: 1700 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 02
     }}
 
 
@@ -331,18 +329,17 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 18928 damage
+            |CaptionBottom = 19301 damage
             |Main = Spalirisos (Level 119 II)
             |Sub = Ikenga's Axe
             |Range =
-            |RangeAug =
             |Ammo = Coiste Bodhar
             |Head = Blistering Sallet +1
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Lugra Earring +1
             |Body = Gleti's Cuirass
-            |Hands = Nukumi Manoplas +3
+            |Hands = Duty Gauntlets
             |Ring1 = Gere Ring
             |Ring2 = Regal Ring
             |Back = Artio's Mantle
@@ -350,20 +347,21 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Waist = Fotia Belt
             |Legs = Gleti's Breeches
             |Feet = Lustra. Leggings +1
+            |FeetAug = Path D
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 22089 damage
+            |CaptionBottom = 22192 damage
             |Main = Farsha (Level 119 III)
             |Sub = Ikenga's Axe
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Gleti's Mask
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Nukumi Earring +1
             |Body = Gleti's Cuirass
             |Hands = Gleti's Gauntlets
@@ -378,7 +376,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Background =
         }}
         |Equipment Set Notes=ML30 BST/NIN: 1300 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 02
     }}
 
 
@@ -394,38 +392,38 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 16449 damage
+            |CaptionBottom = 16649 damage
             |Main = Tri-edge
             |Sub = Barbarity +1
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Ankusa Helm +4
             |Neck = Fotia Gorget
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Thrud Earring
+            |Ear1 = Thrud Earring
+            |Ear2 = Hoxne Earring
             |Body = Nukumi Gausape +3
-            |Hands = Nyame Gauntlets
+            |Hands = Duty Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Gere Ring
             |Back = Artio's Mantle
             |BackAug = STR, DA
             |Waist = Fotia Belt
-            |Legs = Nyame Flanchard
-            |Feet = Nukumi Ocreae +3
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 23709 damage
+            |CaptionBottom = 23979 damage
             |Main = Tri-edge
             |Sub = Farsha (Level 119 III)
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Gleti's Mask
+            |Head = Duty Crown
             |Neck = Fotia Gorget
-            |Ear1 = Sherida Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Nukumi Earring +1
             |Body = Gleti's Cuirass
             |Hands = Gleti's Gauntlets
@@ -440,10 +438,8 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Background =
         }}
         |Equipment Set Notes=ML30 BST/NIN: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 02
     }}
-
-
 
     {{
         Guide Equipment Set
@@ -456,15 +452,15 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 19580 damage
+            |CaptionBottom = 19852 damage
             |Main = Agwu's Axe
             |Sub = Ikenga's Axe
             |Range =
             |Ammo = Coiste Bodhar
             |Head = Ankusa Helm +4
             |Neck = Bst. Collar +2
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Thrud Earring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Lugra Earring +1
             |Body = Nukumi Gausape +3
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
@@ -480,14 +476,14 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 26518 damage
+            |CaptionBottom = 26721 damage
             |Main = Spalirisos (Level 119 II)
             |Sub = Ikenga's Axe
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Ankusa Helm +4
             |Neck = Bst. Collar +2
-            |Ear1 = Lugra Earring +1
+            |Ear1 = Hoxne Earring
             |Ear2 = Nukumi Earring +1
             |Body = Gleti's Cuirass
             |Hands = Tot. Gloves +4
@@ -502,9 +498,8 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Background =
         }}
         |Equipment Set Notes=ML30 BST/NIN: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 02
     }}
-
 
     
     {{
@@ -518,7 +513,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 28446 damage
+            |CaptionBottom = 28499 damage
             |Main = Aymur (Level 119 III)
             |Sub = Diamond Aspis
             |Range =
@@ -526,7 +521,7 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Head = Nyame Helm
             |Neck = Baetyl Pendant
             |Ear1 = Moonshade Earring
-            |Ear2 = Friomisi Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -540,9 +535,8 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Background =
         }}
         |Equipment Set Notes=ML30 BST/NIN: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 02
     }}
-
 
     {{
         Guide Equipment Set
@@ -577,8 +571,9 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
             |Background =
         }}
         |Equipment Set Notes=ML30 BST/NIN: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 02
     }}
+    
 }}
 
 
@@ -597,55 +592,53 @@ See also: [https://www.ffxiah.com/forum/topic/45830/killer-instinct-the-beastmas
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = 50% DT
-            |CaptionBottom = 5.042 s
+            |CaptionTop = -50% DT
+            |CaptionBottom = 4.073 s
             |Main = Spalirisos (Level 119 II)
             |Sub = Ikenga's Axe
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Malignance Chapeau
+            |Head = Duty Crown
             |Neck = Anu Torque
             |Ear1 = Sherida Earring
-            |Ear2 = Sroda Earring
-            |Body = Gleti's Cuirass
-            |Hands = Malignance Gloves
+            |Ear2 = Alabaster Earring
+            |Body = Duty Cyclas
+            |Hands = Duty Gauntlets
             |Ring1 = Gere Ring
-            |Ring2 = Moonlight Ring
+            |Ring2 = Murky Ring
             |Back = Artio's Mantle
-            |BackAug = DEX, DA
-            |Waist = Sailfi Belt +1
-            |Legs = Gleti's Breeches
-            |Feet = Nyame Sollerets
+            |BackAug = DEX, Store TP
+            |Waist = Windbuffet Belt +1
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = 25% DT
-            |CaptionBottom = 4.747 s
+            |CaptionTop = -25% DT
+            |CaptionBottom = 3.838 s
             |Main = Spalirisos (Level 119 II)
             |Sub = Ikenga's Axe
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Malignance Chapeau
+            |Head = Duty Crown
             |Neck = Anu Torque
             |Ear1 = Sherida Earring
             |Ear2 = Dedition Earring
-            |Body = Gleti's Cuirass
-            |Hands = Malignance Gloves
+            |Body = Duty Cyclas
+            |Hands = Duty Gauntlets
             |Ring1 = Gere Ring
             |Ring2 = Epona's Ring
             |Back = Null Shawl
-            |BackAug = DA, Store TP
             |Waist = Sailfi Belt +1
-            |Legs = Gleti's Breeches
-            |Feet = Malignance Boots
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BST/NIN: 1000 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 BST/NIN: 1000 TP + AM2
+        Updated 2026 May 02
     }}
-
 
 }}
