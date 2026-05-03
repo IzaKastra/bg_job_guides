@@ -32,23 +32,23 @@ Prime staff ([[Opashoro]]) was not tested due to missing information about it's 
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 25831 damage
+            |CaptionBottom = 27515 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Ghastly Tathlum +1
-            |Head = Agwu's Cap
+            |Head = Indom. Petasos
             |Neck = Argute Stole +2
-            |Ear1 = Regal Earring
-            |Ear2 = Malignance Earring
-            |Body = Arbatel Gown +3
-            |Hands = Agwu's Gages
+            |Ear1 = Malignance Earring
+            |Ear2 = Regal Earring
+            |Body = Indomitable Coat
+            |Hands = Indom. Gloves
             |Ring1 = Freke Ring
             |Ring2 = Metamor. Ring +1
             |Back = Lugh's Cape
             |BackAug = INT, Magic Attack
             |Waist = Hachirin-no-Obi
-            |Legs = Agwu's Slops
+            |Legs = Indom. Tonban
             |Feet = Arbatel Loafers +3
             |List = Y
             |Background =
@@ -56,19 +56,19 @@ Prime staff ([[Opashoro]]) was not tested due to missing information about it's 
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 97922 damage
+            |CaptionBottom = 98895 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Ghastly Tathlum +1
-            |Head = Peda. Mortar. +4
+            |Head = Agwu's Cap
             |Neck = Argute Stole +2
-            |Ear1 = Regal Earring
-            |Ear2 = Malignance Earring
-            |Body = Agwu's Robe
+            |Ear1 = Hoxne Earring
+            |Ear2 = Regal Earring
+            |Body = Indomitable Coat
             |Hands = Agwu's Gages
-            |Ring1 = Mujin Band
-            |Ring2 = Freke Ring
+            |Ring1 = Freke Ring
+            |Ring2 = Mujin Band
             |Back = Lugh's Cape
             |BackAug = INT, Magic Attack
             |Waist = Hachirin-no-Obi
@@ -78,9 +78,9 @@ Prime staff ([[Opashoro]]) was not tested due to missing information about it's 
             |Background =
         }}
         |Equipment Set Notes=ML30 SCH/RDM vs 280 INT and 100% resist rank. Blizzard V: Klimaform + Hailstorm II
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
-    
+
     {{
         Guide Equipment Set
         |Set Name Background=#c8b060
@@ -91,8 +91,8 @@ Prime staff ([[Opashoro]]) was not tested due to missing information about it's 
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Helix Nuke
-            |CaptionBottom = 13956 damage
+            |CaptionTop = Free Nuke
+            |CaptionBottom = 14820 damage
             |Main = Bunzi's Rod
             |Sub = Culminus
             |Range =
@@ -101,22 +101,21 @@ Prime staff ([[Opashoro]]) was not tested due to missing information about it's 
             |Neck = Argute Stole +2
             |Ear1 = Crematio Earring
             |Ear2 = Arbatel Earring +1
-            |Body = Arbatel Gown +3
-            |Hands = Arbatel Bracers +3
+            |Body = Indomitable Coat
+            |Hands = Indom. Gloves
             |Ring1 = Mallquis Ring
             |Ring2 = Freke Ring
-            |Back = Lugh's Cape
-            |BackAug = INT, Magic Attack
+            |Back = Murky Mantle
             |Waist = Skrymir Cord +1
-            |Legs = Arbatel Pants +3
+            |Legs = Indom. Tonban
             |Feet = Arbatel Loafers +3
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = Helix Burst
-            |CaptionBottom = 52827 damage
+            |CaptionTop = Magic Burst
+            |CaptionBottom = 54653 damage
             |Main = Bunzi's Rod
             |Sub = Culminus
             |Range =
@@ -127,21 +126,17 @@ Prime staff ([[Opashoro]]) was not tested due to missing information about it's 
             |Ear2 = Arbatel Earring +1
             |Body = Agwu's Robe
             |Hands = Agwu's Gages
-            |Ring1 = Mujin Band
-            |Ring2 = Mallquis Ring
-            |Back = Lugh's Cape
-            |BackAug = INT, Magic Attack
+            |Ring1 = Mallquis Ring
+            |Ring2 = Mujin Band
+            |Back = Murky Mantle
             |Waist = Skrymir Cord +1
-            |Legs = Agwu's Slops
+            |Legs = Indom. Tonban
             |Feet = Arbatel Loafers +3
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 SCH/RDM vs 280 INT and 100% resist rank. Cryohelix II: Klimaform + Hailstorm II + Ebullience
-
-Note that Helix spells always gain day/weather bonuses and penalties.
-
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
     
     {{
@@ -154,17 +149,17 @@ Note that Helix spells always gain day/weather bonuses and penalties.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Kaustra Burst
-            |CaptionBottom = 107093 damage
+            |CaptionTop =
+            |CaptionBottom = 97546 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Arbatel Bonnet +3
             |Neck = Argute Stole +2
-            |Ear1 = Regal Earring
-            |Ear2 = Malignance Earring
-            |Body = Agwu's Robe
+            |Ear1 = Hoxne Earring
+            |Ear2 = Regal Earring
+            |Body = Indomitable Coat
             |Hands = Agwu's Gages
             |Ring1 = Archon Ring
             |Ring2 = Metamor. Ring +1
@@ -177,7 +172,7 @@ Note that Helix spells always gain day/weather bonuses and penalties.
             |Background =
         }}
         |Equipment Set Notes=ML30 SCH/RDM vs 280 INT and 100% resist rank. Klimaform + Voidstorm II + Ebullience + Enlightenment
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 }}
 
@@ -196,29 +191,29 @@ Note that Helix spells always gain day/weather bonuses and penalties.
         {{
             Equipment Set
             |CaptionTop =
-            |CaptionBottom = 41035 damage
+            |CaptionBottom = 42335 damage
             |Main = Tupsimati (Level 119 III)
             |Sub = Enki Strap
             |Range =
             |Ammo = Sroda Tathlum
             |Head = Pixie Hairpin +1
             |Neck = Argute Stole +2
-            |Ear1 = Malignance Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Regal Earring
             |Body = Nyame Mail
-            |Hands = Agwu's Gages
-            |Ring1 = Metamor. Ring +1
+            |Hands = Indom. Gloves
+            |Ring1 = Epaminondas's Ring
             |Ring2 = Archon Ring
             |Back = Lugh's Cape
             |BackAug = MND, Weapon Skill Damage
             |Waist = Hachirin-no-Obi
-            |Legs = Nyame Flanchard
+            |Legs = Indom. Tonban
             |Feet = Arbatel Loafers +3
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 SCH/RDM: 2900 TP + Aftermath Level 2 + Klimaform + Voidstorm II
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 
     {{
@@ -232,8 +227,8 @@ Note that Helix spells always gain day/weather bonuses and penalties.
         {{
             Equipment Set
             |CaptionTop =
-            |CaptionBottom = 38422 damage
-            |Main = Tupsimati (Level 119 III)
+            |CaptionBottom = 40288 damage
+            |Main = Opashoro (Level 119 II)
             |Sub = Alber Strap
             |Range =
             |Ammo = Sroda Tathlum
@@ -242,11 +237,11 @@ Note that Helix spells always gain day/weather bonuses and penalties.
             |Ear1 = Moonshade Earring
             |Ear2 = Malignance Earring
             |Body = Nyame Mail
-            |Hands = Jhakri Cuffs +2
+            |Hands = Indom. Gloves
             |Ring1 = Epaminondas's Ring
             |Ring2 = Archon Ring
             |Back = Lugh's Cape
-            |BackAug = INT, Weapon Skill Damage
+            |BackAug = STR, Weapon Skill Damage
             |Waist = Hachirin-no-Obi
             |Legs = Nyame Flanchard
             |Feet = Arbatel Loafers +3
@@ -254,7 +249,7 @@ Note that Helix spells always gain day/weather bonuses and penalties.
             |Background =
         }}
         |Equipment Set Notes=ML30 SCH/RDM: 2000 TP + Aftermath Level 2 + Klimaform + Voidstorm II
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
-
+    
 }}
