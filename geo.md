@@ -27,31 +27,31 @@ Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 17527 damage
+            |CaptionBottom = 18871 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Ghastly Tathlum +1
-            |Head = Agwu's Cap
+            |Head = Indom. Petasos
             |Neck = Sibyl Scarf
             |Ear1 = Malignance Earring
             |Ear2 = Regal Earring
-            |Body = Azimuth Coat +3
-            |Hands = Agwu's Gages
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Freke Ring
+            |Body = Indomitable Coat
+            |Hands = Indom. Gloves
+            |Ring1 = Freke Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Nantosuelta's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Acuity Belt +1
-            |Legs = Azimuth Tights +3
-            |Feet = Agwu's Pigaches
+            |Waist = Skrymir Cord +1
+            |Legs = Indom. Tonban
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 59243 damage
+            |CaptionBottom = 60324 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
@@ -68,12 +68,12 @@ Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
             |BackAug = INT, Magic Attack
             |Waist = Acuity Belt +1
             |Legs = Azimuth Tights +3
-            |Feet = Agwu's Pigaches
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 GEO/RDM vs 280 INT vs 100% resist rank. Blizzard V
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 GEO/RDM: Fire V vs 100% Resist Rank
+        Updated 2026 May 03
     }}
 }}
 
@@ -91,15 +91,15 @@ Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 32427 damage
+            |CaptionBottom = 33595 damage
             |Main = Maxentius
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Oshasha's Treatise
             |Head = Nyame Helm
-            |Neck = Null Loop
+            |Neck = Hoxne Torque
             |Ear1 = Moonshade Earring
-            |Ear2 = Regal Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -115,7 +115,7 @@ Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 40038 damage
+            |CaptionBottom = 41126 damage
             |Main = Maxentius
             |Sub = Ammurapi Shield
             |Range =
@@ -123,7 +123,7 @@ Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
             |Head = Nyame Helm
             |Neck = Null Loop
             |Ear1 = Moonshade Earring
-            |Ear2 = Regal Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -137,9 +137,8 @@ Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
             |Background =
         }}
         |Equipment Set Notes=ML30 GEO/RDM: 2000 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -152,21 +151,21 @@ Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 11485 damage
+            |CaptionBottom = 12039 damage
             |Main = Idris (Level 119 III)
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
             |Neck = Fotia Gorget
-            |Ear1 = Regal Earring
-            |Ear2 = Domin. Earring +1
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Metamor. Ring +1
             |Back = Nantosuelta's Cape
-            |BackAug = INT, Weapon Skill Damage
+            |BackAug = MND, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
@@ -176,31 +175,30 @@ Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 11727 damage
+            |CaptionBottom = 12290 damage
             |Main = Idris (Level 119 III)
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
             |Neck = Fotia Gorget
-            |Ear1 = Regal Earring
-            |Ear2 = Domin. Earring +1
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Metamor. Ring +1
             |Back = Nantosuelta's Cape
-            |BackAug = INT, Weapon Skill Damage
+            |BackAug = MND, Weapon Skill Damage
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 GEO/RDM: 2000 TP + Aftermath Level 3
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 GEO/RDM: 2000 TP + AM3
+        Updated 2026 May 03
     }}
-
 }}
 
 
@@ -218,44 +216,20 @@ Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = 50% DT
-            |CaptionBottom = 4.560 s
+            |CaptionTop = -50% DT
+            |CaptionBottom = 4.471 s
             |Main = Idris (Level 119 III)
             |Sub = Genmei Shield
             |Range =
             |Ammo = White Tathlum
-            |Head = Null Masque
+            |Head = Ischkur Turban
             |Neck = Lissome Necklace
-            |Ear1 = Dedition Earring
-            |Ear2 = Telos Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Dedition Earring
             |Body = Nyame Mail
             |Hands = Gazu Bracelets +1
-            |Ring1 = Chirich Ring +1
-            |Ring2 = Chirich Ring +1
-            |Back = Nantosuelta's Cape
-            |BackAug = DEX, Store TP
-            |Waist = Windbuffet Belt +1
-            |Legs = Jhakri Slops +2
-            |Feet = Azimuth Gaiters +3
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = 25% DT
-            |CaptionBottom = 4.526 s
-            |Main = Idris (Level 119 III)
-            |Sub = Genmei Shield
-            |Range =
-            |Ammo = White Tathlum
-            |Head = Blistering Sallet +1
-            |Neck = Lissome Necklace
-            |Ear1 = Dedition Earring
-            |Ear2 = Telos Earring
-            |Body = Nyame Mail
-            |Hands = Gazu Bracelets +1
-            |Ring1 = Chirich Ring +1
-            |Ring2 = Chirich Ring +1
+            |Ring1 = Murky Ring
+            |Ring2 = Petrov Ring
             |Back = Nantosuelta's Cape
             |BackAug = DEX, Store TP
             |Waist = Windbuffet Belt +1
@@ -264,7 +238,31 @@ Orpheus's Sash, Hachirin-no-Obi, and Wizard's Rod were disabled.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 GEO/RDM: 1000 TP + Aftermath Level 3
-        Updated 2025 Jun. 29
+        {{
+            Equipment Set
+            |CaptionTop = -25% DT
+            |CaptionBottom = 4.268 s
+            |Main = Idris (Level 119 III)
+            |Sub = Genmei Shield
+            |Range =
+            |Ammo = White Tathlum
+            |Head = Ischkur Turban
+            |Neck = Lissome Necklace
+            |Ear1 = Alabaster Earring
+            |Ear2 = Dedition Earring
+            |Body = Nyame Mail
+            |Hands = Gazu Bracelets +1
+            |Ring1 = Chirich Ring +1
+            |Ring2 = Chirich Ring +1
+            |Back = Nantosuelta's Cape
+            |BackAug = DEX, Store TP
+            |Waist = Windbuffet Belt +1
+            |Legs = Jhakri Slops +2
+            |Feet = Battlecast Gaiters
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 GEO/RDM: 1000 TP + AM3
+        Updated 2026 May 03
     }}
 }}
