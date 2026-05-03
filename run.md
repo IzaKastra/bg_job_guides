@@ -20,7 +20,7 @@ All sets had Temper enabled.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 27910 damage
+            |CaptionBottom = 28414 damage
             |Main = Epeolatry (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -28,11 +28,11 @@ All sets had Temper enabled.
             |Head = Nyame Helm
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Odr Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Niqmaddu Ring
-            |Ring2 = Regal Ring
+            |Ring1 = Regal Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Ogma's Cape
             |BackAug = DEX, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -44,7 +44,7 @@ All sets had Temper enabled.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 30744 damage
+            |CaptionBottom = 31112 damage
             |Main = Epeolatry (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -52,7 +52,7 @@ All sets had Temper enabled.
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -65,8 +65,8 @@ All sets had Temper enabled.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RUN/BLU: 2000 TP + Aftermath Level 2
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 RUN/BLU: 2000 TP + AM3
+        Updated 2026 May 03
     }}
 
 
@@ -81,7 +81,7 @@ All sets had Temper enabled.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 32607 damage
+            |CaptionBottom = 33369 damage
             |Main = Helheim (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -89,11 +89,11 @@ All sets had Temper enabled.
             |Head = Nyame Helm
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
-            |Ring1 = Regal Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Niqmaddu Ring
+            |Ring2 = Regal Ring
             |Back = Ogma's Cape
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
@@ -105,15 +105,15 @@ All sets had Temper enabled.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 43998 damage
-            |Main = Helheim (Level 119 III)
+            |CaptionBottom = 44808 damage
+            |Main = Helheim (Level 119 II)
             |Sub = Utu Grip
             |Range =
             |Ammo = Knobkierrie
             |Head = Nyame Helm
             |Neck = Futhark Torque +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Sroda Ring
@@ -126,10 +126,9 @@ All sets had Temper enabled.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 RUN/BLU: 2000 TP + Aftermath Level 2
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 RUN/BLU: 2000 TP
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -142,54 +141,117 @@ All sets had Temper enabled.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 32575 damage
+            |CaptionBottom = 33938 damage
             |Main = Lionheart
             |Sub = Rigorous Grip +1
             |Range =
-            |Ammo = Coiste Bodhar
-            |Head = Nyame Helm
+            |Ammo = Seeth. Bomblet +1
+            |Head = Sworn Crown
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
-            |Body = Nyame Mail
-            |Hands = Erilaz Gauntlets +3
+            |Ear2 = Hoxne Earring
+            |Body = Sworn Platemail
+            |Hands = Sworn Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Ogma's Cape
             |BackAug = STR, DA
             |Waist = Sailfi Belt +1
             |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 46951 damage
+            |CaptionBottom = 49054 damage
             |Main = Lionheart
             |Sub = Utu Grip
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Blistering Sallet +1
+            |Head = Sworn Crown
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Sherida Earring
-            |Body = Nyame Mail
-            |Hands = Adhemar Wrist. +1
+            |Ear2 = Hoxne Earring
+            |Body = Sworn Platemail
+            |Hands = Sworn Gauntlets
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Ogma's Cape
             |BackAug = STR, DA
             |Waist = Fotia Belt
             |Legs = Nyame Flanchard
-            |Feet = Lustra. Leggings +1
-            |FeetAug = Path D
+            |Feet = Sworn Sabatons
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 RUN/BLU: 2000 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
+    }}
+}}
+
+{{Guide Equipment Set Table
+    |Header Notes=
+    |Guide Equipment Sets=
+    {{
+        Guide Equipment Set
+        |Set Name Background=#800000
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Epeolatry AM3 TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = -75% PDT, -50% MDT
+            |CaptionBottom = 4.160 s
+            |Main = Epeolatry (Level 119 III)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Aurgelmir Orb +1
+            |Head = Sworn Crown
+            |Neck = Anu Torque
+            |Ear1 = Dedition Earring
+            |Ear2 = Alabaster Earring
+            |Body = Ashera Harness
+            |Hands = Sworn Gauntlets
+            |Ring1 = Moonlight Ring
+            |Ring2 = Moonlight Ring
+            |Back = Ogma's Cape
+            |BackAug = DEX, Store TP
+            |Waist = Gerdr Belt +1
+            |Legs = Samnuha Tights
+            |Feet = Sworn Sabatons
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = -50% PDT, -25% MDT
+            |CaptionBottom = 4.010 s
+            |Main = Epeolatry (Level 119 III)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Aurgelmir Orb +1
+            |Head = Ischkur Turban
+            |Neck = Anu Torque
+            |Ear1 = Alabaster Earring
+            |Ear2 = Dedition Earring
+            |Body = Tu. Harness +1
+            |Hands = Adhemar Wrist. +1
+            |Ring1 = Moonlight Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Ogma's Cape
+            |BackAug = DEX, Store TP
+            |Waist = Sweordfaetels +1
+            |Legs = Samnuha Tights
+            |Feet = Sworn Sabatons
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 RUN/BLU: 1000 TP + AM3
+        Updated 2026 May 03
     }}
 
 }}
