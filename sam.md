@@ -27,7 +27,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 34886 damage
+            |CaptionBottom = 36131 damage
             |Main = Masamune (Level 119 III)
             |Sub = Utu Grip
             |Range =
@@ -51,7 +51,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 43419 damage
+            |CaptionBottom = 45062 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -60,7 +60,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Neck = Sam. Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Sakonji Domaru +4
+            |Body = Clemen. Hara.
             |Hands = Kasuga Kote +3
             |Ring1 = Sroda Ring
             |Ring2 = Epaminondas's Ring
@@ -72,10 +72,9 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP + AM1
+        Updated 2026 May 02
     }}
-
     
 
     {{
@@ -89,7 +88,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 47854 damage
+            |CaptionBottom = 49971 damage
             |Main = Kusanagi (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -97,7 +96,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Head = Mpaca's Cap
             |Neck = Sam. Nodowa +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Thrud Earring
+            |Ear2 = Hoxne Earring
             |Body = Sakonji Domaru +4
             |Hands = Kasuga Kote +3
             |Ring1 = Epaminondas's Ring
@@ -113,8 +112,8 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 59273 damage
-            |Main = Kusanagi (Level 119 II)
+            |CaptionBottom = 66990 damage
+            |Main = Kusanagi (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Knobkierrie
@@ -122,20 +121,19 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Neck = Sam. Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Sakonji Domaru +4
+            |Body = Clemen. Hara.
             |Hands = Kasuga Kote +3
-            |Ring1 = Sroda Ring
-            |Ring2 = Epaminondas's Ring
-            |Back = Smertrios's Mantle
-            |BackAug = STR, Weapon Skill Damage
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Alabaster Mantle
             |Waist = Sailfi Belt +1
             |Legs = Nyame Flanchard
             |Feet = Kas. Sune-Ate +3
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1900 TP + Aftermath Level 2
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 SAM/DRG: 2000 TP + AM2
+        Updated 2026 May 02
     }}
 
     {{
@@ -149,55 +147,54 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 24786 damage
+            |CaptionBottom = 29057 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Mpaca's Cap
+            |Head = Clemen. Somen
             |Neck = Sam. Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Nyame Mail
-            |Hands = Kasuga Kote +3
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Smertrios's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Mpaca's Hose
-            |Feet = Kas. Sune-Ate +3
+            |Legs = Clem. Haidate
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 24786 damage
+            |CaptionBottom = 29057 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Mpaca's Cap
+            |Head = Clemen. Somen
             |Neck = Sam. Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Nyame Mail
-            |Hands = Kasuga Kote +3
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Smertrios's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Mpaca's Hose
-            |Feet = Kas. Sune-Ate +3
+            |Legs = Clem. Haidate
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP + AM1
+        Updated 2026 May 02
     }}
-
 
     {{
         Guide Equipment Set
@@ -210,15 +207,15 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 28300 damage
+            |CaptionBottom = 28382 damage
             |Main = Amanomurakumo (Level 119 III)
             |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Knobkierrie
             |Head = Nyame Helm
             |Neck = Sam. Nodowa +2
-            |Ear1 = Schere Earring
-            |Ear2 = Thrud Earring
+            |Ear1 = Thrud Earring
+            |Ear2 = Hoxne Earring
             |Body = Sakonji Domaru +4
             |Hands = Kasuga Kote +3
             |Ring1 = Sroda Ring
@@ -234,29 +231,29 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 36032 damage
+            |CaptionBottom = 37648 damage
             |Main = Amanomurakumo (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Knobkierrie
-            |Head = Nyame Helm
+            |Head = Clemen. Somen
             |Neck = Sam. Nodowa +2
             |Ear1 = Thrud Earring
-            |Ear2 = Lugra Earring +1
-            |Body = Sakonji Domaru +4
+            |Ear2 = Hoxne Earring
+            |Body = Clemen. Hara.
             |Hands = Kasuga Kote +3
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Smertrios's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Mpaca's Hose
+            |Legs = Nyame Flanchard
             |Feet = Kas. Sune-Ate +3
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 SAM/DRG: 1000 TP + AM1
+        Updated 2026 May 02
     }}
 
 
@@ -271,7 +268,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 94824 damage
+            |CaptionBottom = 79346 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -284,18 +281,17 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Niqmaddu Ring
-            |Back = Smertrios's Mantle
-            |BackAug = STR, Weapon Skill Damage
+            |Back = Alabaster Mantle
             |Waist = Orpheus's Sash
             |Legs = Nyame Flanchard
-            |Feet = Mpaca's Boots
+            |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 113128 damage
+            |CaptionBottom = 93773 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -317,7 +313,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Background =
         }}
         |Equipment Set Notes=ML30 SAM/DRG: 1500 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
 
 
@@ -332,7 +328,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 85422 damage
+            |CaptionBottom = 71992 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -356,7 +352,7 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 99882 damage
+            |CaptionBottom = 83524 damage
             |Main = Dojikiri Yasutsuna
             |Sub = Utu Grip
             |Range =
@@ -377,11 +373,9 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1900 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP
+        Updated 2026 May 02
     }}
-
-
 
     {{
         Guide Equipment Set
@@ -394,53 +388,53 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 19101 damage
+            |CaptionBottom = 19986 damage
             |Main = Kogarasumaru (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Coiste Bodhar
-            |Head = Mpaca's Cap
+            |Head = Clemen. Somen
             |Neck = Sam. Nodowa +2
-            |Ear1 = Thrud Earring
-            |Ear2 = Schere Earring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Thrud Earring
             |Body = Sakonji Domaru +4
-            |Hands = Kasuga Kote +3
+            |Hands = Clemency Kote
             |Ring1 = Niqmaddu Ring
             |Ring2 = Regal Ring
             |Back = Smertrios's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
             |Legs = Nyame Flanchard
-            |Feet = Sakonji Sune-Ate +4
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 26940 damage
+            |CaptionBottom = 32295 damage
             |Main = Kogarasumaru (Level 119 III)
             |Sub = Utu Grip
             |Range =
             |Ammo = Crepuscular Pebble
-            |Head = Stinger Helm
+            |Head = Clemen. Somen
             |Neck = Sam. Nodowa +2
-            |Ear1 = Lugra Earring +1
-            |Ear2 = Thrud Earring
-            |Body = Sakonji Domaru +4
-            |Hands = Kasuga Kote +3
+            |Ear1 = Thrud Earring
+            |Ear2 = Hoxne Earring
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Smertrios's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Mpaca's Hose
-            |Feet = Kas. Sune-Ate +3
+            |Legs = Clem. Haidate
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1400 TP + Aftermath Level 3
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP + AM3
+        Updated 2026 May 02
     }}
 
 
@@ -455,15 +449,15 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 22890 damage
+            |CaptionBottom = 23223 damage
             |Main = Masamune (Level 119 III)
             |Sub = Utu Grip
-            |Range = Yoichinoyumi (Level 119 III)
+            |Range = Yoichinoyumi (Augmented)
             |Ammo = Yoichi's Arrow
             |Head = Nyame Helm
             |Neck = Sam. Nodowa +2
             |Ear1 = Thrud Earring
-            |Ear2 = Kasuga Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Kasuga Kote +3
             |Ring1 = Epaminondas's Ring
@@ -479,12 +473,12 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 29219 damage
+            |CaptionBottom = 29249 damage
             |Main = Masamune (Level 119 III)
             |Sub = Utu Grip
-            |Range = Yoichinoyumi (Level 119 III)
+            |Range = Yoichinoyumi (Augmented)
             |Ammo = Yoichi's Arrow
-            |Head = Nyame Helm
+            |Head = Clemen. Somen
             |Neck = Sam. Nodowa +2
             |Ear1 = Thrud Earring
             |Ear2 = Kasuga Earring +1
@@ -500,11 +494,10 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP + Aftermath Level 1
-        Updated 2025 Jun. 28
-    }}    
-
-
+        |Equipment Set Notes=ML30 SAM/DRG: 1500 TP
+        Updated 2026 May 02
+    }}
+    
     {{
         Guide Equipment Set
         |Set Name Background=#504038
@@ -516,31 +509,30 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 44051 damage
+            |CaptionBottom = 48114 damage
             |Main = Shining One
-            |Sub = Rigorous Grip +1
+            |Sub = Utu Grip
             |Range =
-            |Ammo = Knobkierrie
+            |Ammo = Coiste Bodhar
             |Head = Mpaca's Cap
             |Neck = Sam. Nodowa +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Thrud Earring
-            |Body = Sakonji Domaru +4
-            |Hands = Kasuga Kote +3
-            |Ring1 = Begrudging Ring
+            |Ear2 = Hoxne Earring
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
+            |Ring1 = Regal Ring
             |Ring2 = Niqmaddu Ring
-            |Back = Smertrios's Mantle
-            |BackAug = STR, Crit Rate
+            |Back = Alabaster Mantle
             |Waist = Sailfi Belt +1
             |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 56163 damage
+            |CaptionBottom = 63480 damage
             |Main = Shining One
             |Sub = Utu Grip
             |Range =
@@ -549,20 +541,20 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Neck = Sam. Nodowa +2
             |Ear1 = Moonshade Earring
             |Ear2 = Thrud Earring
-            |Body = Sakonji Domaru +4
-            |Hands = Kasuga Kote +3
+            |Body = Clemen. Hara.
+            |Hands = Clemency Kote
             |Ring1 = Sroda Ring
             |Ring2 = Niqmaddu Ring
             |Back = Smertrios's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Sailfi Belt +1
-            |Legs = Mpaca's Hose
-            |Feet = Kas. Sune-Ate +3
+            |Legs = Clem. Haidate
+            |Feet = Clem. Sune-Ate
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SAM/DRG: 1900 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 SAM/DRG: 2000 TP
+        Updated 2026 May 02
     }}
 }}
 
@@ -581,8 +573,32 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = 50% DT
-            |CaptionBottom = 2.005 s
+            |CaptionTop = -50% DT
+            |CaptionBottom = 1.965 s
+            |Main = Kusanagi (Level 119 II)
+            |Sub = Utu Grip
+            |Range =
+            |Ammo = Aurgelmir Orb +1
+            |Head = Kasuga Kabuto +3
+            |Neck = Moonlight Nodowa
+            |Ear1 = Dedition Earring
+            |Ear2 = Alabaster Earring
+            |Body = Kasuga Domaru +3
+            |Hands = Tatena. Gote +1
+            |Ring1 = Chirich Ring +1
+            |Ring2 = Niqmaddu Ring
+            |Back = Smertrios's Mantle
+            |BackAug = DEX, Store TP
+            |Waist = Windbuffet Belt +1
+            |Legs = Kasuga Haidate +3
+            |Feet = Ryuo Sune-Ate +1
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = -25% DT
+            |CaptionBottom = 1.932 s
             |Main = Kusanagi (Level 119 II)
             |Sub = Utu Grip
             |Range =
@@ -592,44 +608,17 @@ See also: [[Samurai_Guide_by_Bippin|Bippin's Samurai Guide]]
             |Ear1 = Dedition Earring
             |Ear2 = Kasuga Earring +1
             |Body = Kasuga Domaru +3
-            |Hands = Tatena. Gote +1
-            |Ring1 = Defending Ring
-            |Ring2 = Niqmaddu Ring
-            |Back = Smertrios's Mantle
-            |BackAug = DEX, Store TP
-            |Waist = Sweordfaetels +1
-            |Legs = Kasuga Haidate +3
-            |Feet = Ryuo Sune-Ate +1
-            |FeetAug = Path C
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = 25% DT
-            |CaptionBottom = 1.945 s
-            |Main = Kusanagi (Level 119 II)
-            |Sub = Utu Grip
-            |Range =
-            |Ammo = Aurgelmir Orb +1
-            |Head = Ryuo Somen +1
-            |HeadAug = Path C
-            |Neck = Vim Torque +1
-            |Ear1 = Dedition Earring
-            |Ear2 = Kasuga Earring +1
-            |Body = Kasuga Domaru +3
-            |Hands = Tatena. Gote +1
+            |Hands = Clemency Kote
             |Ring1 = Chirich Ring +1
             |Ring2 = Niqmaddu Ring
             |Back = Takaha Mantle
             |Waist = Sweordfaetels +1
             |Legs = Kasuga Haidate +3
             |Feet = Ryuo Sune-Ate +1
-            |FeetAug = Path C
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 SAM/DRG: 1000 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 02
     }}
 }}
