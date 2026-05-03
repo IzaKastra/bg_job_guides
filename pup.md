@@ -446,7 +446,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
     |Guide Equipment Sets=
     {{
         Guide Equipment Set
-        |Set Name Background=#384048
+        |Set Name Background=#c09870
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
         |Set Name= Mythic AM3 TP set
@@ -510,7 +510,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
 
     {{
         Guide Equipment Set
-        |Set Name Background=#384048
+        |Set Name Background=#c09870
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
         |Set Name= Varga Purnikawa TP
@@ -566,6 +566,4 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         |Equipment Set Notes=ML30 PUP/WAR: 1000 TP + AM2
         Updated 2026 May 03
     }}
-
-
 }}
