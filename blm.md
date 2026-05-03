@@ -17,9 +17,6 @@ Weather was disabled for these tests, but [[Hachirin-no-Obi]] would be the clear
 
 Melee sets used Grape Daifuku with standard Melee buffs defined on the main page, but against an i132 Apex enemy with 1150 evasion, 1250 defense, and 270 VIT.
 
-
-The prime staff ([[Opashoro]]) was not tested due to missing information on its aftermath effect.
-
 [[Wizard's Rod]] was not tested.
 
 {{Guide Equipment Set Table
@@ -37,54 +34,55 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 22986 damage
+            |CaptionBottom = 24677 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
             |Ammo = Sroda Tathlum
-            |Head = Agwu's Cap
+            |Head = Indom. Petasos
             |Neck = Src. Stole +2
             |Ear1 = Malignance Earring
             |Ear2 = Regal Earring
-            |Body = Wicce Coat +3
-            |Hands = Wicce Gloves +3
+            |Body = Indomitable Coat
+            |Hands = Indom. Gloves
             |Ring1 = Freke Ring
             |Ring2 = Metamor. Ring +1
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Acuity Belt +1
-            |Legs = Wicce Chausses +3
-            |Feet = Agwu's Pigaches
+            |Waist = Skrymir Cord +1
+            |Legs = Indom. Tonban
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 104,859 damage
+            |CaptionBottom = 107,574 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
-            |Ammo = Ghastly Tathlum +1
+            |Ammo = Sroda Tathlum
             |Head = Ea Hat +1
             |Neck = Src. Stole +2
             |Ear1 = Regal Earring
             |Ear2 = Malignance Earring
             |Body = Wicce Coat +3
             |Hands = Agwu's Gages
-            |Ring1 = Mujin Band
-            |Ring2 = Freke Ring
+            |Ring1 = Freke Ring
+            |Ring2 = Mujin Band
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Sacro Cord
-            |Legs = Arch. Tonban +4
-            |Feet = Wicce Sabots +3
+            |Waist = Acuity Belt +1
+            |Legs = Indom. Tonban
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI.
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
+
 
     {{
         Guide Equipment Set
@@ -97,53 +95,53 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 23008 damage
+            |CaptionBottom = 24745 damage
             |Main = Laevateinn (Level 119 III)
             |Sub = Enki Strap
             |Range =
-            |Ammo = Ghastly Tathlum +1
-            |Head = Agwu's Cap
+            |Ammo = Sroda Tathlum
+            |Head = Indom. Petasos
             |Neck = Src. Stole +2
-            |Ear1 = Regal Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Malignance Earring
-            |Body = Wicce Coat +3
-            |Hands = Wicce Gloves +3
-            |Ring1 = Freke Ring
-            |Ring2 = Metamor. Ring +1
+            |Body = Indomitable Coat
+            |Hands = Indom. Gloves
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Freke Ring
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
             |Waist = Acuity Belt +1
-            |Legs = Wicce Chausses +3
-            |Feet = Wicce Sabots +3
+            |Legs = Indom. Tonban
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 104,572 damage
+            |CaptionBottom = 106,874 damage
             |Main = Laevateinn (Level 119 III)
             |Sub = Enki Strap
             |Range =
-            |Ammo = Ghastly Tathlum +1
+            |Ammo = Sroda Tathlum
             |Head = Ea Hat +1
             |Neck = Src. Stole +2
-            |Ear1 = Malignance Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Regal Earring
+            |Ear2 = Hoxne Earring
             |Body = Wicce Coat +3
             |Hands = Agwu's Gages
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Freke Ring
+            |Ring1 = Freke Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
             |Waist = Acuity Belt +1
             |Legs = Wicce Chausses +3
-            |Feet = Agwu's Pigaches
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI + Aftermath Level 2
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI + AM2
+        Updated 2026 May 03
     }}
 
     {{
@@ -151,42 +149,102 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         |Set Name Background=#303030
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Casting: Staff
+        |Set Name= Casting: Opashoro (no aftermath)
         |Set Border Color=#51414F
         |Equipment Set=
         {{
             Equipment Set
             |CaptionTop = Free Nuke
-            |CaptionBottom = 22120 damage
-            |Main = Marin Staff +1
-            |Sub = Enki Strap
+            |CaptionBottom = 24519 damage
+            |Main = Opashoro (Level 119 II)
+            |Sub = Alber Strap
             |Range =
             |Ammo = Sroda Tathlum
-            |Head = Agwu's Cap
-            |Neck = Sibyl Scarf
-            |Ear1 = Regal Earring
-            |Ear2 = Malignance Earring
-            |Body = Wicce Coat +3
-            |Hands = Wicce Gloves +3
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Freke Ring
+            |Head = Indom. Petasos
+            |Neck = Src. Stole +2
+            |Ear1 = Malignance Earring
+            |Ear2 = Regal Earring
+            |Body = Indomitable Coat
+            |Hands = Indom. Gloves
+            |Ring1 = Freke Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
             |Waist = Skrymir Cord +1
-            |Legs = Wicce Chausses +3
-            |Feet = Agwu's Pigaches
+            |Legs = Indom. Tonban
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 100,540 damage
+            |CaptionBottom = 105,991 damage
+            |Main = Opashoro (Level 119 II)
+            |Sub = Enki Strap
+            |Range =
+            |Ammo = Sroda Tathlum
+            |Head = Indom. Petasos
+            |Neck = Src. Stole +2
+            |Ear1 = Hoxne Earring
+            |Ear2 = Regal Earring
+            |Body = Wicce Coat +3
+            |Hands = Agwu's Gages
+            |Ring1 = Mujin Band
+            |Ring2 = Freke Ring
+            |Back = Taranus's Cape
+            |BackAug = INT, Magic Attack
+            |Waist = Sacro Cord
+            |Legs = Wicce Chausses +3
+            |Feet = Indom. Sabots
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI.
+        Updated 2026 May 03
+    }}
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#303030
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Casting: Marin Staff +1
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Free Nuke
+            |CaptionBottom = 23777 damage
             |Main = Marin Staff +1
             |Sub = Enki Strap
             |Range =
             |Ammo = Sroda Tathlum
-            |Head = Ea Hat +1
+            |Head = Indom. Petasos
+            |Neck = Saevus Pendant +1
+            |Ear1 = Malignance Earring
+            |Ear2 = Regal Earring
+            |Body = Indomitable Coat
+            |Hands = Indom. Gloves
+            |Ring1 = Metamor. Ring +1
+            |Ring2 = Freke Ring
+            |Back = Taranus's Cape
+            |BackAug = INT, Magic Attack
+            |Waist = Skrymir Cord +1
+            |Legs = Indom. Tonban
+            |Feet = Indom. Sabots
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = Magic Burst
+            |CaptionBottom = 102,967 damage
+            |Main = Marin Staff +1
+            |Sub = Enki Strap
+            |Range =
+            |Ammo = Sroda Tathlum
+            |Head = Indom. Petasos
             |Neck = Src. Stole +2
             |Ear1 = Malignance Earring
             |Ear2 = Regal Earring
@@ -198,71 +256,12 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |BackAug = INT, Magic Attack
             |Waist = Sacro Cord
             |Legs = Wicce Chausses +3
-            |Feet = Agwu's Pigaches
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI.
-        Updated 2025 Jun. 29
-    }}
-    {{
-        Guide Equipment Set
-        |Set Name Background=#303030
-        |Set Name Text Color=
-        |Set Name Text Shadow=#000080
-        |Set Name=Spaekona Coat + Mythic AM2 (Blizzaja)
-        |Set Border Color=#51414F
-        |Equipment Set=
-        {{
-            Equipment Set
-            |CaptionTop = Free Nuke
-            |CaptionBottom = 20237 damage (189 TP)
-            |Main = Laevateinn (Level 119 III)
-            |Sub = Enki Strap
-            |Range =
-            |Ammo = Sroda Tathlum
-            |Head = Agwu's Cap
-            |Neck = Src. Stole +2
-            |Ear1 = Malignance Earring
-            |Ear2 = Regal Earring
-            |Body = Spae. Coat +4
-            |Hands = Wicce Gloves +3
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Freke Ring
-            |Back = Taranus's Cape
-            |BackAug = INT, Magic Attack
-            |Waist = Skrymir Cord +1
-            |Legs = Wicce Chausses +3
-            |Feet = Agwu's Pigaches
-            |List = Y
-            |Background =
-        }}
-        {{
-            Equipment Set
-            |CaptionTop = Magic Burst
-            |CaptionBottom = 89797 damage (189 TP)
-            |Main = Laevateinn (Level 119 III)
-            |Sub = Enki Strap
-            |Range =
-            |Ammo = Sroda Tathlum
-            |Head = Agwu's Cap
-            |Neck = Src. Stole +2
-            |Ear1 = Malignance Earring
-            |Ear2 = Regal Earring
-            |Body = Spae. Coat +4
-            |Hands = Agwu's Gages
-            |Ring1 = Mujin Band
-            |Ring2 = Freke Ring
-            |Back = Taranus's Cape
-            |BackAug = INT, Magic Attack
-            |Waist = Skrymir Cord +1
-            |Legs = Wicce Chausses +3
-            |Feet = Agwu's Pigaches
-            |List = Y
-            |Background =
-        }}
-        |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI.
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 }}
 
@@ -275,7 +274,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         |Set Name Background=#303030
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Casting: 5/5 Relic (Magic Accuracy Reference)
+        |Set Name= Casting: 5/5 Relic
         |Set Border Color=#51414F
         |Equipment Set=
         {{
@@ -288,8 +287,8 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Ammo = Sroda Tathlum
             |Head = Arch. Petasos +4
             |Neck = Sibyl Scarf
-            |Ear1 = Malignance Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Regal Earring
+            |Ear2 = Malignance Earring
             |Body = Arch. Coat +4
             |Hands = Arch. Gloves +4
             |Ring1 = Freke Ring
@@ -305,29 +304,29 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Magic Burst
-            |CaptionBottom = 95819 damage
+            |CaptionBottom = 95814 damage
             |Main = Bunzi's Rod
             |Sub = Ammurapi Shield
             |Range =
-            |Ammo = Ghastly Tathlum +1
+            |Ammo = Sroda Tathlum
             |Head = Arch. Petasos +4
             |Neck = Src. Stole +2
-            |Ear1 = Malignance Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Regal Earring
+            |Ear2 = Hoxne Earring
             |Body = Arch. Coat +4
             |Hands = Arch. Gloves +4
-            |Ring1 = Freke Ring
-            |Ring2 = Mujin Band
+            |Ring1 = Mujin Band
+            |Ring2 = Freke Ring
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
-            |Waist = Skrymir Cord +1
+            |Waist = Sacro Cord
             |Legs = Arch. Tonban +4
             |Feet = Arch. Sabots +4
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI.
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 
     {{
@@ -372,12 +371,12 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Ammo = Ghastly Tathlum +1
             |Head = Arch. Petasos +4
             |Neck = Src. Stole +2
-            |Ear1 = Static Earring
-            |Ear2 = Malignance Earring
+            |Ear1 = Malignance Earring
+            |Ear2 = Static Earring
             |Body = Arch. Coat +4
             |Hands = Arch. Gloves +4
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Freke Ring
+            |Ring1 = Freke Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
             |Waist = Acuity Belt +1
@@ -386,8 +385,8 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI + Aftermath Level 2
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI + AM2
+        Updated 2026 May 03
     }}
 
     {{
@@ -395,7 +394,67 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         |Set Name Background=#303030
         |Set Name Text Color=
         |Set Name Text Shadow=#000080
-        |Set Name= Casting: 5/5 Relic + Staff
+        |Set Name= Casting: 5/5 Relic + Opashoro (no aftermath)
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = Free Nuke
+            |CaptionBottom = 21649 damage
+            |Main = Opashoro (Level 119 II)
+            |Sub = Enki Strap
+            |Range =
+            |Ammo = Sroda Tathlum
+            |Head = Arch. Petasos +4
+            |Neck = Saevus Pendant +1
+            |Ear1 = Malignance Earring
+            |Ear2 = Regal Earring
+            |Body = Arch. Coat +4
+            |Hands = Arch. Gloves +4
+            |Ring1 = Freke Ring
+            |Ring2 = Metamor. Ring +1
+            |Back = Taranus's Cape
+            |BackAug = INT, Magic Attack
+            |Waist = Skrymir Cord +1
+            |Legs = Arch. Tonban +4
+            |Feet = Arch. Sabots +4
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = Magic Burst
+            |CaptionBottom = 93317 damage
+            |Main = Opashoro (Level 119 II)
+            |Sub = Enki Strap
+            |Range =
+            |Ammo = Ghastly Tathlum +1
+            |Head = Arch. Petasos +4
+            |Neck = Src. Stole +2
+            |Ear1 = Static Earring
+            |Ear2 = Regal Earring
+            |Body = Arch. Coat +4
+            |Hands = Arch. Gloves +4
+            |Ring1 = Mujin Band
+            |Ring2 = Freke Ring
+            |Back = Taranus's Cape
+            |BackAug = INT, Magic Attack
+            |Waist = Skrymir Cord +1
+            |Legs = Arch. Tonban +4
+            |Feet = Arch. Sabots +4
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI
+        Updated 2026 May 03
+    }}
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#303030
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Casting: 5/5 Relic + Marin Staff +1
         |Set Border Color=#51414F
         |Equipment Set=
         {{
@@ -408,12 +467,12 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Ammo = Sroda Tathlum
             |Head = Arch. Petasos +4
             |Neck = Saevus Pendant +1
-            |Ear1 = Malignance Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Regal Earring
+            |Ear2 = Malignance Earring
             |Body = Arch. Coat +4
             |Hands = Arch. Gloves +4
-            |Ring1 = Shiva Ring +1
-            |Ring2 = Freke Ring
+            |Ring1 = Freke Ring
+            |Ring2 = Shiva Ring +1
             |Back = Taranus's Cape
             |BackAug = INT, Magic Attack
             |Waist = Skrymir Cord +1
@@ -432,8 +491,8 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Ammo = Sroda Tathlum
             |Head = Arch. Petasos +4
             |Neck = Src. Stole +2
-            |Ear1 = Static Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Regal Earring
+            |Ear2 = Static Earring
             |Body = Arch. Coat +4
             |Hands = Arch. Gloves +4
             |Ring1 = Mujin Band
@@ -447,8 +506,9 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH vs 280 INT and 100% resist rank. Blizzard VI
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
+
 }}
 
 {{
@@ -465,10 +525,34 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = No buffs
+            |CaptionTop =
             |CaptionBottom = 929 TP Return
-            |Main = Laevateinn (Level 119 III)
-            |Sub = Enki Strap
+            |Main =
+            |Sub =
+            |Range =
+            |Ammo = Seraphic Ampulla
+            |Head = Mall. Chapeau +2
+            |Neck = Combatant's Torque
+            |Ear1 = Dedition Earring
+            |Ear2 = Crep. Earring
+            |Body = Merlinic Jubbah
+            |Hands = Merlinic Dastanas
+            |Ring1 = Chirich Ring +1
+            |Ring2 = Crepuscular Ring
+            |Back = Taranus's Cape
+            |BackAug = INT, Store TP
+            |Waist = Oneiros Rope
+            |Legs = Perdition Slops
+            |Feet = Merlinic Crackows
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = Khatvanga
+            |CaptionBottom = 1113 TP Return
+            |Main = Khatvanga
+            |Sub =
             |Range =
             |Ammo = Seraphic Ampulla
             |Head = Mall. Chapeau +2
@@ -488,7 +572,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH Thunder VI
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 }}
 
@@ -506,30 +590,30 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Magic Buffs
-            |CaptionBottom = 34620 damage
+            |CaptionTop = Magic buffs
+            |CaptionBottom = 35761 damage
             |Main = Laevateinn (Level 119 III)
             |Sub = Enki Strap
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Pixie Hairpin +1
             |Neck = Src. Stole +2
-            |Ear1 = Malignance Earring
+            |Ear1 = Hoxne Earring
             |Ear2 = Regal Earring
             |Body = Nyame Mail
-            |Hands = Wicce Gloves +3
+            |Hands = Indom. Gloves
             |Ring1 = Epaminondas's Ring
             |Ring2 = Archon Ring
             |Back = Taranus's Cape
             |BackAug = INT, Weapon Skill Damage
             |Waist = Orpheus's Sash
-            |Legs = Wicce Chausses +3
-            |Feet = Nyame Sollerets
+            |Legs = Indom. Tonban
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLM/SCH: 2900 TP + Aftermath Level 2
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 BLM/SCH: 2900 TP + AM2
+        Updated 2026 May 03
     }}
 
     {{
@@ -542,9 +626,9 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Magic Buffs
-            |CaptionBottom = 31429 damage
-            |Main = Laevateinn (Level 119 III)
+            |CaptionTop = Magic buffs
+            |CaptionBottom = 30942 damage
+            |Main = Opashoro (Level 119 II)
             |Sub = Alber Strap
             |Range =
             |Ammo = Sroda Tathlum
@@ -553,19 +637,19 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Ear1 = Moonshade Earring
             |Ear2 = Malignance Earring
             |Body = Nyame Mail
-            |Hands = Jhakri Cuffs +2
+            |Hands = Indom. Gloves
             |Ring1 = Epaminondas's Ring
             |Ring2 = Archon Ring
             |Back = Taranus's Cape
-            |BackAug = INT, Weapon Skill Damage
+            |BackAug = STR, Weapon Skill Damage
             |Waist = Orpheus's Sash
             |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLM/SCH: 2000 TP + Aftermath Level 2
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 BLM/SCH: 2000 TP
+        Updated 2026 May 03
     }}
 
     {{
@@ -578,32 +662,32 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Magic Buffs
-            |CaptionBottom = 22759 damage
-            |Main = Laevateinn (Level 119 III)
+            |CaptionTop = Magic buffs
+            |CaptionBottom = 23170 damage
+            |Main = Khatvanga
             |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Sroda Tathlum
-            |Head = Agwu's Cap
+            |Head = Indom. Petasos
             |Neck = Quanpur Necklace
             |Ear1 = Moonshade Earring
-            |Ear2 = Malignance Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
-            |Hands = Jhakri Cuffs +2
+            |Hands = Indom. Gloves
             |Ring1 = Epaminondas's Ring
             |Ring2 = Freke Ring
             |Back = Taranus's Cape
             |BackAug = STR, Weapon Skill Damage
             |Waist = Orpheus's Sash
             |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLM/SCH: 2000 TP + Aftermath Level 2
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 BLM/SCH: 2000 TP
+        Updated 2026 May 03
     }}
-
+    
 
     {{
         Guide Equipment Set
@@ -616,7 +700,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 12053 damage
+            |CaptionBottom = 12272 damage
             |Main = Xoanon
             |Sub = Rigorous Grip +1
             |Range =
@@ -624,7 +708,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -640,7 +724,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 12053 damage
+            |CaptionBottom = 12272 damage
             |Main = Xoanon
             |Sub = Rigorous Grip +1
             |Range =
@@ -648,7 +732,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -662,7 +746,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH: 2000 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 
     {{
@@ -676,15 +760,15 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 11258 damage
+            |CaptionBottom = 11530 damage
             |Main = Khatvanga
             |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Nyame Helm
             |Neck = Fotia Gorget
-            |Ear1 = Brutal Earring
-            |Ear2 = Balder Earring +1
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -700,7 +784,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 12943 damage
+            |CaptionBottom = 13117 damage
             |Main = Khatvanga
             |Sub = Enki Strap
             |Range =
@@ -708,7 +792,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Brutal Earring
-            |Ear2 = Regal Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -722,7 +806,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 
     {{
@@ -736,15 +820,15 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 11031 damage
+            |CaptionBottom = 11377 damage
             |Main = Claustrum (Level 119 III)
             |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Oshasha's Treatise
             |Head = Nyame Helm
             |Neck = Fotia Gorget
-            |Ear1 = Regal Earring
-            |Ear2 = Ishvara Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -760,15 +844,15 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 12629 damage
+            |CaptionBottom = 12869 damage
             |Main = Claustrum (Level 119 III)
             |Sub = Enki Strap
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
             |Neck = Fotia Gorget
-            |Ear1 = Ishvara Earring
-            |Ear2 = Regal Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -781,8 +865,8 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 BLM/SCH: 1200 TP
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 BLM/SCH: 1000 TP + AM1
+        Updated 2026 May 03
     }}
 
     {{
@@ -796,7 +880,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 28411 damage
+            |CaptionBottom = 29088 damage
             |Main = Drepanum
             |Sub = Rigorous Grip +1
             |Range =
@@ -804,7 +888,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -820,7 +904,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 35178 damage
+            |CaptionBottom = 35684 damage
             |Main = Drepanum
             |Sub = Rigorous Grip +1
             |Range =
@@ -828,7 +912,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -842,7 +926,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH: 2000 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 
     {{
@@ -856,7 +940,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 23876 damage
+            |CaptionBottom = 24555 damage
             |Main = Maliya Sickle +1
             |Sub = Rigorous Grip +1
             |Range =
@@ -864,7 +948,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Head = Nyame Helm
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Mache Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -880,7 +964,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 29625 damage
+            |CaptionBottom = 30186 damage
             |Main = Maliya Sickle +1
             |Sub = Rigorous Grip +1
             |Range =
@@ -888,7 +972,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Ishvara Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -902,7 +986,7 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH: 2000 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 
     {{
@@ -915,8 +999,8 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Magic Buffs
-            |CaptionBottom = 39314 damage
+            |CaptionTop = Magic buffs
+            |CaptionBottom = 40636 damage
             |Main = Pixquizpan +1
             |Sub = Rigorous Grip +1
             |Range =
@@ -924,44 +1008,44 @@ The prime staff ([[Opashoro]]) was not tested due to missing information on its 
             |Head = Pixie Hairpin +1
             |Neck = Saevus Pendant +1
             |Ear1 = Moonshade Earring
-            |Ear2 = Malignance Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
-            |Hands = Jhakri Cuffs +2
+            |Hands = Indom. Gloves
             |Ring1 = Epaminondas's Ring
             |Ring2 = Archon Ring
             |Back = Taranus's Cape
             |BackAug = INT, Weapon Skill Damage
             |Waist = Orpheus's Sash
             |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = Melee Buffs
-            |CaptionBottom = 28011 damage
+            |CaptionTop = Mid buff
+            |CaptionBottom = 29369 damage
             |Main = Pixquizpan +1
-            |Sub = Alber Strap
+            |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Sroda Tathlum
             |Head = Pixie Hairpin +1
             |Neck = Saevus Pendant +1
             |Ear1 = Moonshade Earring
-            |Ear2 = Malignance Earring
-            |Body = Nyame Mail
-            |Hands = Jhakri Cuffs +2
+            |Ear2 = Hoxne Earring
+            |Body = Indomitable Coat
+            |Hands = Indom. Gloves
             |Ring1 = Epaminondas's Ring
             |Ring2 = Archon Ring
             |Back = Taranus's Cape
             |BackAug = INT, Weapon Skill Damage
             |Waist = Orpheus's Sash
             |Legs = Nyame Flanchard
-            |Feet = Agwu's Pigaches
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 BLM/SCH: 2000 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 }}
