@@ -22,32 +22,32 @@ All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of B
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = Mid buff
-            |CaptionBottom = 17850 damage
+            |CaptionTop = High buff
+            |CaptionBottom = 29083 damage
             |Main = Nirvana (Level 119 III)
             |Sub = Alber Strap
             |Range =
             |Ammo = Oshasha's Treatise
-            |Head = Nyame Helm
+            |Head = Indom. Petasos
             |Neck = Saevus Pendant +1
-            |Ear1 = Crematio Earring
-            |Ear2 = Friomisi Earring
-            |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
-            |Ring1 = Weather. Ring +1
-            |Ring2 = Metamor. Ring +1
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
+            |Body = Indomitable Coat
+            |Hands = Indom. Gloves
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Weather. Ring +1
             |Back = Campestres's Cape
             |BackAug = MND, Weapon Skill Damage
             |Waist = Orpheus's Sash
-            |Legs = Nyame Flanchard
-            |Feet = Nyame Sollerets
+            |Legs = Indom. Tonban
+            |Feet = Indom. Sabots
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 SMN/RDM: 1200 TP + Shiva's Favor
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
-
+    
     {{
         Guide Equipment Set
         |Set Name Background=#1A7A38
@@ -59,19 +59,19 @@ All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of B
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 9301 damage
+            |CaptionBottom = 13555 damage
             |Main = Khatvanga
             |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Ghastly Tathlum +1
             |Head = Nyame Helm
-            |Neck = Null Loop
-            |Ear1 = Mache Earring +1
-            |Ear2 = Mache Earring +1
+            |Neck = Fotia Gorget
+            |Ear1 = Hoxne Earring
+            |Ear2 = Sroda Earring
             |Body = Nyame Mail
-            |Hands = Gazu Bracelets +1
-            |Ring1 = Metamor. Ring +1
-            |Ring2 = Cacoethic Ring +1
+            |Hands = Nyame Gauntlets
+            |Ring1 = Epaminondas's Ring
+            |Ring2 = Metamor. Ring +1
             |Back = Campestres's Cape
             |BackAug = INT, DA
             |Waist = Fotia Belt
@@ -83,29 +83,29 @@ All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of B
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 13316 damage
+            |CaptionBottom = 14686 damage
             |Main = Khatvanga
-            |Sub = Khonsu
+            |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
-            |Neck = Null Loop
-            |Ear1 = Domin. Earring +1
+            |Neck = Fotia Gorget
+            |Ear1 = Hoxne Earring
             |Ear2 = Sroda Earring
             |Body = Bunzi's Robe
-            |Hands = Bunzi's Gloves
+            |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Metamor. Ring +1
             |Back = Campestres's Cape
             |BackAug = INT, DA
-            |Waist = Fotia Belt
+            |Waist = Windbuffet Belt +1
             |Legs = Nyame Flanchard
             |Feet = Nyame Sollerets
             |List = Y
             |Background =
         }}
         |Equipment Set Notes=ML30 SMN/RDM: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
 
     {{
@@ -119,15 +119,15 @@ All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of B
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 10316 damage
+            |CaptionBottom = 11896 damage
             |Main = Xoanon
-            |Sub = Khonsu
+            |Sub = Rigorous Grip +1
             |Range =
-            |Ammo = Oshasha's Treatise
+            |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -143,7 +143,7 @@ All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of B
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 10657 damage
+            |CaptionBottom = 11896 damage
             |Main = Xoanon
             |Sub = Rigorous Grip +1
             |Range =
@@ -151,7 +151,7 @@ All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of B
             |Head = Nyame Helm
             |Neck = Fotia Gorget
             |Ear1 = Moonshade Earring
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -165,8 +165,9 @@ All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of B
             |Background =
         }}
         |Equipment Set Notes=ML30 SMN/RDM: 1200 TP
-        Updated 2025 Jun. 29
+        Updated 2026 May 03
     }}
+
 
     {{
         Guide Equipment Set
@@ -179,15 +180,15 @@ All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of B
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 9542 damage
+            |CaptionBottom = 12745 damage
             |Main = Claustrum (Level 119 III)
             |Sub = Rigorous Grip +1
             |Range =
             |Ammo = Oshasha's Treatise
             |Head = Nyame Helm
             |Neck = Fotia Gorget
-            |Ear1 = Ishvara Earring
-            |Ear2 = Telos Earring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
@@ -203,17 +204,16 @@ All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of B
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 12392 damage
+            |CaptionBottom = 13338 damage
             |Main = Claustrum (Level 119 III)
-            |Sub = Khonsu
+            |Sub = Rigorous Grip +1
             |Range =
-            |RangeAug =
             |Ammo = Crepuscular Pebble
             |Head = Nyame Helm
             |Neck = Fotia Gorget
-            |Ear1 = Ishvara Earring
-            |Ear2 = Sroda Earring
-            |Body = Bunzi's Robe
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
+            |Body = Nyame Mail
             |Hands = Nyame Gauntlets
             |Ring1 = Epaminondas's Ring
             |Ring2 = Metamor. Ring +1
@@ -225,8 +225,7 @@ All sets enabled Crimson Howl, Crystal Blessing, and Ifrit's Favor. Garland of B
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 SMN/RDM: 1200 TP
-        Updated 2025 Jun. 29
+        |Equipment Set Notes=ML30 SMN/RDM: 1000 TP + AM1
+        Updated 2026 May 03
     }}
-
 }}
