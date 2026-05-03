@@ -20,41 +20,42 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 29734 damage
+            |CaptionBottom = 30371 damage
             |Main = Kenkonken (Level 119 III)
             |Sub =
             |Range = Neo Animator
             |Ammo =
             |Head = Mpaca's Cap
             |Neck = Fotia Gorget
-            |Ear1 = Moonshade Earring
-            |Ear2 = Schere Earring
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Mpaca's Doublet
             |Hands = Ryuo Tekko +1
             |HandsAug = Path A
             |Ring1 = Gere Ring
-            |Ring2 = Regal Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Visucius's Mantle
             |BackAug = STR, Crit Rate
             |Waist = Fotia Belt
             |Legs = Mpaca's Hose
-            |Feet = Mpaca's Boots
+            |Feet = Ryuo Sune-Ate +1
+            |FeetAug = Path D
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 33669 damage
+            |CaptionBottom = 34506 damage
             |Main = Kenkonken (Level 119 III)
             |Sub =
             |Range = Neo Animator
             |Ammo =
             |Head = Kara. Cappello +3
             |Neck = Fotia Gorget
-            |Ear1 = Schere Earring
-            |Ear2 = Sroda Earring
-            |Body = Nyame Mail
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
+            |Body = Duty Cyclas
             |Hands = Ryuo Tekko +1
             |HandsAug = Path A
             |Ring1 = Sroda Ring
@@ -67,8 +68,8 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 PUP/WAR: 1300 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 PUP/WAR: 1300 TP + AM3
+        Updated 2026 May 03
     }}
 
     {{
@@ -82,7 +83,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 46190 damage
+            |CaptionBottom = 37316 damage
             |Main = Varga Purnikawa (Level 119 II)
             |Sub =
             |Range = Neo Animator
@@ -90,10 +91,10 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Head = Mpaca's Cap
             |Neck = Rep. Plat. Medal
             |Ear1 = Moonshade Earring
-            |Ear2 = Schere Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Pitre Dastanas +4
-            |Ring1 = Niqmaddu Ring
+            |Ring1 = Gere Ring
             |Ring2 = Regal Ring
             |Back = Visucius's Mantle
             |BackAug = STR, Weapon Skill Damage
@@ -106,7 +107,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 62366 damage
+            |CaptionBottom = 50417 damage
             |Main = Varga Purnikawa (Level 119 II)
             |Sub =
             |Range = Neo Animator
@@ -114,11 +115,11 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Head = Mpaca's Cap
             |Neck = Pup. Collar +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Schere Earring
-            |Body = Foire Tobe +4
+            |Ear2 = Hoxne Earring
+            |Body = Nyame Mail
             |Hands = Pitre Dastanas +4
-            |Ring1 = Epaminondas's Ring
-            |Ring2 = Niqmaddu Ring
+            |Ring1 = Sroda Ring
+            |Ring2 = Epaminondas's Ring
             |Back = Visucius's Mantle
             |BackAug = STR, Weapon Skill Damage
             |Waist = Moonbow Belt +1
@@ -127,8 +128,8 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 PUP/WAR: 1900 TP + Aftermath Level 2
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 PUP/WAR: 2000 TP + AM2
+        Updated 2026 May 03
     }}
 
 
@@ -143,15 +144,15 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 30448 damage
+            |CaptionBottom = 31162 damage
             |Main = Verethragna (Level 119 III)
             |Sub =
             |Range = Neo Animator
             |Ammo =
             |Head = Mpaca's Cap
             |Neck = Fotia Gorget
-            |Ear1 = Schere Earring
-            |Ear2 = Sroda Earring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Schere Earring
             |Body = Mpaca's Doublet
             |Hands = Mpaca's Gloves
             |Ring1 = Gere Ring
@@ -167,32 +168,32 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 33505 damage
+            |CaptionBottom = 35163 damage
             |Main = Verethragna (Level 119 III)
             |Sub =
             |Range = Neo Animator
             |Ammo =
             |Head = Kara. Cappello +3
             |Neck = Pup. Collar +2
-            |Ear1 = Schere Earring
-            |Ear2 = Sroda Earring
-            |Body = Mpaca's Doublet
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
+            |Body = Duty Cyclas
             |Hands = Ryuo Tekko +1
             |HandsAug = Path A
-            |Ring1 = Sroda Ring
-            |Ring2 = Gere Ring
+            |Ring1 = Gere Ring
+            |Ring2 = Niqmaddu Ring
             |Back = Visucius's Mantle
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Ryuo Sune-Ate +1
-            |FeetAug = Path D
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 PUP/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 PUP/WAR: 1300 TP + AM1
+        Updated 2026 May 03
     }}
+
 
     {{
         Guide Equipment Set
@@ -205,16 +206,16 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 24630 damage
+            |CaptionBottom = 25983 damage
             |Main = Godhands
             |Sub =
             |Range = Neo Animator
             |Ammo =
-            |Head = Mpaca's Cap
+            |Head = Duty Crown
             |Neck = Fotia Gorget
             |Ear1 = Schere Earring
-            |Ear2 = Mache Earring +1
-            |Body = Mpaca's Doublet
+            |Ear2 = Hoxne Earring
+            |Body = Duty Cyclas
             |Hands = Pitre Dastanas +4
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
@@ -222,22 +223,22 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |BackAug = DEX, DA
             |Waist = Moonbow Belt +1
             |Legs = Nyame Flanchard
-            |Feet = Mpaca's Boots
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 35605 damage
+            |CaptionBottom = 36568 damage
             |Main = Godhands
             |Sub =
             |Range = Neo Animator
             |Ammo =
             |Head = Kara. Cappello +3
             |Neck = Pup. Collar +2
-            |Ear1 = Schere Earring
-            |Ear2 = Sroda Earring
+            |Ear1 = Hoxne Earring
+            |Ear2 = Schere Earring
             |Body = Malignance Tabard
             |Hands = Malignance Gloves
             |Ring1 = Gere Ring
@@ -246,14 +247,13 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |BackAug = DEX, DA
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Karagoz Scarpe +3
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 PUP/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 PUP/WAR: 1300 TP + AM1
+        Updated 2026 May 03
     }}
-
 
     {{
         Guide Equipment Set
@@ -266,7 +266,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 35962 damage
+            |CaptionBottom = 39296 damage
             |Main = Godhands
             |Sub =
             |Range = Neo Animator
@@ -275,22 +275,22 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Neck = Pup. Collar +2
             |Ear1 = Moonshade Earring
             |Ear2 = Schere Earring
-            |Body = Nyame Mail
-            |Hands = Nyame Gauntlets
+            |Body = Duty Cyclas
+            |Hands = Pitre Dastanas +4
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Visucius's Mantle
             |BackAug = STR, DA
             |Waist = Moonbow Belt +1
-            |Legs = Nyame Flanchard
-            |Feet = Karagoz Scarpe +3
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 38019 damage
+            |CaptionBottom = 41339 damage
             |Main = Godhands
             |Sub =
             |Range = Neo Animator
@@ -298,8 +298,8 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Head = Mpaca's Cap
             |Neck = Pup. Collar +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Sroda Earring
-            |Body = Nyame Mail
+            |Ear2 = Schere Earring
+            |Body = Duty Cyclas
             |Hands = Nyame Gauntlets
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
@@ -307,12 +307,12 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |BackAug = VIT, DA
             |Waist = Moonbow Belt +1
             |Legs = Mpaca's Hose
-            |Feet = Nyame Sollerets
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 PUP/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 PUP/WAR: 1300 TP
+        Updated 2026 May 03
     }}
 
     {{
@@ -326,7 +326,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 41641 damage
+            |CaptionBottom = 42129 damage
             |Main = Dragon Fangs
             |Sub =
             |Range = Neo Animator
@@ -334,7 +334,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Head = Kara. Cappello +3
             |Neck = Pup. Collar +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Foire Tobe +4
             |Hands = Pitre Dastanas +4
             |Ring1 = Epaminondas's Ring
@@ -350,7 +350,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 41641 damage
+            |CaptionBottom = 42129 damage
             |Main = Dragon Fangs
             |Sub =
             |Range = Neo Animator
@@ -358,7 +358,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Head = Kara. Cappello +3
             |Neck = Pup. Collar +2
             |Ear1 = Moonshade Earring
-            |Ear2 = Domin. Earring +1
+            |Ear2 = Hoxne Earring
             |Body = Foire Tobe +4
             |Hands = Pitre Dastanas +4
             |Ring1 = Epaminondas's Ring
@@ -372,7 +372,7 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |Background =
         }}
         |Equipment Set Notes=ML30 PUP/WAR: 1800 TP
-        Updated 2025 Jun. 28
+        Updated 2026 May 03
     }}
 
 
@@ -387,18 +387,18 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = Mid buff
-            |CaptionBottom = 24148 damage
+            |CaptionBottom = 24745 damage
             |Main = Karambit
             |Sub =
             |Range = Neo Animator
             |Ammo =
             |Head = Kara. Cappello +3
             |Neck = Fotia Gorget
-            |Ear1 = Schere Earring
-            |Ear2 = Kara. Earring +1
+            |Ear1 = Alabaster Earring
+            |Ear2 = Hoxne Earring
             |Body = Nyame Mail
             |Hands = Pitre Dastanas +4
-            |Ring1 = Gere Ring
+            |Ring1 = Sroda Ring
             |Ring2 = Regal Ring
             |Back = Visucius's Mantle
             |BackAug = STR, Weapon Skill Damage
@@ -411,15 +411,15 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         {{
             Equipment Set
             |CaptionTop = High buff
-            |CaptionBottom = 33430 damage
+            |CaptionBottom = 34261 damage
             |Main = Karambit
             |Sub =
             |Range = Neo Animator
             |Ammo =
             |Head = Kara. Cappello +3
             |Neck = Pup. Collar +2
-            |Ear1 = Schere Earring
-            |Ear2 = Odnowa Earring +1
+            |Ear1 = Hoxne Earring
+            |Ear2 = Alabaster Earring
             |Body = Nyame Mail
             |Hands = Malignance Gloves
             |Ring1 = Sroda Ring
@@ -432,8 +432,8 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 PUP/WAR: 1200 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 PUP/WAR: 1300 TP
+        Updated 2026 May 03
     }}
 
 }}
@@ -454,55 +454,118 @@ Most Odyssey equipment assumes Rank 30. Nyame alone assumes Rank 25 Path B.
         |Equipment Set=
         {{
             Equipment Set
-            |CaptionTop = 50% DT
-            |CaptionBottom = 3.900 s
+            |CaptionTop = -50% DT
+            |CaptionBottom = 3.619 s
             |Main = Kenkonken (Level 119 III)
             |Sub =
             |Range = Neo Animator
             |Ammo =
-            |Head = Malignance Chapeau
+            |Head = Duty Crown
             |Neck = Lissome Necklace
-            |Ear1 = Dedition Earring
-            |Ear2 = Schere Earring
-            |Body = Mpaca's Doublet
+            |Ear1 = Alabaster Earring
+            |Ear2 = Dedition Earring
+            |Body = Duty Cyclas
             |Hands = Karagoz Guanti +3
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Visucius's Mantle
-            |BackAug = INT, Store TP
+            |BackAug = DEX, Store TP
             |Waist = Moonbow Belt +1
-            |Legs = Ryuo Hakama +1
-            |LegsAug = Path D
-            |Feet = Malignance Boots
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
         {{
             Equipment Set
-            |CaptionTop = 25% DT
-            |CaptionBottom = 3.796 s
+            |CaptionTop = -25% DT
+            |CaptionBottom = 3.545 s
             |Main = Kenkonken (Level 119 III)
             |Sub =
             |Range = Neo Animator
             |Ammo =
-            |Head = Ryuo Somen +1
-            |HeadAug = Path C
+            |Head = Duty Crown
             |Neck = Lissome Necklace
-            |Ear1 = Dedition Earring
-            |Ear2 = Schere Earring
-            |Body = Mpaca's Doublet
+            |Ear1 = Schere Earring
+            |Ear2 = Dedition Earring
+            |Body = Duty Cyclas
             |Hands = Malignance Gloves
+            |Ring1 = Gere Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Visucius's Mantle
+            |BackAug = DEX, Store TP
+            |Waist = Moonbow Belt +1
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
+            |List = Y
+            |Background =
+        }}
+        |Equipment Set Notes=ML30 PUP/WAR: 1000 TP + AM3
+        Updated 2026 May 03
+    }}
+
+
+
+
+
+    {{
+        Guide Equipment Set
+        |Set Name Background=#384048
+        |Set Name Text Color=
+        |Set Name Text Shadow=#000080
+        |Set Name= Varga Purnikawa TP
+        |Set Border Color=#51414F
+        |Equipment Set=
+        {{
+            Equipment Set
+            |CaptionTop = -50% DT
+            |CaptionBottom = 3.712 s
+            |Main = Varga Purnikawa (Level 119 II)
+            |Sub =
+            |Range = Neo Animator
+            |Ammo =
+            |Head = Duty Crown
+            |Neck = Lissome Necklace
+            |Ear1 = Alabaster Earring
+            |Ear2 = Schere Earring
+            |Body = Duty Cyclas
+            |Hands = Karagoz Guanti +3
+            |Ring1 = Gere Ring
+            |Ring2 = Niqmaddu Ring
+            |Back = Visucius's Mantle
+            |BackAug = DEX, Store TP
+            |Waist = Moonbow Belt +1
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
+            |List = Y
+            |Background =
+        }}
+        {{
+            Equipment Set
+            |CaptionTop = -25% DT
+            |CaptionBottom = 3.637 s
+            |Main = Varga Purnikawa (Level 119 II)
+            |Sub =
+            |Range = Neo Animator
+            |Ammo =
+            |Head = Duty Crown
+            |Neck = Lissome Necklace
+            |Ear1 = Schere Earring
+            |Ear2 = Alabaster Earring
+            |Body = Duty Cyclas
+            |Hands = Duty Gauntlets
             |Ring1 = Gere Ring
             |Ring2 = Niqmaddu Ring
             |Back = Null Shawl
             |Waist = Moonbow Belt +1
-            |Legs = Ryuo Hakama +1
-            |LegsAug = Path D
-            |Feet = Malignance Boots
+            |Legs = Duty Flanchard
+            |Feet = Duty Sollerets
             |List = Y
             |Background =
         }}
-        |Equipment Set Notes=ML30 PUP/WAR: 1000 TP
-        Updated 2025 Jun. 28
+        |Equipment Set Notes=ML30 PUP/WAR: 1000 TP + AM2
+        Updated 2026 May 03
     }}
+
+
 }}
